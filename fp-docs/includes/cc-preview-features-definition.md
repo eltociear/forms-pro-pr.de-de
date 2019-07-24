@@ -1,0 +1,1 @@
+Bei einem Vorschaufeature handelt es sich um ein unvollständiges Feature, das jedoch vor der offiziellen Veröffentlichung für Kunden bereitgestellt wird, damit diese Feedback abgeben können. Die Vorschaufunktionen sind nicht für die Produktion vorgesehen und weisen möglicherweise eingeschränkte Funktionen auf.

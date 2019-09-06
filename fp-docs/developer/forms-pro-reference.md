@@ -1,24 +1,29 @@
 ---
 title: Entitätsreferenz für Microsoft Forms Pro (Microsoft Forms Pro | Dynamics 365 for Customer Engagement)| MicrosoftDocs
 description: Referenzdokumentation für die Entität von Microsoft Forms Pro.
+keywords: ''
+author: susikka
+ms.author: susikka
+manager: shujoshi
+applies_to: ''
 ms.date: 04/29/2019
 ms.service: crm-online
 ms.topic: reference
 ms.assetid: 0CCDE7D8-E6D8-4892-B293-A4F39DEE4B06
-author: susikka
-ms.author: susikka
-manager: shujoshi
+ms.custom: ''
 search.audienceType:
 - developer
 search.app:
 - PowerApps
 - D365CE
-ms.openlocfilehash: 7942de036e0f00077f16aaee7d2468c6fd8310ee
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: cd4727f0d8b95274659837c5095dd395a0358d39
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723354"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778913"
 ---
 # <a name="entity-reference-for-microsoft-forms-pro"></a>Entitätsreferenz für Microsoft Forms Pro
 

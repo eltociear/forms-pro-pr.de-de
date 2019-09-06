@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 72B81F9F-952B-4A58-83C7-9F68A5EF9B5C
 ms.custom: ''
-ms.openlocfilehash: ac29f3b0c4718bd1bbf861568295c208d32f8dc2
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 5d8ebc963aa8081f2edb6c91e7f91101b43b6c59
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723947"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778931"
 ---
 # <a name="create-a-branching-rule"></a>Erstellen einer Verzweigungsregel
 

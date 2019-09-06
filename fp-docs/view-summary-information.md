@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 2a379963-6fb9-41cd-ae21-83d32a84a6d1
 ms.custom: ''
-ms.openlocfilehash: a266608d176295f57ee6f30fe881bee23ec3f61e
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: cb3827b8b6a0ac39eb55cb69f432da75ad94c492
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723551"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777871"
 ---
 # <a name="view-summary-information-for-your-survey"></a>Zusammenfassung der Informationen für Ihre Umfrage anzeigen
 

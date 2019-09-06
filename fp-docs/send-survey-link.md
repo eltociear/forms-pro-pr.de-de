@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: de861eb8-b373-43b9-a1be-34d43c74349e
 ms.custom: ''
-ms.openlocfilehash: 9c8be3f72d5a7d079fbb01f34b6af67326926cbc
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 22e6398298046bf87a1c6415a207a39863716814
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724915"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778399"
 ---
 # <a name="send-a-survey-link-to-others"></a>Einen Umfrage-Link an andere senden
 

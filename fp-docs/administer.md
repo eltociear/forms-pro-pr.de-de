@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 4744BE88-5FDF-4FE7-A555-0A8D83EC86F0
 ms.custom: ''
-ms.openlocfilehash: d3aab3cd575616c6b9c2c5e892ffbbac2dc862f7
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 999ebea73f602e43a40c6e5b2634a0c0d53aa1da
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724211"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777915"
 ---
 # <a name="administer-forms-pro"></a>Formulare Pro verwalten
 

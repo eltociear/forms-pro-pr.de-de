@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 55FEBC29-69E8-4046-A1DA-D6701BEC16DD
 ms.custom: ''
-ms.openlocfilehash: 443fdca817fd5c19d0d743213c1c488dff74c4b2
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 04aa7de74493e8261188b8cf9ce6ad3aa8c9468f
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724563"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778091"
 ---
 # <a name="format-text-in-a-survey"></a>Text in einer Umfrage formatieren
 

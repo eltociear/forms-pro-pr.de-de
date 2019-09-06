@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 97526FE3-7523-48B0-A8F4-7C369AF78DB4
 ms.custom: ''
-ms.openlocfilehash: 53aa2263f5e68df385a99b10e3dd3cce0f2df445
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 7592f813691f4145a2d46c6244ad9bd07c1e06cf
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724035"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778795"
 ---
 # <a name="change-an-environment"></a>Eine Umgebung ändern
 

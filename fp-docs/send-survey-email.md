@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: c5d53c06-299d-43bc-a7ac-e6185c9695e3
 ms.custom: ''
-ms.openlocfilehash: d79d0ab258612891b679375a306c2c342039ff38
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: c6f2c80afd0390c6398ffe7811a3b509732cbd3f
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1725047"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778311"
 ---
 # <a name="send-a-survey-by-using-email"></a>Senden Sie eine Umfrage per E-Mail.
 

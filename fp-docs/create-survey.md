@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: c9dba997-e8dc-4e44-bbeb-ff9ba49fa23b
 ms.custom: ''
-ms.openlocfilehash: b440464d57e23b48b75ea53a583c9779d9d52232
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 56555bcab66c64c6c7b52e5ecc5d2c4c19ff737f
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723727"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777651"
 ---
 # <a name="create-a-survey"></a>Erstellen einer Befragung
 

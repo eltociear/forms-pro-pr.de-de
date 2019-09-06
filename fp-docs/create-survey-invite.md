@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 8579EFA2-7734-4516-ACFA-F65999983379
 ms.custom: ''
-ms.openlocfilehash: 4c678fce5c180647d17263fb4bfabf495420a5ce
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 2f94788927d27cb2d9171d6b86844f7b90d7c73c
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723771"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777607"
 ---
 # <a name="create-a-survey-invitation"></a>Erstellen einer Umfrageeinladung
 

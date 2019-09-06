@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 649b3390-c3a5-4166-a014-ae3cfd14cc71
 ms.custom: ''
-ms.openlocfilehash: f0a0691d88d0eb10821940d973bd731e3c4da838
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 9cc6a0efb76daa031b68ec16361672084faa6e60
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724519"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777471"
 ---
 # <a name="embed-survey-in-a-webpage"></a>Einbetten der Umfrage in eine Webseite
 

@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 07e97246-0eb2-4474-863b-363bd1a267fd
 ms.custom: ''
-ms.openlocfilehash: a39d4ce57857b9b0f897eee5202c475404a4b55b
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 695705a16e6dc7e2c6bfc98e922e0ffd8adab59c
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1725003"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778443"
 ---
 # <a name="preview-and-test-a-survey"></a>Vorschau und Test einer Umfrage
 

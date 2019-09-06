@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 984702f4-83ba-4d47-8d3d-ad14d452b211
 ms.custom: ''
-ms.openlocfilehash: 3d7b886803d10d91f12de7de6e525719481f96d8
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: b3571756933e21337412d8b88e0e52b8a8f4fe81
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724739"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778135"
 ---
 # <a name="share-a-survey-as-a-template"></a>Eine Umfrage als Vorlage freigeben
 

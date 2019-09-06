@@ -6,17 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 07/01/2019
+ms.date: 08/06/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: ef8aa6fd-48ec-4b74-adc8-737b915f15d1
 ms.custom: ''
-ms.openlocfilehash: 0305c97823caf1ec01a7290b4d236c11e31da434
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: f57c1d10ca4c0045f248e765ae1c08c67417a503
+ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724827"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "1863924"
 ---
 # <a name="get-started-with-forms-pro"></a>Erste Schritte mit Forms Pro
 
@@ -54,7 +56,7 @@ Ihre Testversion kann auch in den folgenden Szenarien herabgestuft werden:
 - Die Testlizenz ist abgelaufen.
 - Ein Administrator hat Ihre Lizenz entfernt.
 
-Wenn Ihre Testversion herabgestuft wird, wird eine Nachricht mit der Möglichkeit angezeigt, Ihre Umfrageergebnisse zu exportieren. Ihre Umfrage wird auch dann keine Antworten mehr erhalten, wenn Sie keine gültige Lizenz haben. Ihre Daten werden 90 Tage lang gespeichert und dann gelöscht, wenn Sie keine Lizenz erwerben.
+Wenn Ihre Testversion herabgestuft wird, wird eine Nachricht mit der Möglichkeit angezeigt, Ihre Umfrageergebnisse zu exportieren. Ihre Umfrage wird auch dann keine Antworten mehr erhalten, wenn Sie keine gültige Lizenz haben. Ihre Daten werden 90 Tage lang gespeichert und dann gelöscht, wenn Sie keine Lizenz erwerben, bevor die Testversion abläuft.
 
 ## <a name="provide-feedback-on-forms-pro"></a>Feedback zu Forms Pro geben
 

@@ -9,14 +9,15 @@ applies_to: ''
 ms.date: 07/01/2019
 ms.service: forms-pro
 ms.topic: article
-ms.assetid: ''
 ms.custom: ''
-ms.openlocfilehash: 9cb8e73a81deb9eb5cfcd47735c0a2ecd89421b0
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 140cb6400d71125a6c20bafb54dd34c856863092
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1725135"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778487"
 ---
 # <a name="microsoft-forms-pro-faq"></a>Microsoft Forms Pro FAQ
 

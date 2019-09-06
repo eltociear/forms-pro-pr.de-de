@@ -6,21 +6,21 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 08/06/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1AECC69F-B68A-4776-884A-C59770FC5C96
 ms.custom: ''
-ms.openlocfilehash: 41e01facdd849d2302e48e66d689aa384433e19b
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 8f1982a942ef975346c1523b21a8e038c6339b46
+ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1725179"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "1864100"
 ---
 # <a name="personalize-a-survey"></a>Personalisieren einer Umfrage
-
-
 
 Mit Platzhaltern können Sie Kundeninformationen mithilfe personalisierter Daten automatisch in Ihre Umfrage einfügen. Beispielsweise können Sie personalisierte Daten verwenden, um den Vornamen eines Kunden automatisch in eine Frage einzufügen, um ihn zu personalisieren.
 
@@ -50,6 +50,7 @@ Zum Auswählen oder Hinzufügen neuer personalisierter Daten:
 > - Sie können auch Einladungen zu Umfragen personalisieren. Mehr Informationen: [Personalisieren Sie eine E-Mail](send-survey-email.md#personalize-an-email).
 > - Verwenden Sie keine personenbezogenen Daten, wenn Sie planen, eine Umfrage anonym zu versenden. Bei einer anonymen Umfrage werden Platzhalter nicht durch aktuelle Daten ersetzt.
 > - Platzhalter für personalisierte Daten werden durch die in einer Umfrage-E-Mail in den entsprechenden Feldern angegebenen Werte ersetzt.
+> - Sie können maximal 15 personalisierte Datenenplatzhalter in einer Umfrage definieren.
 
 ## <a name="add-personalized-data-placeholders-to-a-question"></a>Hinzufügen von personalisierten Datenplatzhaltern zu einer Frage
 

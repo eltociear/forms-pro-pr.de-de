@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: b62a55f6-cb45-4b47-a610-155c7fffa496
 ms.custom: ''
-ms.openlocfilehash: e59684107b37df6ba391500476a64ad152a571e0
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: c6758b5965a1906ecefe510fe0a09b3cb9a977cc
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724695"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778223"
 ---
 # <a name="send-a-survey-qr-code"></a>Senden Sie einen QR-Code für eine Umfrage 
 

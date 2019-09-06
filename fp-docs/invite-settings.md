@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1f6ec6f5-b3d2-4305-8dca-3a0b67a1083c
 ms.custom: ''
-ms.openlocfilehash: e3ae897c7439fa81871776d7388548345984d95f
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: d314577be6b83294c00dc11996ed3299fd258507
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724475"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777559"
 ---
 # <a name="define-who-can-respond-to-a-survey"></a>Definieren Sie, wer an einer Umfrage teilnehmen darf. 
 

@@ -6,17 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 06/14/2019
+ms.date: 08/06/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 11ac9528-c0a6-4fe6-9886-d2a4bfaa72f4
 ms.custom: ''
-ms.openlocfilehash: f24cff34cdf393b6034454feaa544ff46c62125c
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: e8e6ad218e690ece25b29b8ddd3c109a60e3e6e2
+ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724783"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "1863968"
 ---
 # <a name="send-a-survey-by-using-microsoft-flow"></a>Senden einer Umfrage mit Microsoft Flow.
 
@@ -65,7 +67,7 @@ Im Feld **Empfängerdetails** können Sie Ihre Umfrageeinladungs- und Antwortdat
 
 |Name|Beschreibung|
 |---|----|
-|Bis|E-Mail-Adresse zum Versenden der Einladung zur Umfrage.<br>**Hinweis**: Die E-Mail-Adresse sollte gültig sein und nicht Null zurückgeben.|
+|Bis|E-Mail-Adresse zum Versenden der Einladung zur Umfrage. Wenn Sie mehreren E-Mail-Adressen eingeben, teilen Sie sie durch ein Semikolon.<br>**Hinweis**: Die E-Mail-Adresse sollte gültig sein und nicht Null zurückgeben.|
 |Umfrage|Die Umfrage soll gesendet werden.<br>**Hinweis**: Sie müssen eine Umfrage aus der Liste auswählen und dürfen keinen benutzerdefinierten Wert eingeben.|
 |E-Mail-Vorlage|E-Mail-Vorlage, die beim Senden der Einladung verwendet werden soll.<br>**Hinweis**: Sie müssen eine E-Mail-Vorlage aus der Liste auswählen und dürfen keinen benutzerdefinierten Wert eingeben.|
 |Bezug|Aufzeichnen, um die Einladung und Beantwortung einer Umfrage zu verknüpfen. Dieser Wert wird in der Umfrageeinladung im Feld **Betreff** gespeichert.|

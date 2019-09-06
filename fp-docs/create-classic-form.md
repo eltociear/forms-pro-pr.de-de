@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 37CEB9EE-BDD7-493F-B1C9-86F009FEEEC7
 ms.custom: ''
-ms.openlocfilehash: 7c93025e5aec144248d4cc855f6f9577fad93a9b
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: b38169b69b1c721cfb6258f83fe237aa7cee10ef
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724079"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778883"
 ---
 # <a name="create-a-classic-form"></a>Erstellen Sie ein klassisches Formular
 

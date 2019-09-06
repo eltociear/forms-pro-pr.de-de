@@ -1,24 +1,29 @@
 ---
 title: Entwickleranleitung zu Microsoft Forms Pro (Microsoft Forms Pro | Dynamics 365 for Customer Engagement)| MicrosoftDocs
 description: Dokumentation für Entwickler für Microsoft Forms Pro.
+keywords: ''
+author: susikka
+ms.author: susikka
+manager: shujoshi
+applies_to: ''
 ms.date: 04/29/2019
 ms.service: crm-online
 ms.topic: reference
 ms.assetid: 0CCDE7D8-E6D8-4892-B293-A4F39DEE4B06
-author: susikka
-ms.author: susikka
-manager: shujoshi
+ms.custom: ''
 search.audienceType:
 - developer
 search.app:
 - PowerApps
 - D365CE
-ms.openlocfilehash: 5c81f28f1c4656321d1b915467f7b347b40b1724
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 921c0700968af2b4282e84cae4fb98cbe446f7f8
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723355"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777589"
 ---
 # <a name="developer-guide-for-microsoft-forms-pro"></a>Entwickleranleitung für Microsoft Forms Pro
 

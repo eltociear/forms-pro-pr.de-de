@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 145f21c2-4635-4f5d-b7cf-03e90ec4b533
 ms.custom: ''
-ms.openlocfilehash: 9e4e8028b3f74fe60e2534bde79b19872e6d24df
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 372a4c84c3fac63e70530ed5f67f39a81011c061
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724255"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778663"
 ---
 # <a name="analyze-survey-responses"></a>Umfrageantworten analysieren
 

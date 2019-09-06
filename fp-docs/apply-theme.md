@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 4b8910fa-a7b3-485d-9128-0e66b4acd9c1
 ms.custom: ''
-ms.openlocfilehash: 0c97998737e15d4b48554e9df6f41d98ac03db44
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 0718bf611730bd32942af28611c87b7351f38cec
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724387"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777827"
 ---
 # <a name="apply-theme-to-a-survey"></a>Thema auf eine Umfrage anwenden
 

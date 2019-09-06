@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: C617AF1B-9EF4-43EA-93E7-22BD056354AE
 ms.custom: ''
-ms.openlocfilehash: 63b5a27c5f9d4a2c5270a319a539751365d720ef
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 5205f5e549f512c53e48661b6e9d94062a8c9962
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724123"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778975"
 ---
 # <a name="copy-a-survey-to-another-environment"></a>Kopieren einer Umfrage in eine andere Umgebung
 

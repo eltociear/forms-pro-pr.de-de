@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 90EFF51F-36E3-4973-8768-82F12629B0B3
 ms.custom: ''
-ms.openlocfilehash: 3d6538d7dfc0c0c02ebdc5f69f9be09529d58d0c
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 5333aabc8c987bdb1b1e2ceebed2b219bd1c6c57
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723991"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777783"
 ---
 # <a name="work-with-environments"></a>Arbeiten mit Umgebungen
 

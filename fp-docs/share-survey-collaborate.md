@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 50d49fc4-7894-4350-98ba-98c1331811fc
 ms.custom: ''
-ms.openlocfilehash: 6f33b49a2991373d155e3f2f5cd25240002483f2
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 2257706e0800178336d88f4ad70ff0366dcb5222
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724651"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778047"
 ---
 # <a name="share-a-survey-for-collaborating"></a>Teilen Sie eine Umfrage für die Zusammenarbeit.
 

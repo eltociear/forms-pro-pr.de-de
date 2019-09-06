@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: db6ca3b4-0436-435f-97d1-7249e9b6f5d8
 ms.custom: ''
-ms.openlocfilehash: 3c5ee1410f47c44efd715017c525c72e28ed4c4b
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: c74766c9812800a3f726cf9c227dbe152ef73efa
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723903"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1779019"
 ---
 # <a name="collaborate-on-a-survey"></a>Zusammenarbeit bei einer Umfrage
 

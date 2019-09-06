@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6c936024-24e5-4d76-9eb1-20f27c8c746e
 ms.custom: ''
-ms.openlocfilehash: 01e25c2b3cdb70db45cfdd9f07837bbabacd45b4
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 523cac4dc01f2b87903e25405f2eed0794781b4e
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723595"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777959"
 ---
 # <a name="view-details-for-each-question"></a>Details zu jeder Frage anzeigen
 

@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: EA713CA9-6B0B-45A3-A700-22C164465411
 ms.custom: ''
-ms.openlocfilehash: b5c1c39956672e82bf39c61042cc2099ebded65f
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 593b37814bdbb9160e5a7ba9642b0a6b3aab1b6b
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723859"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1777695"
 ---
 # <a name="create-a-new-survey"></a>Erstellen einer neuen Umfrage
 

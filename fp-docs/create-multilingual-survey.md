@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 7BE3FAAC-79AC-4F8C-8C56-BF9BA3B52C67
 ms.custom: ''
-ms.openlocfilehash: 7ce69c64699a1bf45efff0ae599f872d5ec7493b
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: df2f12a5f05dc7a985e1a81d542b1a687c18d2a1
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724343"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778839"
 ---
 # <a name="create-a-multilingual-survey"></a>Erstellen einer mehrsprachigen Umfrage
 

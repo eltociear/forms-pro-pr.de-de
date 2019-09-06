@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: FD23CE2B-B022-4708-BAE8-5CAC8BC75092
 ms.custom: ''
-ms.openlocfilehash: 4e8177429af01b1faccfcaf0cb596d652c346cd7
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 9191ca7fe3cb0ea5957dbb901682ed358c8028ef
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1725091"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778619"
 ---
 # <a name="plan-to-create-a-survey"></a>Planen Sie die Erstellung einer Umfrage.
 

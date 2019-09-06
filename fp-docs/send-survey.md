@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: f58130b4-b66f-4c9d-bebd-0649988e4473
 ms.custom: ''
-ms.openlocfilehash: 6e764c44d037f0f301b52c6df8037006eb89cc98
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 2f52d161458174d0d0de1175c888ae682adeb24f
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723639"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778179"
 ---
 # <a name="send-a-survey-to-get-responses"></a>Senden Sie eine Umfrage, um Antworten zu erhalten.
 

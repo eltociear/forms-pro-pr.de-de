@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: efa240ce-9ef0-40e6-b634-143a347201e9
 ms.custom: ''
-ms.openlocfilehash: 9d4a289c74b9530ff1cdfdf30a27453753eb22ce
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: 76c7b78ce434e050c27f84dba9689a86ab03b051
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724167"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778751"
 ---
 # <a name="analyze-survey-invitations"></a>Umfrageeinladungen analysieren
 

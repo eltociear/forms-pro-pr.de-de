@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 023a656c-dad6-4dd5-82ed-30dd3f0183ea
 ms.custom: ''
-ms.openlocfilehash: 522164a42d419aee398e776d310b54b62798e122
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: e26ea75136cbbb16e24b0c6c7e2e0e62fabfcf23
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724299"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778707"
 ---
 # <a name="analyze-responses-and-invitations"></a>Analysieren Sie Antworten und Einladungen.
 

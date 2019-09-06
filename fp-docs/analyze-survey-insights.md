@@ -11,12 +11,14 @@ ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6f6d60eb-3c67-4e40-9abb-b3016ec16ea0
 ms.custom: ''
-ms.openlocfilehash: b87166e22c45496434892a15a3ac9c0670c33bb6
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+search.appverid:
+- FPR160
+ms.openlocfilehash: bafc1eb32d6c41d204f1712ba04ab8687e5a0c33
+ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724431"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1778575"
 ---
 # <a name="analyze-survey-insights"></a>Analysieren Sie die Erkenntnisse aus der Umfrage
 

@@ -6,33 +6,33 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 08/06/2019
+ms.date: 08/19/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 97526FE3-7523-48B0-A8F4-7C369AF78DB4
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 39d559a1255b59cd22a37816ec2b2402f92b3c2c
-ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
+ms.openlocfilehash: 9725fcbf0706328a3f22610e3252241433f9c320
+ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "1864012"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "1887048"
 ---
-# <a name="troubleshoot-issues-in-forms-pro"></a>Fehlerbehebung bei Problemen in Forms-Prozessen
+# <a name="troubleshoot-issues-in-forms-pro"></a>Beheben von Problemen in Forms Pro
 
 Dieser Artikel enthält Informationen zur Fehlerbehebung in der Lösung Microsoft Forms Pro.
 
 ## <a name="environment-provisioning-failure"></a>Fehler bei der Umgebungsbereitstellung
 
-Wenn Sie einen Fehler erhalten, der besagt, dass Ihre Umgebungsbereitstellung fehlgeschlagen ist, müssen Sie die von Ihnen verwendete Version von Common Data Service überprüfen. Forms Pro funktioniert nicht mit der Vorgängerversion von Common Data Service. Wenn Ihre Standardumgebung mit der vorherigen Version von Common Data Service erstellt wurde, wird Ihre Umgebung nicht bereitgestellt und es wird eine Fehlermeldung angezeigt.  Sie müssen die vorherige Version von Common Data Service auf die neuere Version von Common Data Service für Apps aktualisieren. Weitere Informationen zum Upgrade auf Common Data Service für Apps finden Sie unter [Upgrade auf Common Data Service für Apps](https://docs.microsoft.com/common-data-service/upgradecds/introduction-upgrade-cds).
+Wenn Sie einen Fehler erhalten, der besagt, dass Ihre Umgebungsbereitstellung fehlgeschlagen ist, müssen Sie die von Ihnen verwendete Version von Common Data Service überprüfen. Forms Pro funktioniert nicht mit der Vorgängerversion. Wenn Ihre Standardumgebung mit der vorherigen Version von Common Data Service erstellt wurde, wird Ihre Umgebung nicht bereitgestellt und es wird eine Fehlermeldung angezeigt. Sie müssen die vorherige Version von Common Data Service auf die neuere Version aktualisieren. Weitere Informationen zu Common Data Service finden Sie unter [Was ist Common Data Service](https://docs.microsoft.com/common-data-service/upgradecds/introduction-upgrade-cds).
 
-Um Ihre Common Data Service von der Vorgängerversion auf die neuere Version zu löschen oder zu aktualisieren, wenden Sie sich an Ihren globalen Administrator. 
+Um Ihre Common Data Service von einer früheren Version auf die neuere Version zu löschen oder zu aktualisieren, wenden Sie sich an Ihren globalen Administrator. 
 
-Wenn die Bereitstellung Ihrer Umgebung fehlgeschlagen ist, wird die Bereitstellung regelmäßig erneut getestet. Wenn Sie eine andere Anfrage priorisieren oder übermitteln möchten, wenden Sie sich bitte an den Microsoft Support.
+Wenn die Bereitstellung Ihrer Umgebung fehlgeschlagen ist, wird die Bereitstellung regelmäßig erneut getestet. Wenn Sie Prioritäten setzen oder andere Anfragen stellen möchten, wenden Sie sich bitte an den Microsoft-Support.
 
-Wenn Sie die Common Data Service aktualisiert haben und Ihre Umgebungserstellung immer noch Probleme aufweist, wenden Sie sich bitte an den Microsot Support.
+Wenn Sie Common Data Service aktualisiert haben und Ihre Umgebungserstellung noch Probleme aufweist, wenden Sie sich bitte an den Microsoft Support.
 
 ## <a name="environment-permission-failure"></a>Ausfall der Umgebungsberechtigung
 
@@ -108,20 +108,20 @@ Wenn Sie sich in der Microsoft Forms Pro Standardumgebung anmelden, werden Siche
 > [!NOTE]
 > Die obigen Fehler werden nur für die Standardumgebung angezeigt. Wenn Sie in einer anderen Umgebung als die Standardumgebung arbeiten, setzten Sie sich mit dem Administrator in Verbindung, um die Rollen entsprechend zuzuweisen. Weitere Informationen: [Arbeiten mit Umgebungen](choose-environment.md)
 
-Wenn Sie den Fehler nicht beheben können, kontaktieren Sie bitte den Microsoft Support.
+Wenn Sie den Fehler nicht beheben können, wenden Sie sich bitte an den Microsoft-Support.
 
 ## <a name="azure-active-directory-disabled-error"></a>Azure Active Directory deaktivierte Fehler
 
-Wenn Sie einen Fehler erhalten, der angibt, dass Azure Active Directory deaktiviert ist, müssen Sie sicherstellen, dass:
+Wenn Sie einen Fehler erhalten, der besagt, dass Azure Active Directory deaktiviert ist, müssen Sie überprüfen, ob:
 
 - Die Dynamics CRM Online App wird auf dem Mandanten deaktiviert.
-- Eine neue App wird mit einer https://admin.service.crm4.dynamics.com Zielgruppe aktiviert, die deaktiviert ist und Azure Active Directory gibt die Präferenzen an die App, statt an die App der ersten Partei Microsoft.
+- Eine neue App wird mit einem "https://admin.service.crm4.dynamics.com-Publikum erstellt, das deaktiviert ist und Azure Active Directory bevorzugt diese App anstelle der First-Party-App von Microsoft.
 
-Wenn eine neue App erstellt wird, müssen Sie die App  entfernen oder die Zielgruppe ändern. Wenn das nicht der Fall ist, müssen Sie sich an Ihren Mandantenadministrator wenden, um die nachfolgenden Skripts auszuführen, um die Dynamics CRM Online  App im Mandant zu erneuern. Damit sollte der Fehler behoben sein. 
+Wenn eine neue App erstellt wird, müssen Sie die App  entfernen oder die Zielgruppe ändern. Ist dies nicht der Fall, müssen Sie sich an Ihren Mandantenadministrator wenden, um das folgende Skript auszuführen, das die Dynamics CRM Online-App im Mandanten wieder aktiviert und den Fehler beheben soll. 
 
-1. Sie müssen das AzureAD-Modul herunterladen von: [Azure Active Directory PowerShell für Graph](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+1. Laden Sie das AzureAD Module von [Azure Active Directory PowerShell für Graph](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) herunter.
 
-2. Führen Sie die folgenden Befehle in einem PowerShell Fenster aus (PowerShell als Administrator ausführen). Folgen Sie der Aufforderung, melden Sie sich mit den Mandantenadministrator-Anmeldeinformationen an.
+2. Führen Sie die folgenden Befehle in einem PowerShell Fenster aus (PowerShell als Administrator ausführen). Melden Sie sich bei Aufforderung mit den Anmeldedaten des Mandantenadministrators an.
     ```
     Install-Module AzureAD
     Connect-AzureAD

@@ -13,16 +13,14 @@ ms.assetid: 7BE3FAAC-79AC-4F8C-8C56-BF9BA3B52C67
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: df2f12a5f05dc7a985e1a81d542b1a687c18d2a1
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 225c70b14c6baf404fe6ad4c5d7014c4291a2375
+ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778839"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "1887004"
 ---
 # <a name="create-a-multilingual-survey"></a>Erstellen einer mehrsprachigen Umfrage
-
-
 
 Sie können eine mehrsprachige Umfrage erstellen, indem Sie mehrere Sprachen zu einer einzigen Umfrage hinzufügen. Sie können dann Übersetzungen für jede Sprache hinzufügen. Dies hilft Ihnen, Ihren Kundenstamm zu erweitern und ermöglicht es den Befragten, die Umfrage in ihrer bevorzugten Sprache durchzuführen.
 

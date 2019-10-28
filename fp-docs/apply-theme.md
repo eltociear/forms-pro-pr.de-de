@@ -13,16 +13,14 @@ ms.assetid: 4b8910fa-a7b3-485d-9128-0e66b4acd9c1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 0718bf611730bd32942af28611c87b7351f38cec
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 13a9b036710fd7d74037b40289b44221d768b71e
+ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1777827"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "1886916"
 ---
 # <a name="apply-theme-to-a-survey"></a>Thema auf eine Umfrage anwenden
-
-
 
 Nachdem Sie Fragen für Ihre Umfrage erstellt haben, können Sie das Hintergrunddesign und die Hintergrundfarbe ändern:
 

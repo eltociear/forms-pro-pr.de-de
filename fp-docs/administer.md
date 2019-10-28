@@ -6,25 +6,25 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 07/01/2019
+ms.date: 10/01/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 4744BE88-5FDF-4FE7-A555-0A8D83EC86F0
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 999ebea73f602e43a40c6e5b2634a0c0d53aa1da
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: fd5848837b5737dca929ed2e7cd7ef6a602e9819
+ms.sourcegitcommit: a6898e26a02c9e8b7c627656a82755ec050c574b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1777915"
+ms.lasthandoff: 09/25/2019
+ms.locfileid: "2051854"
 ---
 # <a name="administer-forms-pro"></a>Formulare Pro verwalten
 
 Microsoft Forms Pro ist eine einfache und dennoch umfassende Umfrage-Lösung, die auf der aktuellen Erfahrung der Umfrageerstellung von Microsoft Forms in Office 365 aufbaut. Es hat Funktionen hinzugefügt, die Unternehmen unterstützen, die Kunden-, Produkt- und Mitarbeitererfahrungen transformieren möchten.
 
-Forms Pro verfügt über robuste Tools zur Unterstützung tieferer Analysen und Erkenntnisse durch Integration in Ihre Tools, wie z.B. Common Data Service for Apps, Microsoft Power Platform und Dynamics 365 for Customer Engagement Apps. Mit Forms Pro können Sie Markenumfragen an Kunden mit dem Look and Feel Ihres Unternehmens senden. Die Verteilung von Umfragen ist mit dem integrierten E-Mail-Ersteller einfacher. Sie können auch den Versand von Umfragen mit Microsoft Flow automatisieren und vorkonfigurierte Microsoft Flow-Vorlagen nutzen, um sie in Dynamics 365 for Customer Engagement Apps zu integrieren.
+Forms Pro verfügt über robuste Tools zur Unterstützung tieferer Analysen und Erkenntnisse durch Integration in alle Ihre Tools, wie z. B. Common Data Service für Apps, Microsoft Power Platform und die modellgesteuerten Apps in Dynamics 365. Mit Forms Pro können Sie Markenumfragen an Kunden mit dem Look and Feel Ihres Unternehmens senden. Die Verteilung von Umfragen ist mit dem integrierten E-Mail-Ersteller einfacher. Sie können auch den Versand von Umfragen mit Microsoft Flow automatisieren und vorkonfigurierte Microsoft Flow-Vorlagen nutzen, um sie in die modellgesteuerten Apps in Dynamics 365 zu integrieren.
 
 Forms Pro ermöglicht es Ihnen, mit klassischen Formularen und Quizfragen zu arbeiten und neue zu erstellen. Die klassischen Formen und Quizfragen öffnen sich in ihren jeweiligen Schnittstellen innerhalb der Forms Pro-Umgebung. Dadurch haben Sie die Möglichkeit, mit Umfragen und klassischen Formularen zusammenzuarbeiten. Informationen zum Erstellen klassischer Formulare in Forms Pro finden Sie unter [Erstellen eines klassischen Formulars](create-classic-form.md).
 

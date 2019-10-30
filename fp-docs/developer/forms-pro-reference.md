@@ -1,5 +1,5 @@
 ---
-title: Entitätsreferenz für Microsoft Forms Pro (Microsoft Forms Pro | Dynamics 365 for Customer Engagement)| MicrosoftDocs
+title: Entitätsreferenz für Playbooks Microsoft Forms Pro  | MicrosoftDocs
 description: Referenzdokumentation für die Entität von Microsoft Forms Pro.
 keywords: ''
 author: susikka
@@ -7,7 +7,7 @@ ms.author: susikka
 manager: shujoshi
 applies_to: ''
 ms.date: 04/29/2019
-ms.service: crm-online
+ms.service: forms-pro
 ms.topic: reference
 ms.assetid: 0CCDE7D8-E6D8-4892-B293-A4F39DEE4B06
 ms.custom: ''
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 search.appverid:
 - FPR160
-ms.openlocfilehash: cd4727f0d8b95274659837c5095dd395a0358d39
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: c797c4b45f19304327ad9d59752b9a3253dacfcd
+ms.sourcegitcommit: a6898e26a02c9e8b7c627656a82755ec050c574b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778913"
+ms.lasthandoff: 09/25/2019
+ms.locfileid: "2051836"
 ---
 # <a name="entity-reference-for-microsoft-forms-pro"></a>Entitätsreferenz für Microsoft Forms Pro
 

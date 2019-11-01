@@ -25,6 +25,7 @@
 ## [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)  
 ## [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)  
 ## [Erstellen Sie eine Umfrageeinladung](create-survey-invite.md)
+## [Einbetten einer Umfrage in PowerApps](embed-survey-powerapps.md)
 
 # [Zusammenarbeit bei einer Umfrage](collaborate-survey.md)  
 ## [Teilen einer Umfrage für die Zusammenarbeit](share-survey-collaborate.md)  

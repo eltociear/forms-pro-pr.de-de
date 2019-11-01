@@ -3,16 +3,16 @@ layout: LandingPage
 author: bigoswam
 ms.author: bigoswam
 ms.date: 04/02/2019
-ms.service: dynamics-365-cross-app
+ms.service: forms-pro
 ms.topic: landing-page
 title: Microsoft Forms Pro Dokumentation
 description: Verwenden Sie Microsoft Forms Pro, um schnell Umfragen zu erstellen und an Ihre Empfänger zu senden. Sammeln Sie ihre Antworten und Meinungen in Echtzeit.
-ms.openlocfilehash: 850e27927b68adb4be3a7f2e370038ea5a7f35c3
-ms.sourcegitcommit: 4f20bfe750e8d4eb2db4dca0479699eb365c8c9e
+ms.openlocfilehash: 4c0b6575622349973ec0a9986b1ac108790026e6
+ms.sourcegitcommit: 3e8e72a5521e2ac0c101ff418b36a1620cb9958a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1724871"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "1918626"
 ---
 # <a name="microsoft-forms-pro-documentation"></a>Microsoft Forms Pro Dokumentation
 

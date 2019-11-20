@@ -1,1 +1,1 @@
-<span data-ttu-id="a0adb-101">[Dieses Thema ist Teil der Dokumentation zur Vorabversion und kann geändert werden.]</span><span class="sxs-lookup"><span data-stu-id="a0adb-101">[This topic is pre-release documentation and is subject to change.]</span></span>
+<span data-ttu-id="fdc1e-101">[Dieses Thema ist Teil der Dokumentation zur Vorabversion und kann geändert werden.]</span><span class="sxs-lookup"><span data-stu-id="fdc1e-101">[This topic is pre-release documentation and is subject to change.]</span></span>

@@ -6,28 +6,28 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: efa240ce-9ef0-40e6-b634-143a347201e9
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 76c7b78ce434e050c27f84dba9689a86ab03b051
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 6632c437941615519902eb465f513c95aa3d9a8d
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778751"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751062"
 ---
 # <a name="analyze-survey-invitations"></a>Umfrageeinladungen analysieren
 
 
 
-Für jede versendete Umfrage-E-Mail wird ein Einladungsdatensatz erstellt, entweder manuell oder mit Microsoft Flow. Um die Einladungen zu einer Umfrage anzuzeigen, die mit einer Umfrage verknüpft sind, gehen Sie zu **Antworten anzeigen** &gt; **Übersicht**, und wählen Sie dann **Einladungen** aus den zusammengefassten Informationen.
+Für jede versendete Umfrage-E-Mail wird ein Einladungsdatensatz erstellt, entweder manuell oder mit Microsoft Flow. Um die Einladungen zu einer Umfrage anzuzeigen, die mit einer Umfrage verknüpft sind, gehen Sie zu **Antworten** &gt; **Übersicht**, und wählen Sie dann **Einladungen** aus den zusammengefassten Informationen.
 
 > [!div class=mx-imgBorder]
-> ![Einladungen zu Umfragen](media/survey-invites.png "Einladungen zu Umfragen")
+> ![Umfrageeinladungen](media/survey-invites.png "Umfrageeinladungen")
 
 Die folgenden Statistiken zu Umfrageeinladungen werden in einem Übersichtsfenster oben auf der Seite angezeigt und die Liste der für eine Umfrage gesendeten Umfrageeinladungen wird unterhalb der Statistiken im Rasterformat angezeigt.
 
@@ -40,7 +40,7 @@ Die folgenden Statistiken zu Umfrageeinladungen werden in einem Übersichtsfenst
 - **Einladungstrend**: Ein Liniendiagramm, das die Verteilung der Trends bei der Einladung zur Umfrage zeigt.
 
 > [!div class=mx-imgBorder]
-> ![Einladungsdetails ](media/survey-invites-details.png "Einladungsdetails ")Einladungen für Umfragen
+> ![Details zu Umfrageeinladungen](media/survey-invites-details.png "Details zu Umfrageeinladungen")
 
 ## <a name="filter-invitations"></a>Einladungen filtern
 

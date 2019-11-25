@@ -13,12 +13,12 @@ ms.assetid: 97526FE3-7523-48B0-A8F4-7C369AF78DB4
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 9725fcbf0706328a3f22610e3252241433f9c320
-ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
+ms.openlocfilehash: f5ed3b3a283c7b256075db782dfb2a4db651dad6
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "1887048"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750310"
 ---
 # <a name="troubleshoot-issues-in-forms-pro"></a>Beheben von Problemen in Forms Pro
 
@@ -119,7 +119,7 @@ Wenn Sie einen Fehler erhalten, der besagt, dass Azure Active Directory deaktivi
 
 Wenn eine neue App erstellt wird, müssen Sie die App  entfernen oder die Zielgruppe ändern. Ist dies nicht der Fall, müssen Sie sich an Ihren Mandantenadministrator wenden, um das folgende Skript auszuführen, das die Dynamics CRM Online-App im Mandanten wieder aktiviert und den Fehler beheben soll. 
 
-1. Laden Sie das AzureAD Module von [Azure Active Directory PowerShell für Graph](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) herunter.
+1. Laden Sie das AzureAD Module von [Azure Active Directory PowerShell für Graph](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) herunter.
 
 2. Führen Sie die folgenden Befehle in einem PowerShell Fenster aus (PowerShell als Administrator ausführen). Melden Sie sich bei Aufforderung mit den Anmeldedaten des Mandantenadministrators an.
     ```

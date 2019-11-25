@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 7BE3FAAC-79AC-4F8C-8C56-BF9BA3B52C67
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 225c70b14c6baf404fe6ad4c5d7014c4291a2375
-ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
+ms.openlocfilehash: 78567d18c0b507b365102d0ea694c8620ea4baa6
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "1887004"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750798"
 ---
 # <a name="create-a-multilingual-survey"></a>Erstellen einer mehrsprachigen Umfrage
 
@@ -38,43 +38,43 @@ Um eine mehrsprachige Umfrage zu erstellen:
 
 1.  Öffnen Sie die Umfrage, in der Sie mehrere Sprachen aktivieren möchten.
 
-2.  Wählen Sie auf der Registerkarte **Fragen erstellen** die Schaltfläche **Ellipsis** (...) in der Symbolleiste oben auf der Seite und dann **Mehrsprachig**.
+2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Mehrsprachig** aus.
 
     > [!div class=mx-imgBorder]
-    > ![Mehrsprachig Schaltfläche](media/multilingual-button.png "Mehrsprachig Schaltfläche") 
+    > ![Schaltfläche „Mehrsprachig“](media/multilingual-button.png "Schaltfläche „Mehrsprachig“") 
 
 3.  Wählen Sie im Bereich **Mehrsprachig** **Zusätzliche Sprache hinzufügen**.
 
     > [!div class=mx-imgBorder]
-    > ![Mehrsprachiger Bereich](media/multilingual-pane.png "Mehrsprachiger Bereich") 
+    > ![Bereich „Mehrsprachig“](media/multilingual-pane.png "Bereich „Mehrsprachig“") 
 
 4.  Suchen Sie in der Liste der Sprachen nach der gewünschten Sprache und wählen Sie sie aus.
 
     > [!div class=mx-imgBorder]
-    > ![Suchen und wählen Sie die gewünschte Sprache](media/lang-list.png "Suchen und wählen Sie die gewünschte Sprache"). 
+    > ![Durchsuchen und die erforderliche Sprache auswählen](media/lang-list.png "Durchsuchen und die erforderliche Sprache auswählen") 
 
 5.  Wählen Sie bei Bedarf **Zusätzliche Sprache hinzufügen**, um weitere Sprachen hinzuzufügen. Die hinzugefügten Sprachen werden im Fenster angezeigt.
 
     > [!div class=mx-imgBorder]
-    > ![Sprachen für die Umfrage hinzugefügt](media/lang-added.png "Sprachen für die Umfrage hinzugefügt") 
+    > ![Sprachen, die für die Umfrage hinzugefügt wurden](media/lang-added.png "Sprachen, die für die Umfrage hinzugefügt wurden") 
 
 ## <a name="step-2-add-translations"></a>Schritt 2: Übersetzungen hinzufügen
 
 1.  Fahren Sie im Bereich **Mehrsprachig** mit der Maus über die Sprache, für die Sie Übersetzungen hinzufügen möchten, und wählen Sie dann das Symbol **Bearbeiten**.
 
     > [!div class=mx-imgBorder]
-    > ![Bearbeiten Sie die für die Umfrage hinzugefügte Sprache](media/edit-lang.png "Bearbeiten Sie die für die Umfrage hinzugefügte Sprache"). 
+    > ![Die Sprache bearbeiten, die für die Umfrage hinzugefügt wurde](media/edit-lang.png "Die Sprache bearbeiten, die für die Umfrage hinzugefügt wurde") 
 
 2.  Wählen Sie den Titel der Umfrage, ihre Beschreibung, Fragen und die entsprechenden Optionen in der Umfrage aus und geben Sie den übersetzten Text für die Frage und ihre Optionen ein.
 
     > [!div class=mx-imgBorder]
-    > ![Übersetzter Text in der Umfrage hinzugefügt](media/translation-added.png "Übersetzter Text in der Umfrage hinzugefügt") 
+    > ![Übersetzter Text, der in der Umfrage hinzugefügt wurde](media/translation-added.png "Übersetzter Text, der in der Umfrage hinzugefügt wurde") 
 
 3.  Nachdem Sie übersetzten Text für alle Elemente der Umfrage hinzugefügt haben, wählen Sie **Zurück** in der linken oberen Ecke der Seite, um zum Umfrageeditor zurückzukehren.
 
 4.  Wiederholen Sie die Schritte 2 - 3, um Übersetzungen für andere Sprachen hinzuzufügen.
 
-Nachdem Sie Übersetzungen für alle Sprachen hinzugefügt haben, müssen Sie eine Vorschau der Umfrage ansehen, um zu sehen, ob alles wie erwartet funktioniert. Wählen Sie die Sprache aus dem Sprachwahlschalter in der oberen rechten Ecke der Umfrage.
+Nachdem Sie Übersetzungen für alle Sprachen hinzugefügt haben, können Sie die Umfrage in der Vorschau ansehen, um zu sehen, ob alles wie erwartet funktioniert. Wählen Sie die Sprache aus dem Sprachwahlschalter in der oberen rechten Ecke der Umfrage.
 
 > [!div class=mx-imgBorder]
 > ![Übersetzte Umfrage](media/translated-survey.png "Übersetzte Umfrage") 
@@ -85,22 +85,22 @@ Nachdem Sie Übersetzungen für die gewünschten Sprachen in Ihrer Umfrage hinzu
 
 1.  Öffnen Sie die mehrsprachige Umfrage, in der Sie Übersetzungen verwalten möchten.
 
-2.  Wählen Sie auf der Registerkarte **Fragen erstellen** die Schaltfläche **Ellipsis** (...) in der Symbolleiste oben auf der Seite und dann **Mehrsprachig**.
+2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Mehrsprachig** aus.
 
     > [!div class=mx-imgBorder]
-    > ![Mehrsprachig Schaltfläche](media/multilingual-button.png "Mehrsprachig Schaltfläche") 
+    > ![Schaltfläche „Mehrsprachig“](media/multilingual-button.png "Schaltfläche „Mehrsprachig“") 
 
 3.  Um die Übersetzungen zu bearbeiten, fahren Sie mit der Maus über die Sprache, für die Sie Übersetzungen bearbeiten möchten, und wählen Sie dann das Symbol **Bearbeiten**.
 
     > [!div class=mx-imgBorder]
-    > ![Bearbeiten Sie die für die Umfrage hinzugefügte Sprache](media/edit-lang.png "Bearbeiten Sie die für die Umfrage hinzugefügte Sprache"). 
+    > ![Die Sprache bearbeiten, die für die Umfrage hinzugefügt wurde](media/edit-lang.png "Die Sprache bearbeiten, die für die Umfrage hinzugefügt wurde") 
 
 4.  Bearbeiten Sie die Übersetzungen nach Bedarf.
 
 5.  Um eine Sprache zu löschen, fahren Sie mit der Maus über die zu löschende Sprache und wählen Sie dann das Symbol **Löschen**.
 
     > [!div class=mx-imgBorder]
-    > ![Löschen der Sprache ](media/delete-lang.png "Löschen der Sprache ") 
+    > ![Die Sprache löschen](media/delete-lang.png "Die Sprache löschen") 
 
 ## <a name="see-also"></a>Siehe auch
 

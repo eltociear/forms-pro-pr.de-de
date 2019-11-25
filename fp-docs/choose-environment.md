@@ -13,18 +13,16 @@ ms.assetid: 90EFF51F-36E3-4973-8768-82F12629B0B3
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 5333aabc8c987bdb1b1e2ceebed2b219bd1c6c57
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: cd9657090092bd871128d8d776fae42d537cb7ec
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1777783"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750974"
 ---
 # <a name="work-with-environments"></a>Arbeiten mit Umgebungen
 
-
-
-Eine Umgebung ist ein Bereich zum Speichern, Verwalten und Freigeben der Geschäftsdaten, Anwendungen und Abläufe Ihres Unternehmens. Es dient auch als Container zur Trennung von Anwendungen, die unterschiedliche Rollen, Sicherheitsanforderungen oder Zielgruppen haben können. Mehr Informationen: [Umgebungsübersicht](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview).
+Eine Umgebung ist ein Bereich zum Speichern, Verwalten und Freigeben der Geschäftsdaten, Anwendungen und Abläufe Ihres Unternehmens. Es dient auch als Container zur Trennung von Anwendungen, die unterschiedliche Rollen, Sicherheitsanforderungen oder Zielgruppen haben können. Mehr Informationen: [Umgebungsübersicht](https://docs.microsoft.com/power-platform/admin/environments-overview).
 
 Sie können Umgebungen für verschiedene Zwecke erstellen, z.B. für die Entwicklung, das Testen und die Produktion von Umfragen. Nach der Entwicklung und dem Testen der Umfrage können Sie die Umfrage in die Produktionsumgebung kopieren.
 
@@ -32,7 +30,7 @@ Wenn Sie sich bei Microsoft Forms Pro anmelden, werden nur die Umfragen angezeig
 
 Sie können die Umgebung jederzeit wechseln und mit der Arbeit in ihr beginnen. Sie können eine Umfrage auch aus einer Umgebung in eine andere kopieren. Wenn Sie eine Umfrage in eine andere Umgebung kopieren, werden nur die Umfragestruktur und ihre Verzweigungsregeln kopiert - Einladungen, Antworten und zugehörige Abläufe nicht.
 
-Um mit Umfragen in einer Umgebung zu arbeiten, installieren Sie die App [Forms Pro von Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.shimla?tab=Overview) und weisen Sie den Benutzern die Rolle Umfragebesitzer zu. Wenn Sie in eine Umgebung wechseln, die nicht über Forms Pro verfügt, wird eine Fehlermeldung angezeigt.
+Um mit Umfragen in einer Umgebung zu arbeiten, installieren Sie die App [Forms Pro von Microsoft AppSource](https://appsource.microsoft.com/product/dynamics-365/mscrm.shimla?tab=Overview) und weisen Sie den Benutzern die Rolle Umfragebesitzer zu. Wenn Sie in eine Umgebung wechseln, die nicht über Forms Pro verfügt, wird eine Fehlermeldung angezeigt.
 
 > [!NOTE]
 > Wenn Sie Organisationen für Dynamics 365 for Sales, Customer Service, Marketing und Talent haben, sind Forms Pro Einheiten bereits in diesen Organisationen installiert.

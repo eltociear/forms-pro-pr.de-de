@@ -6,23 +6,21 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 72B81F9F-952B-4A58-83C7-9F68A5EF9B5C
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 5d8ebc963aa8081f2edb6c91e7f91101b43b6c59
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 45c658a42f72a04f8e4f9a7a27c8d1dd02fbc996
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778931"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750886"
 ---
 # <a name="create-a-branching-rule"></a>Erstellen einer Verzweigungsregel
-
-
 
 Wenn Sie zusätzliche Fragen auf der Grundlage von Antworten in einer Umfrage stellen möchten, erstellen Sie eine oder mehrere Verzweigungsregeln für diese Antworten. Verzweigungsregeln machen Ihre Umfragen interaktiv und stellen sicher, dass den Befragten nur die relevanten Fragen angezeigt werden. 
 
@@ -34,20 +32,20 @@ Um eine Verzweigungsregel zu erstellen:
 
 1.  Öffnen Sie die Umfrage, in der Sie eine Verzweigungsregel hinzufügen möchten.
 
-2.  Wählen Sie auf der Registerkarte **Fragen erstellen** die Schaltfläche Ellipsis (...) in der Symbolleiste oben auf der Seite und wählen Sie dann **Verzweigungsregeln**. 
+2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Verzweigungsregeln** aus. 
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln-Schaltfläche](media/branching-rules-button.png "Verzweigungsregeln-Schaltfläche")
+    > ![Schaltfläche „Verzweigungsregeln“](media/branching-rules-button.png "Schaltfläche „Verzweigungsregeln“")
     
     Wenn Sie noch keine Regeln erstellt haben, wird die folgende Seite angezeigt. Wählen Sie **Regel erstellen**. 
 
     > [!div class=mx-imgBorder]
-    > ![Neue Regel erstellen](media/create-rule-button.png "Neue Regel erstellen") 
+    > ![Schaltfläche „Neue Regel erstellen“](media/create-rule-button.png "Schaltfläche „Neue Regel erstellen“") 
 
     Wenn Sie mindestens eine Regel erstellt haben, wird eine Liste von Regeln in einem Raster angezeigt. Wählen Sie **Neue Regel**. 
  
     > [!div class=mx-imgBorder]
-    > ![Neue Regel](media/branch-new-rule-button.png "Neue Regel")
+    > ![Schaltfläche „Neue Regel“](media/branch-new-rule-button.png "Schaltfläche „Neue Regel“")
 
 3.  Geben Sie im Feld **Regelname** einen Namen für die Verzweigungsregel ein.
 
@@ -56,17 +54,17 @@ Um eine Verzweigungsregel zu erstellen:
 5.  Wählen Sie in der Liste **Frage auswählen** die Frage aus, für die Sie eine Regel anlegen möchten.
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln Bedingungsfrage](media/branch-condition-question.png "Verzweigungsregeln Bedingungsfrage")
+    > ![Bedingungsfrage „Verzweigungsregeln“](media/branch-condition-question.png "Bedingungsfrage „Verzweigungsregeln“")
 
 6.  Wählen Sie Werte aus den Listen **Operator auswählen** und **Antwort auswählen** entsprechend.
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln Abschlusszustand](media/branch-condition.png "Verzweigungsregeln Abschlusszustand")
+    > ![Vollständige Bedingung für Verzweigungsregeln](media/branch-condition.png "Vollständige Bedingung für Verzweigungsregeln")
 
     Sie können weitere Bedingungen mit der Kombination von **AND**/**OR** Operatoren hinzufügen, indem Sie **Bedingung hinzufügen** auswählen.
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln mehrere Bedingungen](media/branch-multi-condition.png "Verzweigungsregeln mehrere Bedingungen")
+    > ![Mehrere Bedingungen für Verzweigungsregeln](media/branch-multi-condition.png "Mehrere Bedingungen für Verzweigungsregeln")
 
 7.  Wählen Sie **Add "If true"**, um die Aktion hinzuzufügen, die ausgelöst wird, wenn die definierte Bedingung die Kriterien erfüllt.
 
@@ -80,7 +78,7 @@ Um eine Verzweigungsregel zu erstellen:
     - **Navigieren zu**: Ermöglicht es Ihnen, ein Ziel auszuwählen, zu dem ein Befragter navigiert werden soll.
 
     > [!div class=mx-imgBorder]
-    > ![Aktion für wahre Bedingung auswählen](media/branch-true-select-action.png "Aktion für wahre Bedingung auswählen")
+    > ![Eine Aktion für Bedingung „true“ auswählen](media/branch-true-select-action.png "Eine Aktion für Bedingung „true“ auswählen")
 
 10. Wählen Sie in der Liste **Ziel auswählen** ein Ziel für die ausgewählte Aktion aus. Wenn Sie **Anzeigen**, **Ausblenden,** oder **Umschalten** als Aktion wählen, können Sie **Frage** als Ziel auswählen. Wenn Sie als Aktion **Navigieren zu** wählen, können Sie eines der folgenden Ziele auswählen:
 
@@ -90,17 +88,17 @@ Um eine Verzweigungsregel zu erstellen:
     - **URL**: Ermöglicht es Ihnen, eine Website anhand der Antwort auf eine Frage zu öffnen. Sie müssen der URL `http://` hinzufügen, damit sie ordnungsgemäß funktioniert.
 
     > [!div class=mx-imgBorder]
-    > ![Auswahl eines Ziels für die wahre Bedingung](media/branch-true-select-target.png "Auswahl eines Ziels für die wahre Bedingung")
+    > ![Ein Ziel für Bedingung „true“ auswählen](media/branch-true-select-target.png "Ein Ziel für Bedingung „true“ auswählen")
 
 11. Geben Sie in der Liste **Wert auswählen** einen Wert für das Ziel ein oder wählen Sie ihn aus.
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln wahre Aktion](media/branch-true-action.png "Verzweigungsregeln wahre Aktion")
+    > ![Aktion „true“ für Verzweigungsregeln](media/branch-true-action.png "Aktion „true“ für Verzweigungsregeln")
 
 12. Wählen Sie **Add "If false"**, um die Aktion hinzuzufügen, die ausgelöst wird, wenn die definierte Bedingung nicht den Kriterien entspricht. Führen Sie dann die Schritte 8 bis 11 aus. 
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln falsche Aktion](media/branch-false-action.png "Verzweigungsregeln falsche Aktion")
+    > ![Aktion „false“ für Verzweigungsregeln](media/branch-false-action.png "Aktion „false“ für Verzweigungsregeln")
 
 13. Wählen Sie **Speichern** aus.
 
@@ -112,21 +110,21 @@ Nachdem Sie eine Verzweigungsregel oder einen Satz von Verzweigungsregeln erstel
 
 1. Öffnen Sie die Umfrage, in der Sie Verzweigungsregeln verwalten möchten.
  
-2. Wählen Sie auf der Registerkarte **Fragen erstellen** die Schaltfläche Ellipsis (...) in der Symbolleiste oben auf der Seite und wählen Sie dann **Verzweigungsregeln**. 
+2. Wählen Sie die Schaltfläche **Auslassungspunkte** (...) aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Verzweigungsregeln** aus. 
 
     > [!div class=mx-imgBorder]
-    > ![Verzweigungsregeln-Schaltfläche](media/branching-rules-button.png "Verzweigungsregeln-Schaltfläche")
+    > ![Schaltfläche „Verzweigungsregeln“](media/branching-rules-button.png "Schaltfläche „Verzweigungsregeln“")
 
 3. Eine Liste von Regeln wird in einem Raster angezeigt.
 
     > [!div class=mx-imgBorder]
-    > ![Existierende Verzweigungsregeln](media/existing-rules.png "Existierende Verzweigungsregeln")
+    > ![Vorhandene Verzweigungsregeln](media/existing-rules.png "Vorhandene Verzweigungsregeln")
 
-4. Um eine Verzweigungsregel zu bearbeiten, wählen Sie **Bearbeiten** ![Verzweigungsregel bearbeiten](media/edit-rule.png "Verzweigungsregel bearbeiten") aus der entsprechenden Regelzeile.
+4. Um eine Verzweigungsregel zu bearbeiten, wählen Sie **Bearbeiten** ![Verzweigungsregel bearbeiten](media/edit-rule.png "Verzweigungsregel bearbeiten") aus der entsprechenden Regelzeile aus.
 
-5. Um eine Verzweigungsregel zu löschen, wählen Sie **Löschen** ![Verzweigungsregel löschen](media/delete-rule.png "Verzweigungsregel löschen") aus der entsprechenden Regelzeile.
+5. Um eine Verzweigungsregel zu löschen, wählen Sie **Löschen** ![Verzweigungsregel löschen](media/delete-rule.png "Verzweigungsregel löschen") aus der entsprechenden Regelzeile aus.
 
-6. Um die Reihenfolge der Ausführung einer Verzweigungsregel zu ändern, verschieben Sie eine Regel im Raster nach oben oder unten. Um eine Regel nach oben oder unten zu verschieben, wählen Sie **Nach oben verschieben** ![Nach oben verschieben](media/move-up-rule.png "Nach oben verschieben") oder **Nach unten verschieben** ![Nach unten verschieben](media/move-down-rule.png "Nach unten verschieben") aus der entsprechenden Regelreihe.
+6. Um die Reihenfolge der Ausführung einer Verzweigungsregel zu ändern, verschieben Sie eine Regel im Raster nach oben oder unten. Um eine Regel nach oben oder unten zu verschieben, wählen Sie **Nach oben** ![Nach oben](media/move-up-rule.png "Nach oben") oder **Nach unten** ![Nach unten](media/move-down-rule.png "Nach unten") aus der entsprechenden Regelreihe aus.
 
 ## <a name="see-also"></a>Siehe auch
 

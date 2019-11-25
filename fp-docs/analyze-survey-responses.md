@@ -6,28 +6,26 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 145f21c2-4635-4f5d-b7cf-03e90ec4b533
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 372a4c84c3fac63e70530ed5f67f39a81011c061
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: a993b6087330873481c57bd9fdeaec0e77baf020
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778663"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751106"
 ---
 # <a name="analyze-survey-responses"></a>Umfrageantworten analysieren
 
-
-
-Ein Umfrageantwortdatensatz wird erstellt, nachdem ein Befragter eine Umfrage sendet. Um die Antworten zu sehen, gehen Sie zu **Antworten anzeigen** &gt; **Übersicht**, und wählen Sie dann **Antworten** aus den zusammengefassten Informationen.
+Ein Umfrageantwortdatensatz wird erstellt, nachdem ein Befragter eine Umfrage sendet. Um die Antworten zu sehen, gehen Sie zu **Antworten** &gt; **Übersicht**, und wählen Sie dann **Antworten** aus den zusammengefassten Informationen.
 
 > [!div class=mx-imgBorder]
-> ![Umfrageergebnisse](media/survey-responses.png "Umfrageergebnisse")
+> ![Umfrageantworten](media/survey-responses.png "Umfrageantworten")
 
 Die folgenden Statistiken über die Umfrageantworten werden in einem Übersichtsfenster oben auf der Seite angezeigt und die Liste der für eine Umfrage erhaltenen Antworten wird unterhalb der Statistiken im Rasterformat angezeigt.
 
@@ -40,7 +38,7 @@ Die folgenden Statistiken über die Umfrageantworten werden in einem Übersichts
 - **NPS-Verteilung**: Verteilung des Net Promoter Score (NPS), der die Anzahl der Promotoren, Kritiker und passiven Unterstützer anzeigt.
 
 > [!div class=mx-imgBorder]
-> ![Erhebungsantwortdetails](media/survey-responses-details.png "Erhebungsantwortdetails")Erhebungsergebnisse
+> ![Details zu Umfrageantworten](media/survey-responses-details.png "Details zu Umfrageantworten")
 
 ## <a name="filter-responses"></a>Antworten filtern
 
@@ -56,7 +54,7 @@ Um Details einer Umfrageantwort anzuzeigen, doppelklicken Sie auf die Antwort im
 Sie sehen die Zeit, die der Befragte benötigt, um die Umfrage auszufüllen, den Net Promoter Score (NPS) Typ und die Stimmung. Die Antworten auf die einzelnen Fragen in der Umfrage werden auch auf der Detailseite angezeigt. 
 
 > [!div class=mx-imgBorder]
-> ![Details der ausgewählten Antwort anzeigen ](media/response-details.png "Details der ausgewählten Antwort anzeigen ")
+> ![Details der ausgewählten Antwort anzeigen](media/response-details.png "Details der ausgewählten Antwort anzeigen")
 
 ## <a name="export-survey-responses"></a>Umfrageantworten exportieren
 

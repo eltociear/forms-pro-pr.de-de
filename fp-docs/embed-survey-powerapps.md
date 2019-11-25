@@ -13,12 +13,12 @@ ms.assetid: F5543364-ADB8-465D-96A6-81B2C840299F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 8a39b5afcb22ea0e344e15ef5f9a7666b9ef9177
-ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
+ms.openlocfilehash: 89269b799da8276a3f66d87774654e4fd0113e49
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "1887326"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751194"
 ---
 # <a name="embed-a-survey-in-powerapps"></a>Einbetten einer Umfrage in PowerApps
 
@@ -27,16 +27,16 @@ ms.locfileid: "1887326"
 Sie können Ihre Umfragen in den Canvas-Apps einbetten, die mithilfe von PowerApps erstellt sind. Dies ermöglicht es Benutzern, auf die Umfragen direkt von den Apps aus zu reagieren.
 
 > [!NOTE]
-> Sie müssen PowerApps Plan 1 haben, um Ihre Umfragen in einer Canvas-App einzubetten. Weitere Informationen zum Erwerben von PowerApps finden Sie unter [Kaufen von PowerApps für Ihre Organisation](https://docs.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
+> Sie müssen PowerApps Plan 1 haben, um Ihre Umfragen in einer Canvas-App einzubetten. Weitere Informationen zum Erwerben von PowerApps finden Sie unter [Kaufen von PowerApps für Ihre Organisation](https://docs.microsoft.com/power-platform/admin/signup-for-powerapps-admin).
 
 1.  Melden Sie sich bei [PowerApps](https://web.powerapps.com/) an.
 
-2.  Erstellen Sie eine leere Canvas-App oder verwenden Sie eine der verfügbaren Vorlagen. Weitere Informationen zum Erstellen einer Canvas-App finden Sie unter [Erstellen einer Canvas-App von Grund auf mithilfe von Common Data Service](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch).
+2.  Erstellen Sie eine leere Canvas-App oder verwenden Sie eine der verfügbaren Vorlagen. Weitere Informationen zum Erstellen einer Canvas-App finden Sie unter [Erstellen einer Canvas-App von Grund auf mithilfe von Common Data Service](https://docs.microsoft.com/powerapps/maker/canvas-apps/data-platform-create-app-scratch).
 
 3.  Öffnen Sie auf der Registerkarte **Einfügen** das Menü **Steuerelemente**, und fügen Sie dann das Steuerelement **Forms Pro-Umfrage (Vorschau)** hinzu.
 
     > [!div class=mx-imgBorder]
-    > ![Das Steuerelement „Forms Pro-Umfrage (Vorschau)” hinzufügen](media/insert-control.png "Das Steuerelement „Forms Pro-Umfrage (Vorschau)” hinzufügen")  
+    > ![Das Forms Pro-Umfrage (Vorschau)-Steuerelement hinzufügen](media/insert-control.png "Das Forms Pro-Umfrage (Vorschau)-Steuerelement hinzufügen")  
 
 4.  Wählen Sie im Optionsbereich **Keine Daten** aus.
 
@@ -46,12 +46,12 @@ Sie können Ihre Umfragen in den Canvas-Apps einbetten, die mithilfe von PowerAp
 5.  Wählen Sie im Bereich **Daten** die Umfrage aus, die Sie aus der Liste **Umfrage auswählen** einbetten möchten.
 
     > [!div class=mx-imgBorder]
-    > ![Wählen Sie im Datenbereich Umfrage aus](media/data-pane.png "Wählen Sie im Datenbereich Umfrage aus") 
+    > ![Umfrage im Datenbereich auswählen](media/data-pane.png "Umfrage im Datenbereich auswählen") 
 
     Die ausgewählte Umfrage wird im Steuerelement gerendert.
 
     > [!div class=mx-imgBorder]
-    > ![Im Steuerelement gerenderte Umfrage](media/survey-render.png "Im Steuerelement gerenderte Umfrage") 
+    > ![Umfrage im Steuerelement gerendert](media/survey-render.png "Umfrage im Steuerelement gerendert") 
 
 6.  Um die Kontextparameter zu definieren, gehen Sie zur Registerkarte **Erweitert** im Optionsbereich.
 
@@ -68,7 +68,7 @@ Sie können Ihre Umfragen in den Canvas-Apps einbetten, die mithilfe von PowerAp
 
 ## <a name="see-also"></a>Siehe auch
 
-[Definieren Sie, wer an einer Umfrage teilnehmen darf](invite-settings.md)<br>
+[Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
 [Senden Sie eine Umfrage mit Microsoft Flow](send-survey-microsoft-flow.md)<br>
 [Eingebettete Umfrage in eine Webseite](embed-web-page.md)<br>

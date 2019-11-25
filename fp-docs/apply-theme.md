@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 4b8910fa-a7b3-485d-9128-0e66b4acd9c1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 13a9b036710fd7d74037b40289b44221d768b71e
-ms.sourcegitcommit: fcdae207b37e42a145f95afa07ea26e99842aacd
+ms.openlocfilehash: 33fccb3a6e3ad5d1627a440ffe045aaea8245442
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "1886916"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750618"
 ---
 # <a name="apply-theme-to-a-survey"></a>Thema auf eine Umfrage anwenden
 
@@ -34,9 +34,9 @@ Um ein Thema anzuwenden:
 
 1.  Öffnen Sie die Umfrage, für die Sie das Thema ändern möchten.
 
-2.  Wählen Sie auf der Registerkarte **Fragen erstellen** **Thema** ![Anwendung eines Themas auf die Umfrage](media/apply-theme.png "Anwendung eines Themas auf die Umfrage") aus der Symbolleiste oben auf der Seite, und wählen Sie die gewünschte Farbe oder den gewünschten Hintergrund.
+2.  Wählen **Design** aus der Symbolleiste oben der Seite und die Farbe oder den Hintergrund aus, die angezeigt werden sollen.
 
-3.  Wenn Sie ein anderes Hintergrundbild auswählen oder die Farbe der Umfrage ändern möchten, wählen Sie **Thema anpassen** ![Thema der Umfrage anpassen](media/customize-theme.png "Thema der Umfrage anpassen"), und wählen Sie dann eine der folgenden Optionen:
+3.  Wenn Sie ein anderes Hintergrundbild auswählen oder die Farbe der Umfrage ändern möchten, wählen Sie **Thema anpassen** ![Thema der Umfrage anpassen](media/customize-theme.png "Anpassen des Designs der Umfrage"), und wählen Sie dann eine der folgenden Optionen:
 
 - **Bild hochladen**: Wählen Sie eine der folgenden Optionen, um ein Bild Ihrer Wahl hochzuladen:
 

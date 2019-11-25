@@ -6,25 +6,29 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 08/06/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: ef8aa6fd-48ec-4b74-adc8-737b915f15d1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: f57c1d10ca4c0045f248e765ae1c08c67417a503
-ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
+ms.openlocfilehash: 35876170b3e80542483f42def4badc706b1b537f
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "1863924"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751018"
 ---
 # <a name="get-started-with-forms-pro"></a>Erste Schritte mit Forms Pro
 
 Microsoft Forms Pro ist eine Funktion für Unternehmensumfragen, die Unternehmen dabei unterstützt, das Feedback zu erhalten, das sie benötigen, um intelligentere Entscheidungen zu treffen. Forms Pro basiert sowohl auf Office 365 als auch auf Dynamics 365 und unterstützt Unternehmen, die Kunden-, Produkt- und Mitarbeitererfahrungen transformieren möchten. 
 
 Forms Pro basiert auf Microsoft Forms und bietet neue Funktionen, die die Erfassung und Analyse von Kunden- und Mitarbeiterfeedback einfacher denn je machen. Ihre Kunden können mit jedem Webbrowser oder mobilen Gerät an den Umfragen teilnehmen. Während der Übermittlung der Antworten analysieren Sie diese mit Power BI-Berichten und treffen entsprechend effektive Entscheidungen.
+
+Forms Pro verfügt über robuste Tools zur Unterstützung tieferer Analysen und Erkenntnisse durch Integration in alle Ihre Tools, wie z. B. Common Data Service, Microsoft Power Platform und die modellgesteuerten Apps in Dynamics 365. Mit Forms Pro können Sie Markenumfragen an Kunden mit dem Look and Feel Ihres Unternehmens senden. Die Verteilung von Umfragen ist mit dem integrierten E-Mail-Ersteller einfacher. Sie können auch den Versand von Umfragen mit Microsoft Flow automatisieren und vorkonfigurierte Microsoft Flow-Vorlagen nutzen, um sie in die modellgesteuerten Apps in Dynamics 365 zu integrieren.
+
+Forms Pro ermöglicht es Ihnen, mit klassischen Formularen und Quizfragen zu arbeiten und neue zu erstellen. Die klassischen Formen und Quizfragen öffnen sich in ihren jeweiligen Schnittstellen innerhalb der Forms Pro-Umgebung. Dadurch haben Sie die Möglichkeit, mit Umfragen und klassischen Formularen zusammenzuarbeiten. Informationen zum Erstellen klassischer Formulare in Forms Pro finden Sie unter [Erstellen eines klassischen Formulars](create-classic-form.md).
 
 ## <a name="web-browsers-that-work-with-forms-pro"></a>Webbrowser, die mit Forms Pro arbeiten
 
@@ -46,7 +50,13 @@ Microsoft Forms Pro ist ab dem 1. Juli 2019 allgemein verfügbar. Um Forms Pro a
 
 ### <a name="opt-out-of-trial"></a>Abmeldung von der Testversion
 
-Sie können die Microsoft Forms Pro-Testversion jederzeit manuell abbrechen. Informationen zum Abmelden finden Sie unter [Abmelden aus Formularen Pro](administer.md#opt-out-of-forms-pro).
+Sie können die Microsoft Forms Pro-Testversion jederzeit manuell abbrechen.
+
+1. Melden Sie sich bei Forms Pro an.
+
+2. Wählen Sie Ihren Benutzernamen in der oberen rechten Ecke der Seite aus.
+
+3. Wählen Sie **Zu Formularen** aus. Wenn Sie zu Formularen wechseln, werden Sie auf die Microsoft Forms-Erfahrung umgeleitet und können Umfragen nicht mehr bearbeiten.
 
 > [!NOTE]
 > Wenn Sie sich aus der Microsoft Forms Pro-Testversion abmelden und sich später erneut anmelden, wird Ihr Enddatum der Testversion ab dem ersten Anmeldedatum gezählt.
@@ -60,4 +70,4 @@ Wenn Ihre Testversion herabgestuft wird, wird eine Nachricht mit der Möglichkei
 
 ## <a name="provide-feedback-on-forms-pro"></a>Feedback zu Forms Pro geben
 
-Wir würden uns freuen, von Ihnen zu hören! Bitte senden Sie Ihr Feedback, indem Sie **Feedback** ![Feedback](media/feedback.png "Feedback") in der oberen rechten Ecke der Seite in Forms Pro.
+Wir würden uns freuen, von Ihnen zu hören! Senden Sie Ihr Feedback über die Site [UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box?category_id=357997), um Vorschläge zu bieten und über Iden abzustimmen, die andere bereits eingereicht haben.

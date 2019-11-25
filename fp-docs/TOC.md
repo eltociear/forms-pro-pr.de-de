@@ -1,8 +1,8 @@
 # [Erste Schritte mit Microsoft Forms Pro](get-started.md) 
 
-# [KaufenMicrosoft Forms Pro](purchase.md)
+# [Neuigkeiten](whats-new.md)
 
-# [Administration Microsoft Forms Pro](administer.md)
+# [KaufenMicrosoft Forms Pro](purchase.md)
 
 # [Planen einer Umfrage](plan-survey.md)
 
@@ -18,7 +18,7 @@
 ## [Erstellen einet mehrseitigen Umfrage](create-multipage-survey.md)
 
 # [Senden einer Umfrage, um Antworten zu erhalten](send-survey.md)
-## [Definieren Sie, wer an einer Umfrage teilnehmen darf](invite-settings.md)  
+## [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)  
 ## [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)  
 ## [Senden Sie eine Umfrage mit Microsoft Flow](send-survey-microsoft-flow.md)  
 ## [Eingebettete Umfrage in eine Webseite](embed-web-page.md)  
@@ -26,6 +26,7 @@
 ## [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)  
 ## [Erstellen Sie eine Umfrageeinladung](create-survey-invite.md)
 ## [Einbetten einer Umfrage in PowerApps](embed-survey-powerapps.md)
+## [Anreize für Umfragen anbieten](survey-incentives.md)
 
 # [Zusammenarbeit bei einer Umfrage](collaborate-survey.md)  
 ## [Teilen einer Umfrage für die Zusammenarbeit](share-survey-collaborate.md)  
@@ -42,7 +43,9 @@
 ## [Eine Umgebung ändern](change-environment.md)
 ## [Kopieren einer Umfrage in eine andere Umgebung](copy-survey-environment.md)
 
-# [Fehlerbehebung bei Forms Pro](troubleshoot.md)
+# [Überwachung der Kundenzufriedenheit ](customer-satisfaction-app.md)
+
+# [Problembehandlung von Forms Pro](troubleshoot.md)
 
 # [Microsoft Forms Pro FAQ](mfp-faq.md)
 

@@ -6,71 +6,83 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: EA713CA9-6B0B-45A3-A700-22C164465411
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 593b37814bdbb9160e5a7ba9642b0a6b3aab1b6b
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 3e437c0e072362075c5acb700b03504cca5bc2ea
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1777695"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750930"
 ---
-# <a name="create-a-new-survey"></a><span data-ttu-id="7f9a5-103">Erstellen einer neuen Umfrage</span><span class="sxs-lookup"><span data-stu-id="7f9a5-103">Create a new survey</span></span>
+# <a name="create-a-new-survey"></a><span data-ttu-id="60398-103">Erstellen einer neuen Umfrage</span><span class="sxs-lookup"><span data-stu-id="60398-103">Create a new survey</span></span>
 
+<span data-ttu-id="60398-104">So erstellen Sie eine neue Umfrage mit Forms Pro:</span><span class="sxs-lookup"><span data-stu-id="60398-104">To create a new survey with Forms Pro:</span></span>
 
+1.  <span data-ttu-id="60398-105">Melden Sie sich bei Forms Pro mit Ihren Office 365-Anmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="60398-105">Sign in to Forms Pro with your Office 365 credentials.</span></span>
 
-<span data-ttu-id="7f9a5-104">So erstellen Sie eine neue Umfrage mit Forms Pro:</span><span class="sxs-lookup"><span data-stu-id="7f9a5-104">To create a new survey with Forms Pro:</span></span>
-
-1.  <span data-ttu-id="7f9a5-105">Melden Sie sich bei Forms Pro mit Ihren Office 365-Anmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-105">Sign in to Forms Pro with your Office 365 credentials.</span></span>
-
-2.  <span data-ttu-id="7f9a5-106">Wählen Sie unter **Meine Formulare** **Neue Umfrage**.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-106">Under **My Forms**, select **New Survey**.</span></span>
+2.  <span data-ttu-id="60398-106">Wählen Sie unter **Meine Formulare** die Option **Neue Pro-Umfrage**.</span><span class="sxs-lookup"><span data-stu-id="60398-106">Under **My Forms**, select **New Pro Survey**.</span></span>
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="7f9a5-107">![Neue Umfrage](media/new-survey-button.png "Neue Umfrage")</span><span class="sxs-lookup"><span data-stu-id="7f9a5-107">![New survey](media/new-survey-button.png "New survey")</span></span> 
+    > <span data-ttu-id="60398-107">![Neue Umfrage](media/new-survey-button.png "Neue Umfrage")</span><span class="sxs-lookup"><span data-stu-id="60398-107">![New survey](media/new-survey-button.png "New survey")</span></span> 
 
-3.  <span data-ttu-id="7f9a5-108">Wählen Sie den Standardumfragenamen aus und geben Sie einen Namen für Ihre Umfrage ein.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-108">Select the default survey name, and enter a name for your survey.</span></span> <span data-ttu-id="7f9a5-109">Sie können auch eine optionale Beschreibung eingeben.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-109">You can also enter an optional description for it.</span></span>
-
-    > [!div class=mx-imgBorder]
-    > <span data-ttu-id="7f9a5-110">![Umfrage Titel und Beschreibung hinzufügen](media/survey-title.png "Umfrage Titel und Beschreibung hinzufügen")</span><span class="sxs-lookup"><span data-stu-id="7f9a5-110">![Add survey title and description](media/survey-title.png "Add survey title and description")</span></span> 
-
-4.  <span data-ttu-id="7f9a5-111">Wählen Sie **Neu hinzufügen**, um Fragetypen anzuzeigen, die zu Ihrer Umfrage hinzugefügt werden können.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-111">Select **Add new** to view question types that can be added to your survey.</span></span> <span data-ttu-id="7f9a5-112">Sie können aus **Auswahl**, **Text**, **Bewertung** oder **Datum** Fragen wählen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-112">You can choose from **Choice**, **Text**, **Rating**, or **Date** questions.</span></span> <span data-ttu-id="7f9a5-113">Sie können auch **Mehr** (...) auswählen und **Rangliste**, **Likert**, oder **Net Promoter Score** Fragen wählen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-113">You can also select **More** (...), and choose **Ranking**, **Likert**, or **Net Promoter Score** questions.</span></span>
+3.  <span data-ttu-id="60398-108">Wählen Sie den Standardumfragenamen aus und geben Sie einen Namen für Ihre Umfrage ein.</span><span class="sxs-lookup"><span data-stu-id="60398-108">Select the default survey name, and enter a name for your survey.</span></span> <span data-ttu-id="60398-109">Sie können auch eine optionale Beschreibung eingeben.</span><span class="sxs-lookup"><span data-stu-id="60398-109">You can also enter an optional description for it.</span></span>
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="7f9a5-114">![Fragetypen](media/ques-types.png "Fragetypen")</span><span class="sxs-lookup"><span data-stu-id="7f9a5-114">![Question types](media/ques-types.png "Question types")</span></span> 
+    > <span data-ttu-id="60398-110">![Umfragetitel und -beschreibung hinzufügen](media/survey-title.png "Umfragetitel und -beschreibung hinzufügen")</span><span class="sxs-lookup"><span data-stu-id="60398-110">![Add survey title and description](media/survey-title.png "Add survey title and description")</span></span> 
 
-5.  <span data-ttu-id="7f9a5-115">Wählen Sie den/die gewünschten Fragetyp(e) aus, die hinzugefügt werden sollen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-115">Select the required question type(s) to be added.</span></span>
-
-6.  <span data-ttu-id="7f9a5-116">Geben Sie den Fragetext und seine Antwortoptionen ein.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-116">Enter the question text and its answer options.</span></span> <span data-ttu-id="7f9a5-117">Die Umfrage wird automatisch gespeichert.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-117">The survey is saved automatically.</span></span>
+4.  <span data-ttu-id="60398-111">Wählen Sie **Neu hinzufügen**, um Fragetypen anzuzeigen, die zu Ihrer Umfrage hinzugefügt werden können.</span><span class="sxs-lookup"><span data-stu-id="60398-111">Select **Add new** to view question types that can be added to your survey.</span></span> <span data-ttu-id="60398-112">Sie können aus **Auswahl**, **Text**, **Bewertung** oder **Datum** Fragen wählen.</span><span class="sxs-lookup"><span data-stu-id="60398-112">You can choose from **Choice**, **Text**, **Rating**, or **Date** questions.</span></span> <span data-ttu-id="60398-113">Sie können auch **Mehr** (...) auswählen und **Rangliste**, **Likert**, oder **Net Promoter Score** Fragen wählen.</span><span class="sxs-lookup"><span data-stu-id="60398-113">You can also select **More** (...), and choose **Ranking**, **Likert**, or **Net Promoter Score** questions.</span></span>
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="7f9a5-118">![Umfrage](media/survey.png "Umfrage")</span><span class="sxs-lookup"><span data-stu-id="7f9a5-118">![Survey](media/survey.png "Survey")</span></span> 
+    > <span data-ttu-id="60398-114">![Fragetypen](media/ques-types.png "Fragetypen")</span><span class="sxs-lookup"><span data-stu-id="60398-114">![Question types](media/ques-types.png "Question types")</span></span> 
 
-7. <span data-ttu-id="7f9a5-119">Wenden Sie optional Formatierungen auf die Umfrageelemente an, wie z.B. Umfragekopf, Umfragebeschreibung, Fragetext und Frage-Untertitel.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-119">Optionally, apply formatting to the survey elements, such as survey heading, survey description, question text, and question subtitle.</span></span> <span data-ttu-id="7f9a5-120">Mehr Informationen: [Text in einer Umfrage formatieren](survey-text-format.md).</span><span class="sxs-lookup"><span data-stu-id="7f9a5-120">More information: [Format text in a survey](survey-text-format.md).</span></span>
+5.  <span data-ttu-id="60398-115">Wählen Sie den/die gewünschten Fragetyp(e) aus, die hinzugefügt werden sollen.</span><span class="sxs-lookup"><span data-stu-id="60398-115">Select the required question type(s) to be added.</span></span>
 
-8. <span data-ttu-id="7f9a5-121">Um die Reihenfolge der Fragen in der Umfrage zu ändern, wählen Sie die Frage aus und wählen Sie dann die Pfeile nach oben oder unten auf der rechten Seite jeder Frage, um sie nach oben oder unten zu verschieben.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-121">To change the order of questions in the survey, select the question and then select the up or down arrows on the right side of each question to move them up or down.</span></span>
-
-9. <span data-ttu-id="7f9a5-122">Um eine Frage vor der Anzeige in der Umfrage zu verbergen, bewegen Sie den Schalter **Sichtbar** auf die Position Aus.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-122">To hide a question from being displayed in the survey, move the **Visible** toggle to off position.</span></span> <span data-ttu-id="7f9a5-123">Standardmäßig ist diese Option aktiviert.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-123">By default, this option is turned on.</span></span> <span data-ttu-id="7f9a5-124">Sie können die Frage dem Antwortenden anhand einer Verzweigungsregel zeigen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-124">You can show the question to the responder based on a branching rule.</span></span> <span data-ttu-id="7f9a5-125">Mehr Informationen: [Erstellen Sie eine Verzweigungsregel](create-branching-rule.md).</span><span class="sxs-lookup"><span data-stu-id="7f9a5-125">More information: [Create a branching rule](create-branching-rule.md).</span></span>
+6.  <span data-ttu-id="60398-116">Geben Sie den Fragetext und seine Antwortoptionen ein.</span><span class="sxs-lookup"><span data-stu-id="60398-116">Enter the question text and its answer options.</span></span> <span data-ttu-id="60398-117">Die Umfrage wird automatisch gespeichert.</span><span class="sxs-lookup"><span data-stu-id="60398-117">The survey is saved automatically.</span></span>
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="7f9a5-126">![Fragesichtbarkeit](media/visibility-option.png "Fragesichtbarkeit")</span><span class="sxs-lookup"><span data-stu-id="7f9a5-126">![Question visibility](media/visibility-option.png "Question visibility")</span></span> 
+    > <span data-ttu-id="60398-118">![Umfrage](media/survey.png "Umfrage")</span><span class="sxs-lookup"><span data-stu-id="60398-118">![Survey](media/survey.png "Survey")</span></span> 
+
+7. <span data-ttu-id="60398-119">Wenden Sie optional Formatierungen auf die Umfrageelemente an, wie z.B. Umfragekopf, Umfragebeschreibung, Fragetext und Frage-Untertitel.</span><span class="sxs-lookup"><span data-stu-id="60398-119">Optionally, apply formatting to the survey elements, such as survey heading, survey description, question text, and question subtitle.</span></span> <span data-ttu-id="60398-120">Mehr Informationen: [Text in einer Umfrage formatieren](survey-text-format.md).</span><span class="sxs-lookup"><span data-stu-id="60398-120">More information: [Format text in a survey](survey-text-format.md).</span></span>
+
+8. <span data-ttu-id="60398-121">Um die Reihenfolge der Fragen in der Umfrage zu ändern, wählen Sie die Frage aus und wählen Sie dann die Pfeile nach oben oder unten auf der rechten Seite jeder Frage, um sie nach oben oder unten zu verschieben.</span><span class="sxs-lookup"><span data-stu-id="60398-121">To change the order of questions in the survey, select the question and then select the up or down arrows on the right side of each question to move them up or down.</span></span>
+
+9. <span data-ttu-id="60398-122">Um eine Frage vor der Anzeige in der Umfrage zu verbergen, bewegen Sie den Schalter **Sichtbar** auf die Position Aus.</span><span class="sxs-lookup"><span data-stu-id="60398-122">To hide a question from being displayed in the survey, move the **Visible** toggle to off position.</span></span> <span data-ttu-id="60398-123">Standardmäßig ist diese Option aktiviert.</span><span class="sxs-lookup"><span data-stu-id="60398-123">By default, this option is turned on.</span></span> <span data-ttu-id="60398-124">Sie können die Frage dem Antwortenden anhand einer Verzweigungsregel zeigen.</span><span class="sxs-lookup"><span data-stu-id="60398-124">You can show the question to the responder based on a branching rule.</span></span> <span data-ttu-id="60398-125">Mehr Informationen: [Erstellen Sie eine Verzweigungsregel](create-branching-rule.md).</span><span class="sxs-lookup"><span data-stu-id="60398-125">More information: [Create a branching rule](create-branching-rule.md).</span></span>
+
+    > [!div class=mx-imgBorder]
+    > <span data-ttu-id="60398-126">![Fragesichtbarkeit](media/visibility-option.png "Fragesichtbarkeit")</span><span class="sxs-lookup"><span data-stu-id="60398-126">![Question visibility](media/visibility-option.png "Question visibility")</span></span> 
 
 > [!NOTE]
-> - <span data-ttu-id="7f9a5-127">Sie können Ihre Umfrage personalisieren, indem Sie den Fragen benutzerdefinierte Daten hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-127">You can personalize your survey by adding custom data to the questions.</span></span> <span data-ttu-id="7f9a5-128">Mehr Informationen: [Personalisieren Sie eine Umfrage](personalize-survey.md).</span><span class="sxs-lookup"><span data-stu-id="7f9a5-128">More information: [Personalize a survey](personalize-survey.md).</span></span>
-> - <span data-ttu-id="7f9a5-129">Sie können innerhalb von Microsoft Forms Pro ein klassisches Formular erstellen.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-129">You can create a classic form within Microsoft Forms Pro.</span></span> <span data-ttu-id="7f9a5-130">Mehr Informationen: [Erstellen eines klassischen Formulars](create-classic-form.md).</span><span class="sxs-lookup"><span data-stu-id="7f9a5-130">More information: [Create a classic form](create-classic-form.md).</span></span>
-> - <span data-ttu-id="7f9a5-131">Sie können auch Quizzes innerhalb von Microsoft Forms Pro erstellen, um Echtzeit-Feedback zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="7f9a5-131">You can also create quizzes within Microsoft Forms Pro to get real-time feedback.</span></span> <span data-ttu-id="7f9a5-132">Weitere Informationen zu den Schritten zum Erstellen eines Quiz finden Sie unter: [Erstellen Sie ein Quiz mit Microsoft Forms](https://support.office.com/en-us/article/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d).</span><span class="sxs-lookup"><span data-stu-id="7f9a5-132">For steps to create a quiz, see: [Create a quiz with Microsoft Forms](https://support.office.com/en-us/article/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d).</span></span>
+> - <span data-ttu-id="60398-127">Sie können Ihre Umfrage personalisieren, indem Sie den Fragen benutzerdefinierte Daten hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="60398-127">You can personalize your survey by adding custom data to the questions.</span></span> <span data-ttu-id="60398-128">Mehr Informationen: [Personalisieren Sie eine Umfrage](personalize-survey.md).</span><span class="sxs-lookup"><span data-stu-id="60398-128">More information: [Personalize a survey](personalize-survey.md).</span></span>
+> - <span data-ttu-id="60398-129">Sie können innerhalb von Microsoft Forms Pro ein klassisches Formular erstellen.</span><span class="sxs-lookup"><span data-stu-id="60398-129">You can create a classic form within Microsoft Forms Pro.</span></span> <span data-ttu-id="60398-130">Mehr Informationen: [Erstellen eines klassischen Formulars](create-classic-form.md).</span><span class="sxs-lookup"><span data-stu-id="60398-130">More information: [Create a classic form](create-classic-form.md).</span></span>
+> - <span data-ttu-id="60398-131">Sie können auch Quizzes innerhalb von Microsoft Forms Pro erstellen, um Echtzeit-Feedback zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="60398-131">You can also create quizzes within Microsoft Forms Pro to get real-time feedback.</span></span> <span data-ttu-id="60398-132">Weitere Informationen zu den Schritten zum Erstellen eines Quiz finden Sie unter: [Erstellen Sie ein Quiz mit Microsoft Forms](https://support.office.com/article/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d).</span><span class="sxs-lookup"><span data-stu-id="60398-132">For steps to create a quiz, see: [Create a quiz with Microsoft Forms](https://support.office.com/article/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="7f9a5-133">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="7f9a5-133">See also</span></span>
+## <a name="proactive-phishing-prevention"></a><span data-ttu-id="60398-133">Proaktive Phishingverhinderung</span><span class="sxs-lookup"><span data-stu-id="60398-133">Proactive phishing prevention</span></span>
 
-[<span data-ttu-id="7f9a5-134">Thema auf eine Umfrage anwenden</span><span class="sxs-lookup"><span data-stu-id="7f9a5-134">Apply theme to a survey</span></span>](apply-theme.md)<br>
-[<span data-ttu-id="7f9a5-135">Vorschau und Test einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="7f9a5-135">Preview and test a survey</span></span>](preview-test-survey.md)<br>
-[<span data-ttu-id="7f9a5-136">Erstellen einer Verzweigungsregel</span><span class="sxs-lookup"><span data-stu-id="7f9a5-136">Create a branching rule</span></span>](create-branching-rule.md)<br>
-[<span data-ttu-id="7f9a5-137">Personalisieren einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="7f9a5-137">Personalize a survey</span></span>](personalize-survey.md)<br>
-[<span data-ttu-id="7f9a5-138">Text in einer Umfrage formatieren</span><span class="sxs-lookup"><span data-stu-id="7f9a5-138">Format text in a survey</span></span>](survey-text-format.md)<br>
-[<span data-ttu-id="7f9a5-139">Erstellen eins klassischen Formulars</span><span class="sxs-lookup"><span data-stu-id="7f9a5-139">Create a classic form</span></span>](create-classic-form.md)<br>
-[<span data-ttu-id="7f9a5-140">Erstellen einer mehrsprachigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="7f9a5-140">Create a multilingual survey</span></span>](create-multilingual-survey.md)<br>
-[<span data-ttu-id="7f9a5-141">Erstellen einet mehrseitigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="7f9a5-141">Create a multipage survey</span></span>](create-multipage-survey.md)
+<span data-ttu-id="60398-134">Phishingangriffe versuchen, vertrauliche Informationen durch E-Mail-Nachrichten, Websites, Textnachrichten oder andere Formen der elektronischen Kommunikation zu stehlen. Oft sehen sie aus, wie offizielle Kommunikation von legitimen Unternehmen oder Personen.</span><span class="sxs-lookup"><span data-stu-id="60398-134">Phishing attacks attempt to steal sensitive information through emails, websites, text messages, or other forms of electronic communication that often look to be official communication from legitimate companies or individuals.</span></span> <span data-ttu-id="60398-135">Die Informationen, die Phishers stehlen möchten sind Kennwörter oder andere Anmeldeinformationen.</span><span class="sxs-lookup"><span data-stu-id="60398-135">The information that phishers attempt to steal can be passwords or other credentials.</span></span>
+
+<span data-ttu-id="60398-136">In Microsoft Forms Pro sind automatisierte maschinelle Überprüfungen aktiviert, um proaktiv bösartige Kenntwortsammlungen in Umfragen zu erkennen.</span><span class="sxs-lookup"><span data-stu-id="60398-136">In Microsoft Forms Pro, we enable automated machine reviews to proactively detect malicious password collection in surveys.</span></span>
+
+### <a name="survey-designer-experience"></a><span data-ttu-id="60398-137">Umfragedesignerumgebung</span><span class="sxs-lookup"><span data-stu-id="60398-137">Survey designer experience</span></span>
+
+<span data-ttu-id="60398-138">Beim Entwerfen einer Umfrage, wenn Sie irgendwelche Fragen stellen, die erfordern, dass ein Antwortender das Kennwort, Kontoinformationen oder andere Sicherheitsinformationen angibt, wird die Umfrage automatisch gesperrt und kann nicht verteilt werden.</span><span class="sxs-lookup"><span data-stu-id="60398-138">While designing a survey if you ask any questions that requires a respondent to provide password, account information, or other security information, the survey is automatically blocked and can't be distributed.</span></span> <span data-ttu-id="60398-139">Der Administrator empfängt eine Benachrichtigung und eine Option zum Entsperren der Umfrage.</span><span class="sxs-lookup"><span data-stu-id="60398-139">The administrator receives a notification and an option to unblock the survey.</span></span> <span data-ttu-id="60398-140">Wenn die Sie die Umfrage verteilen möchten, müssen Sie Ihren Admnistrator kontaktieren, damit er sie entsperrt.</span><span class="sxs-lookup"><span data-stu-id="60398-140">If you want to distribute the survey, you must contact your administrator to unblock it.</span></span>
+
+### <a name="administrator-experience"></a><span data-ttu-id="60398-141">Administratorerfahrung</span><span class="sxs-lookup"><span data-stu-id="60398-141">Administrator experience</span></span>
+
+<span data-ttu-id="60398-142">Wenn eine Umfrage automatisch gesperrt wird, erhält der Administrator eine tägliche Benachrichtigung im **Nachrichtencenter** mit einer Option, die Umfrage zu entsperren.</span><span class="sxs-lookup"><span data-stu-id="60398-142">When a survey is blocked automatically, the administrator receives a daily notification in **Message center** with an option to unblock the survey.</span></span> <span data-ttu-id="60398-143">Informationen dazu, wie Sie eine Umfrage entsperren, finden Sie unter [Formulare überprüfen und entsperren, die wegen potenziellem Phishing ermittelt und gesperrt wurden](https://support.office.com/article/review-and-unblock-forms-detected-and-blocked-for-potential-phishing-879a90d7-6ef9-4145-933a-fb53a430bced).</span><span class="sxs-lookup"><span data-stu-id="60398-143">For information on how to unblock a survey, see [Review and unblock forms detected and blocked for potential phishing](https://support.office.com/article/review-and-unblock-forms-detected-and-blocked-for-potential-phishing-879a90d7-6ef9-4145-933a-fb53a430bced).</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="60398-144">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="60398-144">See also</span></span>
+
+[<span data-ttu-id="60398-145">Thema auf eine Umfrage anwenden</span><span class="sxs-lookup"><span data-stu-id="60398-145">Apply theme to a survey</span></span>](apply-theme.md)<br>
+[<span data-ttu-id="60398-146">Vorschau und Test einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="60398-146">Preview and test a survey</span></span>](preview-test-survey.md)<br>
+[<span data-ttu-id="60398-147">Erstellen einer Verzweigungsregel</span><span class="sxs-lookup"><span data-stu-id="60398-147">Create a branching rule</span></span>](create-branching-rule.md)<br>
+[<span data-ttu-id="60398-148">Personalisieren einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="60398-148">Personalize a survey</span></span>](personalize-survey.md)<br>
+[<span data-ttu-id="60398-149">Text in einer Umfrage formatieren</span><span class="sxs-lookup"><span data-stu-id="60398-149">Format text in a survey</span></span>](survey-text-format.md)<br>
+[<span data-ttu-id="60398-150">Erstellen eins klassischen Formulars</span><span class="sxs-lookup"><span data-stu-id="60398-150">Create a classic form</span></span>](create-classic-form.md)<br>
+[<span data-ttu-id="60398-151">Erstellen einer mehrsprachigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="60398-151">Create a multilingual survey</span></span>](create-multilingual-survey.md)<br>
+[<span data-ttu-id="60398-152">Erstellen einet mehrseitigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="60398-152">Create a multipage survey</span></span>](create-multipage-survey.md)

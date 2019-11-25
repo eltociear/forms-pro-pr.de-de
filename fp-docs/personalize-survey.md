@@ -6,117 +6,111 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 08/06/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1AECC69F-B68A-4776-884A-C59770FC5C96
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 8f1982a942ef975346c1523b21a8e038c6339b46
-ms.sourcegitcommit: e3e7192edb3753060a20a4dec47eb98faf1b87a3
+ms.openlocfilehash: 273dde41a751b446cfef024c40492ba2a95434a9
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "1864100"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750486"
 ---
-# <a name="personalize-a-survey"></a><span data-ttu-id="6dc82-103">Personalisieren einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="6dc82-103">Personalize a survey</span></span>
+# <a name="personalize-a-survey"></a><span data-ttu-id="03016-103">Personalisieren einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="03016-103">Personalize a survey</span></span>
 
-<span data-ttu-id="6dc82-104">Mit Platzhaltern können Sie Kundeninformationen mithilfe personalisierter Daten automatisch in Ihre Umfrage einfügen.</span><span class="sxs-lookup"><span data-stu-id="6dc82-104">With placeholders, automatically insert customer information into your survey by using personalized data.</span></span> <span data-ttu-id="6dc82-105">Beispielsweise können Sie personalisierte Daten verwenden, um den Vornamen eines Kunden automatisch in eine Frage einzufügen, um ihn zu personalisieren.</span><span class="sxs-lookup"><span data-stu-id="6dc82-105">For example, you can use personalized data to automatically insert a customer's first name into a question to personalize it.</span></span>
+<span data-ttu-id="03016-104">Sie können benutzerdefinierte Informationen automatisch in Ihre Umfrage einfügen, indem Sie Umfragevariablen verwenden.</span><span class="sxs-lookup"><span data-stu-id="03016-104">You can automatically insert custom information into your survey by using survey variables.</span></span> <span data-ttu-id="03016-105">Beispielsweise können Sie mit einer Umfragevariablen den Vornamen und den Produktnamen eines Kunden automatisch in eine Frage einfügen, um sie zu personalisieren.</span><span class="sxs-lookup"><span data-stu-id="03016-105">For example, you can use a survey variable to automatically insert a customer's first name and product name into a question to personalize it.</span></span>
 
-<span data-ttu-id="6dc82-106">Standardmäßig sind die folgenden personalisierten Datenoptionen verfügbar:</span><span class="sxs-lookup"><span data-stu-id="6dc82-106">By default, the following personalized data options are available:</span></span>
+<span data-ttu-id="03016-106">Standardmäßig sind die folgenden Umfragevariablen verfügbar:</span><span class="sxs-lookup"><span data-stu-id="03016-106">By default, the following survey variables are available:</span></span>
 
-- <span data-ttu-id="6dc82-107">Vorname</span><span class="sxs-lookup"><span data-stu-id="6dc82-107">First name</span></span>
-- <span data-ttu-id="6dc82-108">Nachname</span><span class="sxs-lookup"><span data-stu-id="6dc82-108">Last name</span></span>
+- <span data-ttu-id="03016-107">**Vorname**: Fügt den Vornamen des Empfängers ein.</span><span class="sxs-lookup"><span data-stu-id="03016-107">**First Name**: Inserts first name of the recipient.</span></span>
 
-<span data-ttu-id="6dc82-109">Zum Auswählen oder Hinzufügen neuer personalisierter Daten:</span><span class="sxs-lookup"><span data-stu-id="6dc82-109">To select or add a new personalized data:</span></span>
+- <span data-ttu-id="03016-108">**Nachname**: Fügt den Nachnamen des Empfängers ein.</span><span class="sxs-lookup"><span data-stu-id="03016-108">**Last Name**: Inserts last name of the recipient.</span></span>
 
-1.  <span data-ttu-id="6dc82-110">Öffnen Sie die Umfrage, in der Sie personalisierte Daten verwenden möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-110">Open the survey in which you want to use personalized data.</span></span>
+<span data-ttu-id="03016-109">Um eine neue Umfragevariable zu erstellen:</span><span class="sxs-lookup"><span data-stu-id="03016-109">To create a new survey variable:</span></span>
 
-2.  <span data-ttu-id="6dc82-111">Wählen Sie auf der Registerkarte **Fragen erstellen** die Schaltfläche Ellipsis (...) in der Symbolleiste oben auf der Seite und dann **Personalisieren**.</span><span class="sxs-lookup"><span data-stu-id="6dc82-111">On the **Create Questions** tab, select the ellipsis button (…) from the toolbar at the top of the page, and then select **Personalize**.</span></span>
+1.  <span data-ttu-id="03016-110">Öffnen Sie die Umfrage, in der Sie Umfragevariablen verwenden möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-110">Open the survey in which you want to use survey variables.</span></span>
+
+2.  <span data-ttu-id="03016-111">Wählen Sie die Schaltfläche **Auslassungspunkte** (...) in der Symbolleiste oben auf der Seite und dann **Variablen der Umfrage**.</span><span class="sxs-lookup"><span data-stu-id="03016-111">Select the **ellipsis** button (…) from the toolbar at the top of the page, and then select **Survey variables**.</span></span>
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="6dc82-112">![Personalisieren](media/custom-data-button.png "Personalisieren")</span><span class="sxs-lookup"><span data-stu-id="6dc82-112">![Personalize button](media/custom-data-button.png "Personalize button")</span></span>
+    > <span data-ttu-id="03016-112">![Schaltflächefür Umfragevariablen](media/custom-data-button.png "Schaltfläche Variablen der Umfrage")</span><span class="sxs-lookup"><span data-stu-id="03016-112">![Survey variables button](media/custom-data-button.png "Survey variables button")</span></span>
 
-3.  <span data-ttu-id="6dc82-113">Wählen Sie aus der Liste der verfügbaren personalisierten Daten die personalisierten Daten aus, die Sie in Ihrer Umfrage verwenden möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-113">From the list of available personalized data, select the personalized data that you want to use in your survey.</span></span>
+3.  <span data-ttu-id="03016-113">Wählen Sie **Neue Variable**.</span><span class="sxs-lookup"><span data-stu-id="03016-113">Select **New variable**.</span></span>
 
-4.  <span data-ttu-id="6dc82-114">Um neue personalisierte Daten hinzuzufügen, wählen Sie **Personalisierte Daten hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="6dc82-114">To add new personalized data, select **Add personalized data**.</span></span>
-
-5.  <span data-ttu-id="6dc82-115">Geben Sie einen Namen für die personalisierten Daten ein.</span><span class="sxs-lookup"><span data-stu-id="6dc82-115">Enter a name for the personalized data.</span></span>
-
-6.  <span data-ttu-id="6dc82-116">Wählen Sie **Hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="6dc82-116">Select **Add**.</span></span>
+5.  <span data-ttu-id="03016-114">Geben Sie einen Namen und einen Standardwert für die Umfragevariable ein.</span><span class="sxs-lookup"><span data-stu-id="03016-114">Enter a name and default value for the survey variable.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="6dc82-117">Sie können auch Einladungen zu Umfragen personalisieren.</span><span class="sxs-lookup"><span data-stu-id="6dc82-117">You can also personalize survey invitations.</span></span> <span data-ttu-id="6dc82-118">Mehr Informationen: [Personalisieren Sie eine E-Mail](send-survey-email.md#personalize-an-email).</span><span class="sxs-lookup"><span data-stu-id="6dc82-118">More information: [Personalize an email](send-survey-email.md#personalize-an-email).</span></span>
-> - <span data-ttu-id="6dc82-119">Verwenden Sie keine personenbezogenen Daten, wenn Sie planen, eine Umfrage anonym zu versenden.</span><span class="sxs-lookup"><span data-stu-id="6dc82-119">Don't use personalized data if you plan to send a survey anonymously.</span></span> <span data-ttu-id="6dc82-120">Bei einer anonymen Umfrage werden Platzhalter nicht durch aktuelle Daten ersetzt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-120">Placeholders will not be replaced with actual data in an anonymous survey.</span></span>
-> - <span data-ttu-id="6dc82-121">Platzhalter für personalisierte Daten werden durch die in einer Umfrage-E-Mail in den entsprechenden Feldern angegebenen Werte ersetzt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-121">Personalized data placeholders are replaced with the values specified in appropriate fields in a survey email.</span></span>
-> - <span data-ttu-id="6dc82-122">Sie können maximal 15 personalisierte Datenenplatzhalter in einer Umfrage definieren.</span><span class="sxs-lookup"><span data-stu-id="6dc82-122">You can define a maximum of 15 personalized data placeholders in a survey.</span></span>
+> - <span data-ttu-id="03016-115">Sie können Umfrageeinladungen auch personalisieren, indem Sie Umfragevariablen verwenden.</span><span class="sxs-lookup"><span data-stu-id="03016-115">You can also personalize survey invitations by using survey variables.</span></span> <span data-ttu-id="03016-116">Mehr Informationen: [Personalisieren Sie eine E-Mail](send-survey-email.md#personalize-an-email).</span><span class="sxs-lookup"><span data-stu-id="03016-116">More information: [Personalize an email](send-survey-email.md#personalize-an-email).</span></span>
+> - <span data-ttu-id="03016-117">Verwenden Sie keine Umfragevariablen, wenn Sie planen, eine Umfrage anonym zu senden.</span><span class="sxs-lookup"><span data-stu-id="03016-117">Don't use survey variables if you plan to send a survey anonymously.</span></span> <span data-ttu-id="03016-118">Sie werden bei einer anonymen Umfrage nicht durch aktuelle Daten ersetzt.</span><span class="sxs-lookup"><span data-stu-id="03016-118">They will not be replaced with actual data in an anonymous survey.</span></span>
+> - <span data-ttu-id="03016-119">Variablen der Umfrage werden beim Senden einer Umfrageeinladung durch die angegebenen Standardwerte ersetzt.</span><span class="sxs-lookup"><span data-stu-id="03016-119">Survey variables are replaced with the specified default values when sending a survey invitation.</span></span>
+> - <span data-ttu-id="03016-120">Sie können maximal 15 Variablen in einer Umfrage definieren.</span><span class="sxs-lookup"><span data-stu-id="03016-120">You can define a maximum of 15 variables in a survey.</span></span>
 
-## <a name="add-personalized-data-placeholders-to-a-question"></a><span data-ttu-id="6dc82-123">Hinzufügen von personalisierten Datenplatzhaltern zu einer Frage</span><span class="sxs-lookup"><span data-stu-id="6dc82-123">Add personalized data placeholders to a question</span></span>
+## <a name="add-survey-variables-to-a-question"></a><span data-ttu-id="03016-121">Hinzufügen von Umfragevariablen zu einer Frage</span><span class="sxs-lookup"><span data-stu-id="03016-121">Add survey variables to a question</span></span>
 
-<span data-ttu-id="6dc82-124">Nachdem Sie die erforderlichen personalisierten Daten ausgewählt oder hinzugefügt haben, müssen Sie diese Daten den Platzhaltern in der Frage zuordnen.</span><span class="sxs-lookup"><span data-stu-id="6dc82-124">After selecting or adding the required personalized data, you need to associate that data with placeholders in the question.</span></span> <span data-ttu-id="6dc82-125">So fügen Sie einer Frage personalisierte Datenplatzhalter hinzu:</span><span class="sxs-lookup"><span data-stu-id="6dc82-125">To add personalized data placeholders to a question:</span></span>
+<span data-ttu-id="03016-122">Nachdem Sie die erforderlichen Umfragevariablen erstellt haben, müssen Sie diese in die Frage aufnehmen.</span><span class="sxs-lookup"><span data-stu-id="03016-122">After creating the required survey variables, you need to add them in the question.</span></span> <span data-ttu-id="03016-123">So fügen Sie einer Frage Umfragevariablen hinzu:</span><span class="sxs-lookup"><span data-stu-id="03016-123">To add survey variables to a question:</span></span>
 
-1.  <span data-ttu-id="6dc82-126">Öffnen Sie die Umfrage, in der Sie personalisierte Datenplatzhalter hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-126">Open the survey in which you want to add personalized data placeholders.</span></span>
+1.  <span data-ttu-id="03016-124">Öffnen Sie die Umfrage, in der Sie Umfragevariablen hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-124">Open the survey in which you want to add survey variables.</span></span>
 
-2.  <span data-ttu-id="6dc82-127">Wählen Sie auf der Registerkarte **Fragen erstellen** den Fragentext aus, dem Sie personalisierte Daten hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-127">On the **Create Questions** tab, select the question text to which you want to add personalized data.</span></span> <span data-ttu-id="6dc82-128">Die Formatsymbolleiste wird angezeigt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-128">The formatting toolbar appears.</span></span>
+2.  <span data-ttu-id="03016-125">Wählen Sie auf der Registerkarte **Fragen** den Fragetext aus, dem Sie eine Umfragevariable hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-125">On the **Questions** tab, select the question text to which you want to add a survey variable.</span></span> <span data-ttu-id="03016-126">Die Formatsymbolleiste wird angezeigt.</span><span class="sxs-lookup"><span data-stu-id="03016-126">The formatting toolbar appears.</span></span>
 
-3.  <span data-ttu-id="6dc82-129">Positionieren Sie den Cursor an der Stelle, an der Sie den Platzhalter für personalisierte Daten hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-129">Place the cursor at the location where you want to add the personalized data placeholder.</span></span>
+3.  <span data-ttu-id="03016-127">Positionieren Sie den Cursor an der Stelle, an der Sie die Umfragevariable hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-127">Place the cursor at the location where you want to add the survey variable.</span></span>
 
-4.  <span data-ttu-id="6dc82-130">Wählen Sie aus der Liste **Personalisieren** in der Formatierungssymbolleiste die personalisierten Daten aus, die Sie hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-130">From the **Personalize** list in the formatting toolbar, select the personalized data that you want to add.</span></span> 
-
-    > [!div class=mx-imgBorder]
-    > <span data-ttu-id="6dc82-131">![Personalisierte Daten hinzufügen](media/add-pipe-data.png "Personalisierte Daten hinzufügen")</span><span class="sxs-lookup"><span data-stu-id="6dc82-131">![Add personalized data](media/add-pipe-data.png "Add personalized data")</span></span>
-
-<span data-ttu-id="6dc82-132">Angenommen, Sie haben personalisierte Daten mit dem Namen **Produktname** angelegt und möchten in einer Frage den Vornamen des Kunden und den Produktnamen anzeigen.</span><span class="sxs-lookup"><span data-stu-id="6dc82-132">For example, let's say that you've created personalized data named **Product Name** and that you want to display the customer's first name and the product name in a question.</span></span> <span data-ttu-id="6dc82-133">Wählen Sie aus der Liste **Personalisieren** **Vorname** und **Produktname** als personalisierte Daten.</span><span class="sxs-lookup"><span data-stu-id="6dc82-133">Select **First Name** and **Product Name** personalized data from the **Personalize** list.</span></span> <span data-ttu-id="6dc82-134">Die Platzhalter *{{Vorname}}* und *{{Produktname}}* werden an der Cursorposition eingefügt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-134">The *{{First Name}}* and *{{Product Name}}* placeholders are inserted at the cursor location.</span></span>
-
-<span data-ttu-id="6dc82-135">Nehmen wir an, die Frage ist: *{{Vorname}}*, wie beurteilen Sie insgesamt Ihre Erfahrungen mit dem Kundenservice für *{{Produktname}}*?</span><span class="sxs-lookup"><span data-stu-id="6dc82-135">Let's say the question is: *{{First Name}}*, overall, how would you rate your experience with customer service for *{{Product Name}}*?</span></span>
-
-<span data-ttu-id="6dc82-136">Diese Frage wird so aussehen, wenn ein Kunde namens Bert Hair die Umfrage zu einem Produkt namens Contoso Sales durchführt:</span><span class="sxs-lookup"><span data-stu-id="6dc82-136">That question will look like this when a customer named Bert Hair takes the survey for a product named Contoso Sales:</span></span>
-
-<span data-ttu-id="6dc82-137">Bert, insgesamt, wie würden Sie Ihre Erfahrungen mit dem Kundenservice für Contoso Sales bewerten?</span><span class="sxs-lookup"><span data-stu-id="6dc82-137">Bert, overall, how would you rate your experience with customer service for Contoso Sales?</span></span>
-
-## <a name="specify-values-for-personalized-data-placeholders"></a><span data-ttu-id="6dc82-138">Geben Sie Werte für personalisierte Datenplatzhalter an.</span><span class="sxs-lookup"><span data-stu-id="6dc82-138">Specify values for personalized data placeholders</span></span>
-
-<span data-ttu-id="6dc82-139">Nachdem Sie in einer Frage personalisierte Datenplatzhalter hinzugefügt und verwendet haben, geben Sie Werte für diese an.</span><span class="sxs-lookup"><span data-stu-id="6dc82-139">After adding and using personalized data placeholders in a question, specify values for them.</span></span> <span data-ttu-id="6dc82-140">Wenn Sie für sie keine Werte angeben, werden die Platzhalter nicht durch die Werte ersetzt und werden unverändert angezeigt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-140">If you do not specify values for them, the placeholders are not replaced with the values and are displayed as is.</span></span> <span data-ttu-id="6dc82-141">Sie können die Werte für personalisierte Datenplatzhalter angeben:</span><span class="sxs-lookup"><span data-stu-id="6dc82-141">You can specify the values for personalized data placeholders:</span></span> 
-
-- <span data-ttu-id="6dc82-142">Beim Senden einer E-Mail.</span><span class="sxs-lookup"><span data-stu-id="6dc82-142">When sending an email.</span></span>
-- <span data-ttu-id="6dc82-143">Bei der Konfiguration eines Flows.</span><span class="sxs-lookup"><span data-stu-id="6dc82-143">When configuring a flow.</span></span>
-
-### <a name="specify-values-in-an-email"></a><span data-ttu-id="6dc82-144">Werte in einer E-Mail angeben</span><span class="sxs-lookup"><span data-stu-id="6dc82-144">Specify values in an email</span></span>
-
-<span data-ttu-id="6dc82-145">Wenn Sie in einer E-Mail personalisierte Datenplatzhalter hinzugefügt haben, wird unterhalb des E-Mail-Editors ein Abschnitt angezeigt.</span><span class="sxs-lookup"><span data-stu-id="6dc82-145">If you've added personalized data placeholders in an email, a section is displayed below the email editor.</span></span> <span data-ttu-id="6dc82-146">Wählen Sie **Personalisierte Daten definieren**, um den Abschnitt zu erweitern und die Werte beim Senden von E-Mail-Einladungen anzugeben.</span><span class="sxs-lookup"><span data-stu-id="6dc82-146">Select **Define personalized data** to expand the section and specify the values when sending email invitations.</span></span>
-
-> [!div class=mx-imgBorder]
-> <span data-ttu-id="6dc82-147">![Werte für personalisierte Daten in einer E-Mail angeben](media/custom-data-values.png "Werte für personalisierte Daten in einer E-Mail angeben")</span><span class="sxs-lookup"><span data-stu-id="6dc82-147">![Specify values for personalized data in an email](media/custom-data-values.png "Specify values for personalized data in an email")</span></span>
-
-### <a name="specify-values-in-a-flow"></a><span data-ttu-id="6dc82-148">Werte in einem Flow angeben</span><span class="sxs-lookup"><span data-stu-id="6dc82-148">Specify values in a flow</span></span>
-
-<span data-ttu-id="6dc82-149">Um Werte für personalisierte Datenplatzhalter in einem Flow anzugeben:</span><span class="sxs-lookup"><span data-stu-id="6dc82-149">To specify values for personalized data placeholders in a flow:</span></span>
-
-1.  <span data-ttu-id="6dc82-150">Wählen Sie während der Konfiguration eines Flows **Bearbeiten im erweiterten Modus**.</span><span class="sxs-lookup"><span data-stu-id="6dc82-150">While configuring a flow, select **Edit in advanced mode**.</span></span>
+4.  <span data-ttu-id="03016-128">Wählen Sie in der Liste **Variablen** in der Formatierungssymbolleiste die Umfragevariable aus, die Sie hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-128">From the **Variables** list in the formatting toolbar, select the survey variable you want to add.</span></span> 
 
     > [!div class=mx-imgBorder]
-    > <span data-ttu-id="6dc82-151">![Ein Flow im erweiterten Modus bearbeiten](media/flow-advanced-mode.png "Ein Flow im erweiterten Modus bearbeiten")</span><span class="sxs-lookup"><span data-stu-id="6dc82-151">![Edit a flow in advanced mode](media/flow-advanced-mode.png "Edit a flow in advanced mode")</span></span>
+    > <span data-ttu-id="03016-129">![Umfragevariablen hinzufügen ](media/add-pipe-data.png "Hinzufügen von Umfragevariablen")</span><span class="sxs-lookup"><span data-stu-id="03016-129">![Add survey variables](media/add-pipe-data.png "Add survey variables")</span></span>
 
-2.  <span data-ttu-id="6dc82-152">Gehen Sie zu dem Schritt, der die Umfrage sendet, und erweitern Sie sie.</span><span class="sxs-lookup"><span data-stu-id="6dc82-152">Go to the step that sends the survey, and expand it.</span></span>
+<span data-ttu-id="03016-130">Nehmen wir zum Beispiel an, dass Sie eine Umfragevariable mit dem Namen **Produktname** erstellt haben und dass Sie den Vornamen des Kunden und den Produktnamen in einer Frage anzeigen möchten.</span><span class="sxs-lookup"><span data-stu-id="03016-130">For example, let's say that you've created a survey variable named **Product Name** and that you want to display the customer's first name and the product name in a question.</span></span> <span data-ttu-id="03016-131">Wählen Sie **Vorname** und **Produktname** aus der Liste **Variablen**.</span><span class="sxs-lookup"><span data-stu-id="03016-131">Select **First Name** and **Product Name** from the **Variables** list.</span></span> <span data-ttu-id="03016-132">*{{Vorname}}* und *{{Produktname}}* werden an der Cursorposition eingefügt.</span><span class="sxs-lookup"><span data-stu-id="03016-132">*{{First Name}}* and *{{Product Name}}* are inserted at the cursor location.</span></span>
 
-3.  <span data-ttu-id="6dc82-153">Wählen Sie **Erweiterte Optionen anzeigen**.</span><span class="sxs-lookup"><span data-stu-id="6dc82-153">Select **Show advanced options**.</span></span>
+<span data-ttu-id="03016-133">Nehmen wir an, die Frage ist: *{{Vorname}}*, wie beurteilen Sie insgesamt Ihre Erfahrungen mit dem Kundenservice für *{{Produktname}}*?</span><span class="sxs-lookup"><span data-stu-id="03016-133">Let's say the question is: *{{First Name}}*, overall, how would you rate your experience with customer service for *{{Product Name}}*?</span></span>
 
-    <span data-ttu-id="6dc82-154">![Erweiterte Optionen für einen Schritt in einem Flow anzeigen](media/flow-step-advanced-options-button.png "Erweiterte Optionen für einen Schritt in einem Flow anzeigen")</span><span class="sxs-lookup"><span data-stu-id="6dc82-154">![Show advanced options for a step in a flow](media/flow-step-advanced-options-button.png "Show advanced options for a step in a flow")</span></span>
+<span data-ttu-id="03016-134">Diese Frage wird so aussehen, wenn ein Kunde namens Bert Hair die Umfrage zu einem Produkt namens Contoso Sales durchführt:</span><span class="sxs-lookup"><span data-stu-id="03016-134">That question will look like this when a customer named Bert Hair takes the survey for a product named Contoso Sales:</span></span>
 
-4.  <span data-ttu-id="6dc82-155">Geben Sie die Werte für personalisierte Datenplatzhalter an.</span><span class="sxs-lookup"><span data-stu-id="6dc82-155">Specify the values for personalized data placeholders.</span></span>
+<span data-ttu-id="03016-135">Bert, insgesamt, wie würden Sie Ihre Erfahrungen mit dem Kundenservice für Contoso Sales bewerten?</span><span class="sxs-lookup"><span data-stu-id="03016-135">Bert, overall, how would you rate your experience with customer service for Contoso Sales?</span></span>
 
-    <span data-ttu-id="6dc82-156">![Werte für personalisierte Datenplatzhalter festlegen](media/flow-step-advanced-options.png "Werte für personalisierte Datenplatzhalter festlegen")</span><span class="sxs-lookup"><span data-stu-id="6dc82-156">![Specify values for personalized data placeholders](media/flow-step-advanced-options.png "Specify values for personalized data placeholders")</span></span>
+## <a name="specify-values-for-survey-variables"></a><span data-ttu-id="03016-136">Geben Sie Werte für Umfragevariablen an</span><span class="sxs-lookup"><span data-stu-id="03016-136">Specify values for survey variables</span></span>
 
-5.  <span data-ttu-id="6dc82-157">Speichern Sie die Änderungen.</span><span class="sxs-lookup"><span data-stu-id="6dc82-157">Save the changes.</span></span> 
+<span data-ttu-id="03016-137">Bei der Erstellung der Umfragevariablen müssen Sie einen Standardwert für diese angeben.</span><span class="sxs-lookup"><span data-stu-id="03016-137">You must specify a default value for the survey variables while creating them.</span></span> <span data-ttu-id="03016-138">Wenn Sie keinen Standardwert angeben, wird für die Umfragevariable nichts angezeigt.</span><span class="sxs-lookup"><span data-stu-id="03016-138">If you do not specify a default value, nothing will be displayed for the survey variable.</span></span> <span data-ttu-id="03016-139">Sie können auch die Werte für Umfragevariablen angeben:</span><span class="sxs-lookup"><span data-stu-id="03016-139">You can also specify the values for survey variables:</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="6dc82-158">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="6dc82-158">See also</span></span>
+- <span data-ttu-id="03016-140">Beim Versenden von E-Mail-Einladungen.</span><span class="sxs-lookup"><span data-stu-id="03016-140">When sending email invitations.</span></span>
+- <span data-ttu-id="03016-141">Bei der Konfiguration eines Flows.</span><span class="sxs-lookup"><span data-stu-id="03016-141">When configuring a flow.</span></span>
 
-[<span data-ttu-id="6dc82-159">Eine neue Umfrage erstellen</span><span class="sxs-lookup"><span data-stu-id="6dc82-159">Create a new survey</span></span>](create-new-survey.md)<br>
-[<span data-ttu-id="6dc82-160">Thema auf eine Umfrage anwenden</span><span class="sxs-lookup"><span data-stu-id="6dc82-160">Apply theme to a survey</span></span>](apply-theme.md)<br>
-[<span data-ttu-id="6dc82-161">Vorschau und Test einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="6dc82-161">Preview and test a survey</span></span>](preview-test-survey.md)<br>
-[<span data-ttu-id="6dc82-162">Erstellen einer Verzweigungsregel</span><span class="sxs-lookup"><span data-stu-id="6dc82-162">Create a branching rule</span></span>](create-branching-rule.md)<br>
-[<span data-ttu-id="6dc82-163">Text in einer Umfrage formatieren</span><span class="sxs-lookup"><span data-stu-id="6dc82-163">Format text in a survey</span></span>](survey-text-format.md)<br>
-[<span data-ttu-id="6dc82-164">Erstellen eins klassischen Formulars</span><span class="sxs-lookup"><span data-stu-id="6dc82-164">Create a classic form</span></span>](create-classic-form.md)<br>
-[<span data-ttu-id="6dc82-165">Erstellen einer mehrsprachigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="6dc82-165">Create a multilingual survey</span></span>](create-multilingual-survey.md)<br>
-[<span data-ttu-id="6dc82-166">Erstellen einet mehrseitigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="6dc82-166">Create a multipage survey</span></span>](create-multipage-survey.md)
+### <a name="specify-values-when-sending-email-invitations"></a><span data-ttu-id="03016-142">Geben Sie Werte für den Versand von E-Mail-Einladungen an</span><span class="sxs-lookup"><span data-stu-id="03016-142">Specify values when sending email invitations</span></span>
+
+<span data-ttu-id="03016-143">Wenn Sie Umfragevariablen erstellt haben, aber ihre Standardwerte nicht angegeben haben, wird beim Senden einer Umfrage oben auf der Seite eine Warnmeldung angezeigt.</span><span class="sxs-lookup"><span data-stu-id="03016-143">If you've created survey variables but did not specify their default values, a warning message is displayed at the top of the page when sending a survey.</span></span> <span data-ttu-id="03016-144">Wählen Sie **Umfragevariablen definieren**, um den Bereich **Umfragevariablen** zu öffnen und die Standardwerte festzulegen.</span><span class="sxs-lookup"><span data-stu-id="03016-144">Select **Define survey variables** to open the **Survey variables** pane and specify the default values.</span></span>
+
+### <a name="specify-values-in-a-flow"></a><span data-ttu-id="03016-145">Werte in einem Flow angeben</span><span class="sxs-lookup"><span data-stu-id="03016-145">Specify values in a flow</span></span>
+
+<span data-ttu-id="03016-146">Um Werte für Umfragevariablen in einem Flow anzugeben:</span><span class="sxs-lookup"><span data-stu-id="03016-146">To specify values for survey variables in a flow:</span></span>
+
+1.  <span data-ttu-id="03016-147">Wählen Sie während der Konfiguration eines Flows **Bearbeiten im erweiterten Modus**.</span><span class="sxs-lookup"><span data-stu-id="03016-147">While configuring a flow, select **Edit in advanced mode**.</span></span>
+
+    > [!div class=mx-imgBorder]
+    > <span data-ttu-id="03016-148">![Bearbeiten Sie einen Flow im erweiterten Modus](media/flow-advanced-mode.png "Bearbeiten eines Flows im erweiterten Modus")</span><span class="sxs-lookup"><span data-stu-id="03016-148">![Edit a flow in advanced mode](media/flow-advanced-mode.png "Edit a flow in advanced mode")</span></span>
+
+2.  <span data-ttu-id="03016-149">Gehen Sie zu dem Schritt, der die Umfrage sendet, und erweitern Sie sie.</span><span class="sxs-lookup"><span data-stu-id="03016-149">Go to the step that sends the survey, and expand it.</span></span>
+
+3.  <span data-ttu-id="03016-150">Wählen Sie **Erweiterte Optionen anzeigen**.</span><span class="sxs-lookup"><span data-stu-id="03016-150">Select **Show advanced options**.</span></span>
+
+    <span data-ttu-id="03016-151">![Erweiterte Optionen für einen Schritt in einem Flow anzeigen](media/flow-step-advanced-options-button.png "Zeigt erweiterte Optionen für einen Schritt in einem Flow an")</span><span class="sxs-lookup"><span data-stu-id="03016-151">![Show advanced options for a step in a flow](media/flow-step-advanced-options-button.png "Show advanced options for a step in a flow")</span></span>
+
+4.  <span data-ttu-id="03016-152">Geben Sie die Werte für Umfragevariablen an.</span><span class="sxs-lookup"><span data-stu-id="03016-152">Specify the values for survey variables.</span></span>
+
+    <span data-ttu-id="03016-153">![Werte für Umfragevariablen festlegen](media/flow-step-advanced-options.png "Geben Sie Werte für Umfragevariablen an")</span><span class="sxs-lookup"><span data-stu-id="03016-153">![Specify values for survey variables](media/flow-step-advanced-options.png "Specify values for survey variables")</span></span>
+
+5.  <span data-ttu-id="03016-154">Speichern Sie die Änderungen.</span><span class="sxs-lookup"><span data-stu-id="03016-154">Save the changes.</span></span> 
+
+## <a name="see-also"></a><span data-ttu-id="03016-155">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="03016-155">See also</span></span>
+
+[<span data-ttu-id="03016-156">Eine neue Umfrage erstellen</span><span class="sxs-lookup"><span data-stu-id="03016-156">Create a new survey</span></span>](create-new-survey.md)<br>
+[<span data-ttu-id="03016-157">Thema auf eine Umfrage anwenden</span><span class="sxs-lookup"><span data-stu-id="03016-157">Apply theme to a survey</span></span>](apply-theme.md)<br>
+[<span data-ttu-id="03016-158">Vorschau und Test einer Umfrage</span><span class="sxs-lookup"><span data-stu-id="03016-158">Preview and test a survey</span></span>](preview-test-survey.md)<br>
+[<span data-ttu-id="03016-159">Erstellen einer Verzweigungsregel</span><span class="sxs-lookup"><span data-stu-id="03016-159">Create a branching rule</span></span>](create-branching-rule.md)<br>
+[<span data-ttu-id="03016-160">Text in einer Umfrage formatieren</span><span class="sxs-lookup"><span data-stu-id="03016-160">Format text in a survey</span></span>](survey-text-format.md)<br>
+[<span data-ttu-id="03016-161">Erstellen eins klassischen Formulars</span><span class="sxs-lookup"><span data-stu-id="03016-161">Create a classic form</span></span>](create-classic-form.md)<br>
+[<span data-ttu-id="03016-162">Erstellen einer mehrsprachigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="03016-162">Create a multilingual survey</span></span>](create-multilingual-survey.md)<br>
+[<span data-ttu-id="03016-163">Erstellen einet mehrseitigen Umfrage</span><span class="sxs-lookup"><span data-stu-id="03016-163">Create a multipage survey</span></span>](create-multipage-survey.md)

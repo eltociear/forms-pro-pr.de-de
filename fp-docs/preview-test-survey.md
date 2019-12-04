@@ -6,38 +6,36 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 04/26/2019
+ms.date: 11/04/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 07e97246-0eb2-4474-863b-363bd1a267fd
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 695705a16e6dc7e2c6bfc98e922e0ffd8adab59c
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 04d0baf2ede872586e3fd3d69fca2df159399bc2
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778443"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751350"
 ---
 # <a name="preview-and-test-a-survey"></a>Vorschau und Test einer Umfrage
-
-
 
 Nachdem Sie eine Umfrage erstellt und bearbeitet haben, können Sie sie in der Vorschau ansehen und testen, bevor Sie sie an die Befragten verteilen:
 
 1.  Öffnen Sie die Umfrage, die Sie in der Vorschau anzeigen möchten.
 
-2.  Wählen Sie auf der Registerkarte **Fragen erstellen** **Vorschau** ![Vorschau einer Umfrage](media/preview-survey.png "Vorschau einer Umfrage") aus der Symbolleiste oben auf der Seite, um zu sehen, wie Ihre Umfrage auf einem Computer aussehen wird.
+2.  Wählen Sie **Vorschau** aus der Symbolleiste oben auf der Seite, um zu sehen, wie Ihre Umfrage auf einem Computer aussehen wird.
 
 3.  Um Ihre Umfrage zu testen, geben Sie die Antworten auf die Fragen im Vorschaumodus ein und wählen Sie dann **Senden**.
 
     > [!div class=mx-imgBorder]
-    > ![Vorschau einer Umfrage auf einem Computer](media/preview-survey-computer.png "Vorschau einer Umfrage auf einem Computer")
+    > ![Vorschau einer Umfrage auf einem Computer ](media/preview-survey-computer.png "Vorschau einer Umfrage auf einem Computer")
 
 4.  Um zu sehen, wie Ihre Umfrage auf einem mobilen Gerät aussehen wird, wählen Sie **Mobil**.
 
-    ![Vorschau einer Umfrage auf einem mobilen Gerät](media/preview-survey-mobile.png "Vorschau einer Umfrage auf einem mobilen Gerät")
+    ![Vorschau einer Umfrage auf einem mobilen Gerät ](media/preview-survey-mobile.png "Vorschau einer Umfrage auf einem mobilen Gerät")
 
 5.  Nachdem Sie Ihre Umfrage in der Vorschau angesehen und getestet haben, wählen Sie **Zurück**.
 

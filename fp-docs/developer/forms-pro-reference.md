@@ -18,21 +18,19 @@ search.app:
 - D365CE
 search.appverid:
 - FPR160
-ms.openlocfilehash: c797c4b45f19304327ad9d59752b9a3253dacfcd
-ms.sourcegitcommit: a6898e26a02c9e8b7c627656a82755ec050c574b
+ms.openlocfilehash: 3f3ec1673db98e18b990aed9d98647f6b105ddb6
+ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2019
-ms.locfileid: "2051836"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2750692"
 ---
 # <a name="entity-reference-for-microsoft-forms-pro"></a>Entitätsreferenz für Microsoft Forms Pro
-
-
 
 Verwenden Sie diese Referenz, um die verfügbaren Vorgänge, die für bestimmte Entitäten, die Standardattributattribute jeder Entität und Beziehungen zwischen Entitäten ausgeführt werden können, zu verstehen.
 
 > [!IMPORTANT]
-> Sie können ein Entitätsbeziehungsdiagramm der Entitäten des ausgewählten Elements mit [Metadaten-Diagrammtool](https://code.msdn.microsoft.com/Sample-of-generating-a0ba0e47) erstellen. Dazu brauchen Sie den logischen Entitätsnamen als Parameter, während das Beispiel ausgeführt wird. Weitere Informationen: [Verwenden von Metadaten zum Generieren von Entitätsdiagrammen](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/use-metadata-generate-entity-diagrams).
+> Sie können ein Entitätsbeziehungsdiagramm der Entitäten des ausgewählten Elements mit [Metadaten-Diagrammtool](https://code.msdn.microsoft.com/Sample-of-generating-a0ba0e47) erstellen. Dazu brauchen Sie den logischen Entitätsnamen als Parameter, während das Beispiel ausgeführt wird. Weitere Informationen: [Verwenden von Metadaten zum Generieren von Entitätsdiagrammen](https://docs.microsoft.com/dynamics365/customer-engagement/developer/use-metadata-generate-entity-diagrams).
 
 ## <a name="entities"></a>Entitäten
 

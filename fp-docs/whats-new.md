@@ -6,23 +6,34 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 10/16/2019
+ms.date: 11/25/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6104FBF8-A032-4155-805B-4B5B5D00B30F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 4602b6e9e9c36fcccaeaf5951d017931ad4d9a77
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: de0a5cc7dceb4b185467d078451cd98b23796d7f
+ms.sourcegitcommit: 0612d18dc0591d4854e0452aacaeeaa68a9afc8f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750002"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2831147"
 ---
 # <a name="whats-new-in-microsoft-forms-pro"></a>Neuerungen in Microsoft Forms Pro
 
-Willkommen bei Microsoft Forms Pro. Die nachstehende Liste enthält die vor Kurzem hinzugefügten und aktualisierten Funktionen.
+Willkommen bei Microsoft Forms Pro. Die nachstehende Liste enthält die vor Kurzem hinzugefügten oder aktualisierten Funktionen.
+
+## <a name="november-2019-update"></a>Update für November 2019
+
+Die folgenden Berechtigungen sind neu oder wurden in dieser Version geändert:
+
+- **Anzeigedichte eingebetteter Umfragen steuern**: Sie können jetzt eine Anzeigedichte für Ihre eingebetteten Umfragen auswählen. Die Anzeigendichte steuert die Menge der Leerzeichen und die Größe der Elemente auf dem Bildschirm. Weitere Informationen: [Umfrage in eine Webseite einbetten](embed-web-page.md)
+  
+- **Umfragevariablen verwenden, um Umfragen zu personalisieren, Einladungen per E-Mail zu versenden und Kontextinformationen zu sammeln**: Es werden Umfragevariablen eingeführt, mit denen Sie Ihre Umfragen und E-Mail-Einladungen personalisieren können. Sie können sie auch beim Einbetten Ihrer Umfragen verwenden, um Kontextinformationen zu Ihren Empfängern zu sammeln. Weitere Informationen: [Personalisieren einer Umfrage](personalize-survey.md), [Personalisieren einer E-Mail](send-survey-email.md#personalize-an-email) und [Einbetten einer Umfrage in eine Webseite](embed-web-page.md).
+  
+- **Verbesserte Beschränkungen für den Import von Empfängern und Umfrageeinladungen**: Sie können jetzt bis zu 10000 Empfänger mithilfe der CSV-Datei importieren und eine Umfrageeinladung an maximal 10000 Empfänger senden. Weitere Informationen: [Senden einer Umfrage per E-Mail](send-survey-email.md)
+
 
 ## <a name="october-2019-update"></a>Stand: Oktober 2019
 

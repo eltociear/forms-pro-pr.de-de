@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 11/04/2019
+ms.date: 12/02/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: c5d53c06-299d-43bc-a7ac-e6185c9695e3
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: d48c4d15cdf98ba0ced17a6c497a2800ebecb066
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 218ab18e8448011bf4b8e914ae43d0854d02ef2f
+ms.sourcegitcommit: 7f28e8040b2a3e56ba0caff0d48053974e3a1e80
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750442"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "2856185"
 ---
 # <a name="send-a-survey-by-using-email"></a>Senden Sie eine Umfrage per E-Mail.
 
@@ -92,6 +92,96 @@ Sie können diese Aktionen auf einer E-Mail-Vorlage durchführen:
 > [!NOTE]
 > - Sie können maximal 10 E-Mail-Vorlagen speichern.
 > - Wenn Sie Umfragevariablen in einer E-Mail-Vorlage verwendet haben, die nicht Teil der Umfrage sind, wird oben auf der Seite eine Fehlermeldung angezeigt und es ist Ihnen nicht gestattet, die Umfrage per E-Mail oder Flow zu senden. Die Variablen der Umfrage sind rot markiert. Sie müssen die hervorgehobenen Umfragevariablen aus der E-Mail-Nachricht entfernen, um die Umfrage zu senden.
+
+## <a name="customize-the-sender-email-address"></a>Anpassen der Absender-E-Mail-Adresse
+
+Mithilfe der Anpassungsfunktion können Sie eine E-Mail-Adresse auswählen, die der Marke Ihres Unternehmens entspricht. Sie können sich an den Microsoft-Support wenden, um den von Forms Pro bereitgestellten Speicherort zu erfahren, um anschließend CNAME-Datensätze manuell zu erstellen. Die CNAME-Datensätze werden für die DKIM-Authentifizierung verwendet. Für jede benutzerdefinierte Domäne müssen zwei CNAME-Einträge erstellt werden. Anschließend kann die E-Mail-Adresse angepasst werden, über die die Umfrageeinladung an Ihre Befragten gesendet wird.
+
+1. Melden Sie sich mit Ihren Administrator-Anmeldeinformationen beim [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support) an.
+
+2. Wählen Sie **Hilfe + Support** > **Neue Supportanfragen** aus. Das Support-Anfrageformular wird im rechten Bereich angezeigt.
+
+3. Geben Sie die Produktdetails wie folgt an:
+
+    - **Produkt**: Dynamics 365 Customer Engagement
+    - **Problemtyp**: Forms Pro
+    - **Umgebung**: Geben Sie die Common Data Service-Umgebung ein, oder wählen Sie sie aus
+
+4. Wählen Sie **Lösungen anzeigen** aus.
+
+5. Wählen Sie **Erstellen Sie eine Supportanfrage** aus, und geben Sie Details wie folgt an:
+
+    - **Problemtitel**: Passen Sie die Absender-E-Mail-Adresse an, um Umfrageeinladungen zu senden
+    - **Problembeschreibung**: Geben Sie Ihre Problembeschreibung ein, und fragen Sie nach dem von Forms Pro bereitgestellten Speicherort.
+    - **Wie schwer ist dieses Problem?**: Wählen Sie den Schweregrad des Problems.
+
+6. Wählen Sie **Weiter**. 
+
+7. Geben Sie Ihre Kontaktinformationen ein, und wählen Sie dann **Senden** aus. Es wird ein Ticket beim Microsoft-Support erstellt, und das Support-Team teilt Ihnen den bereitgestellten Speicherort mit.
+
+8.  Nachdem Sie den bereitgestellten Speicherort erhalten haben, erstellen Sie zwei CNAME-Datensätze in Ihrer Domäne im folgenden Format: 
+
+    ``` text
+    Host name:                    selector1._domainkey
+    Points to address or value:   selector1<domainGUID>.marketing.dynamics.com
+    TTL:                          3600 
+    Host name:                    selector2._domainkey
+    Points to address or value:   selector2<domainGUID>.marketing.dynamics.com
+    TTL:                          3600
+    ```
+
+    > [!IMPORTANT]
+    > Wenn Ihre benutzerdefinierte Domäne `contoso.com` lautet, ist die domainGuid `contosocom`. Sie müssen Punkte, Unterstriche und Bindestriche entfernen.
+    > Die Auswahlmöglichkeiten richten sich nach dem von Forms Pro bereitgestellten Speicherort:
+    > - Für Nordamerika (NAM) lautet die Auswahl „fpnamkey1“ oder „fpnamkey2“.
+    > - Für Europa (EUR) lautet die Auswahl „fpeurkey1“ oder „fpeurkey2“.
+
+    Nehmen wir an, Ihr von Forms Pro bereitgestellter Speicherort ist Nordamerika (NAM), und Sie haben zwei benutzerdefinierte Domänen: `cohovineyard.com` und `cohowinery.com`. Sie müssten zwei CNAME-Einträge pro Domäne (insgesamt vier CNAME-Datensätze) wie folgt einrichten:
+
+    ``` text
+    Host name:                    fpnamkey1._domainkey
+    Points to address or value:   fpnamkey1cohovineyardcom.marketing.dynamics.com
+    TTL:                          3600 
+    Host name:                    fpnamkey2._domainkey
+    Points to address or value:   fpnamkey1cohovineyardcom.marketing.dynamics.com
+    TTL:                          3600
+    Host name:                    fpnamkey1._domainkey
+    Points to address or value:   fpnamkey1cohowinerycom.marketing.dynamics.com
+    TTL:                          3600 
+    Host name:                    fpnamkey2._domainkey
+    Points to address or value:   fpnamkey1cohowinerycom.marketing.dynamics.com
+    TTL:                          3600
+    ```
+
+9.  Wenden Sie sich an den Microsoft-Support, und geben Sie die folgenden Informationen an:
+
+    - Eine Liste der E-Mail-Adressen, die Sie erstellen möchten, z. B. support@cohovineyard.com und noreply@cohowinery.com.
+    - Eine Liste der Benutzer, die die Umfrageeinladungen mithilfe der benutzerdefinierten E-Mail senden.
+
+    Basierend auf den bereitgestellten Informationen überprüft der Microsoft-Support die Datensätze und erstellt die DKIM-Schlüssel zum Signieren der E-Mails. Sie erhalten vom Microsoft-Support eine Bestätigung, dass die Datensatzüberprüfung abgeschlossen ist.
+
+10. Melden Sie sich bei Forms Pro an, und öffnen Sie die den Bereich **Einstellungen**. Wählen Sie die benutzerdefinierte E-Mail-Adresse aus, die zum Senden von E-Mails verwendet werden soll.  
+
+    > [!div class=mx-imgBorder]
+    > ![Benutzerdefinierte E-Mail-Einstellung](media/custom-email-setting.png "Benutzerdefinierte E-Mail-Einstellung")
+
+    Verwenden Sie die benutzerdefinierte E-Mail, während Sie die Umfrageeinladung senden.
+
+    > [!div class=mx-imgBorder]
+    > ![Benutzerdefinierte Absender-E-Mail](media/custom-from-email.png "Benutzerdefinierte Absender-E-Mail")
+
+    > [!NOTE]
+    > In Power Automate wird eine benutzerdefinierte E-Mail-Adresse aus den Umfrageeinstellungen ausgewählt.
+
+### <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
+
+#### <a name="should-the-email-account-be-a-functioning-account-or-can-it-be-a-dummy-account"></a>Sollte das E-Mail-Konto ein funktionierendes Konto sein oder kann es ein Dummy-Konto sein?
+
+Das E-Mail-Konto muss nicht funktionsfähig sein, um E-Mails zu senden. Wenn über dieses E-Mail-Konto Antworten erwartet werden, muss ein Postfach konfiguriert werden. In den meisten Fällen handelt es sich bei der E-Mail-Adresse, von der ein Kunde Umfrage-E-Mails sendet, um nicht überwachte E-Mail-Konten, die keine E-Mails empfangen müssen.
+
+#### <a name="how-long-does-it-take-for-the-setup-to-complete"></a>Wie lange dauert es, bis die Einrichtung abgeschlossen ist?
+
+Es kann zwischen 24 und 72 Stunden dauern, bis das Setup abgeschlossen ist. Nachdem der Microsoft-Support bestätigt hat, dass die Domäne aktiv ist, können Sie mit dem Senden von Umfrageeinladungen mithilfe der benutzerdefinierten E-Mail beginnen.
 
 ## <a name="see-also"></a>Siehe auch
 

@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 10/07/2019
+ms.date: 11/25/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 7771F115-DD60-4084-A8C3-A0DDBC2128A3
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: d056b3b90a923642d20863cf9d0f6a155b9e4769
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 2a943e1a50acaf7e2a934d52522466fb7e0d9975
+ms.sourcegitcommit: 0612d18dc0591d4854e0452aacaeeaa68a9afc8f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750710"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2831235"
 ---
 # <a name="monitor-customer-satisfaction"></a>Kundenzufriedenheit überwachen
 
@@ -77,6 +77,9 @@ Die folgenden Informationen werden unter der Umfragemetrik angezeigt:
 
 - **Schlüsselbegriffe**: Zeigt eine Wort-Cloud der in der Standpunktanalyse verwendeten Schlüsselbegriffe an. Sie können filtern, damit Sie nur positive oder negative Schlüsselbegriffe oder alle Schlüsselbegriffe sehen.
 
+  > [!div class=mx-imgBorder]
+  > ![Übersichtsseite](media/overview-page.png "Übersichtsseite") 
+
 ### <a name="agent-performance"></a>Agentenleistung
 
 Die Seite Agentenleistung bietet eine agentenzentrierte Ansicht der Zufriedenheitsdaten. Diese Seite unterstützt Kundenservicemanager bei der Analyse der Leistung eines Agenten auf Grundlage der Umfrageantworten. Die folgenden Informationen werden angezeigt:
@@ -87,6 +90,9 @@ Die Seite Agentenleistung bietet eine agentenzentrierte Ansicht der Zufriedenhei
 - Ein Raster, das die Namen von Agenten und ihre entsprechenden NPS enthält, sortiert nach NPS-Wert in absteigender Reihenfolge. Sie können den Namen eines Agenten auswählen, um die für den Agenten spezifischen Daten in allen anderen Diagrammen anzuzeigen.
 - **Schlüsselbegriffe**: Zeigt eine Wort-Cloud der in der Standpunktanalyse verwendeten Schlüsselbegriffe an. Sie können filtern, damit Sie nur positive oder negative Schlüsselbegriffe oder alle Schlüsselbegriffe sehen.
 
+  > [!div class=mx-imgBorder]
+  > ![Agentleistungsseite](media/agent-performance-page.png "Agentleistungsseite")
+
 ### <a name="customer-satisfaction"></a>Kundenzufriedenheit
 
 Die Seite „Kundenzufriedenheit“ bietet die kundenzentrierte Ansicht der Zufriedenheitsdaten. Diese Seite unterstützt Kundenservicemanager bei der Analyse der Zufriedenheit eines Kunden auf Grundlage der Umfrageantworten. Die folgenden Informationen werden angezeigt:
@@ -96,3 +102,6 @@ Die Seite „Kundenzufriedenheit“ bietet die kundenzentrierte Ansicht der Zufr
 - Ein Balkendiagramm, das den Trend des durchschnittlichen NPS über eine Zeitperiode anzeigt.
 - Ein Raster, das die zufriedenen Kunden und ihre entsprechenden NPS enthält, sortiert nach NPS-Wert in absteigender Reihenfolge. Sie können den Namen eines Kunden auswählen, um die für den Kunden spezifischen Daten in allen anderen Diagrammen anzuzeigen.
 - **Schlüsselbegriffe**: Zeigt eine Wort-Cloud der in der Standpunktanalyse verwendeten Schlüsselbegriffe an. Sie können filtern, damit Sie nur positive oder negative Schlüsselbegriffe oder alle Schlüsselbegriffe sehen.
+
+  > [!div class=mx-imgBorder]
+  > ![Kundenzufriedenheitsseite](media/customer-satisfaction-page.png "Kundenzufriedenheitsseite")

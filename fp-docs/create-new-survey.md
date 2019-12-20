@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 11/04/2019
+ms.date: 11/25/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: EA713CA9-6B0B-45A3-A700-22C164465411
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 3e437c0e072362075c5acb700b03504cca5bc2ea
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: cd9e6057b501661ea1fae500b8b181d5d0860ca1
+ms.sourcegitcommit: 0612d18dc0591d4854e0452aacaeeaa68a9afc8f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750930"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2831191"
 ---
 # <a name="create-a-new-survey"></a>Erstellen einer neuen Umfrage
 
@@ -61,20 +61,6 @@ So erstellen Sie eine neue Umfrage mit Forms Pro:
 > - Sie können Ihre Umfrage personalisieren, indem Sie den Fragen benutzerdefinierte Daten hinzufügen. Mehr Informationen: [Personalisieren Sie eine Umfrage](personalize-survey.md).
 > - Sie können innerhalb von Microsoft Forms Pro ein klassisches Formular erstellen. Mehr Informationen: [Erstellen eines klassischen Formulars](create-classic-form.md).
 > - Sie können auch Quizzes innerhalb von Microsoft Forms Pro erstellen, um Echtzeit-Feedback zu erhalten. Weitere Informationen zu den Schritten zum Erstellen eines Quiz finden Sie unter: [Erstellen Sie ein Quiz mit Microsoft Forms](https://support.office.com/article/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d).
-
-## <a name="proactive-phishing-prevention"></a>Proaktive Phishingverhinderung
-
-Phishingangriffe versuchen, vertrauliche Informationen durch E-Mail-Nachrichten, Websites, Textnachrichten oder andere Formen der elektronischen Kommunikation zu stehlen. Oft sehen sie aus, wie offizielle Kommunikation von legitimen Unternehmen oder Personen. Die Informationen, die Phishers stehlen möchten sind Kennwörter oder andere Anmeldeinformationen.
-
-In Microsoft Forms Pro sind automatisierte maschinelle Überprüfungen aktiviert, um proaktiv bösartige Kenntwortsammlungen in Umfragen zu erkennen.
-
-### <a name="survey-designer-experience"></a>Umfragedesignerumgebung
-
-Beim Entwerfen einer Umfrage, wenn Sie irgendwelche Fragen stellen, die erfordern, dass ein Antwortender das Kennwort, Kontoinformationen oder andere Sicherheitsinformationen angibt, wird die Umfrage automatisch gesperrt und kann nicht verteilt werden. Der Administrator empfängt eine Benachrichtigung und eine Option zum Entsperren der Umfrage. Wenn die Sie die Umfrage verteilen möchten, müssen Sie Ihren Admnistrator kontaktieren, damit er sie entsperrt.
-
-### <a name="administrator-experience"></a>Administratorerfahrung
-
-Wenn eine Umfrage automatisch gesperrt wird, erhält der Administrator eine tägliche Benachrichtigung im **Nachrichtencenter** mit einer Option, die Umfrage zu entsperren. Informationen dazu, wie Sie eine Umfrage entsperren, finden Sie unter [Formulare überprüfen und entsperren, die wegen potenziellem Phishing ermittelt und gesperrt wurden](https://support.office.com/article/review-and-unblock-forms-detected-and-blocked-for-potential-phishing-879a90d7-6ef9-4145-933a-fb53a430bced).
 
 ## <a name="see-also"></a>Siehe auch
 

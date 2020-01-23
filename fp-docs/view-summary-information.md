@@ -13,18 +13,18 @@ ms.assetid: 2a379963-6fb9-41cd-ae21-83d32a84a6d1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 6334c79b7aa78c6bb9343650c25729e0bd7381a5
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 1895f3bee666e5f92c68f25b60bfe31ccdcb3d52
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750090"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2901349"
 ---
 # <a name="view-summary-information-for-your-survey"></a>Zusammenfassung der Informationen für Ihre Umfrage anzeigen
 
 Nachdem Sie Ihre Umfrage erstellt, ihre Einstellungen angepasst und Ihre Umfrage mit anderen geteilt haben, ist es an der Zeit, die Ergebnisse und Erkenntnisse zu sehen. Öffnen Sie die Umfrage, die Sie überprüfen möchten, und wählen Sie dann die Registerkarte **Antworten**.
 
-Auf der Registerkarte **Übersicht** sehen Sie zusammenfassende Daten zu Ihrer Umfrage, wie z.B. Anzahl der gesendeten Einladungen, Anzahl der eingegangenen Antworten, Net Promoter Score (NPS), Stimmung der Befragten und Erkenntnisse aus der Umfrage. Sie können **Einladungen** oder **Antworten** auswählen, um mehr Details zu erhalten.
+Auf der Registerkarte **Übersicht** sehen Sie die zusammenfassenden Daten zu Ihrer Umfrage, wie z.B. Anzahl der gesendeten Einladungen, Anzahl der eingegangenen Antworten, Net Promoter Score (NPS), Stimmung der Befragten und Erkenntnisse aus der Umfrage. Sie können **Einladungen** oder **Antworten** auswählen, um mehr Details zu erhalten.
 
 Die folgenden Statistiken werden angezeigt:
 
@@ -32,7 +32,7 @@ Die folgenden Statistiken werden angezeigt:
 
 - **Antworten**: Gesamtzahl der erhaltenen Antworten.
 
-- **NPS**: Net Promoter Score der Umfrage. Die Bewertung für Fragen vom Typ NPS basiert auf einer Skala von 0 bis 10. Die Befragten werden anhand der Ergebnisse wie folgt gruppiert:
+- **NPS**: Die Version der Befragung. Die Bewertung für Fragen vom Typ NPS basiert auf einer Skala von 0 bis 10. Die Befragten werden anhand der Ergebnisse wie folgt gruppiert:
     - **Gegner** sind diejenigen, die mit einem Wert von 0 bis 6 reagieren.
     - **Passive** sind diejenigen, die mit einem Wert von 7 bis 8 antworten.
     - **Unterstützer** sind diejenigen, die mit einem Wert von 9 bis 10 antworten.
@@ -44,9 +44,9 @@ Die folgenden Statistiken werden angezeigt:
 - **Neueste Erkenntnisse**: Korrelation und Stimmung werden basierend auf den Antworten der Umfrage angezeigt.
 
 > [!div class=mx-imgBorder]
-> ![Betrachten Sie die Antworten der Umfrage ](media/view-responses.png "Befragungsantworten anzeigen")  
+> ![Betrachten Sie die Antworten der Umfrage](media/view-responses.png "Befragungsantworten anzeigen")  
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Details für jede Frage anzeigen](view-details-each-question.md)<br>
 [Analysieren Sie Einladungen zu Umfragen](analyze-survey-invitations.md)<br>

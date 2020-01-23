@@ -13,12 +13,12 @@ ms.assetid: 55FEBC29-69E8-4046-A1DA-D6701BEC16DD
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: c99843f597364ebde4852deb8ad13349566f7d1d
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 62d6920233a58d72a10a327f4b389941f147760b
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750046"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900425"
 ---
 # <a name="format-text-in-a-survey"></a>Text in einer Umfrage formatieren
 
@@ -46,16 +46,15 @@ Um den Text zu formatieren:
     > [!div class=mx-imgBorder]
     > ![Textformatierung anwenden](media/text-format.png "Textformatierung anwenden")
 
-
 In dieser Umfrage wurde beispielsweise die Formatierung auf die Elemente angewendet, die Sie zuvor ausgewählt haben:
 
 > [!div class=mx-imgBorder]
 > ![Formatierung auf eine Umfrage angewendet](media/survey-text-format.png "Formatierung einer Umfrage")
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Eine neue Umfrage erstellen](create-new-survey.md)<br>
-[Thema auf eine Umfrage anwenden](apply-theme.md)<br>
+[Ein Design auf eine Umfrage anwenden](apply-theme.md)<br>
 [Vorschau und Test einer Umfrage](preview-test-survey.md)<br>
 [Erstellen einer Verzweigungsregel](create-branching-rule.md)<br>
 [Personalisieren einer Umfrage](personalize-survey.md)<br>

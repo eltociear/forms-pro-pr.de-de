@@ -13,16 +13,14 @@ ms.assetid: 2324050E-F565-4BFE-87F2-2CD266EFBA41
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 9092d73e7f676b2b1c2da929a7d65a92edfe244c
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: 05db977cfba916f6334ef3b73bc9981b598d3661
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1777730"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900203"
 ---
 # <a name="create-a-multipage-survey"></a>Erstellen einer mehrseitigen Umfrage
-
-
 
 Wenn Sie eine Umfrage erstellen, wird die Umfrage standardmäßig auf einer einzigen Seite erstellt. Sie können Ihre Umfrage in mehrere Seiten aufteilen, indem Sie Abschnitte hinzufügen. Wenn Ihre Umfrage sehr lang und komplex ist, können Sie Abschnitte verwenden, um die Fragen logisch zu gruppieren.
 
@@ -36,14 +34,14 @@ Wenn Sie eine Umfrage erstellen, wird die Umfrage standardmäßig auf einer einz
 2.  Wählen Sie **Neu hinzufügen**, wählen Sie **Mehr** (...), und wählen Sie dann **Abschnitt**.
 
     > [!div class=mx-imgBorder]
-    > ![Abschnitt](media/section-button.png "Abschnitt") 
+    > ![Abschnittsschaltfläche](media/section-button.png "Abschnittsschaltfläche")
 
 3.  Der Umfrage wird ein neuer Abschnitt hinzugefügt. Geben Sie den Namen des Abschnitts ein. Sie können auch eine optionale Beschreibung eingeben.
 
     > [!div class=mx-imgBorder]
     > ![Neuer Abschnitt hinzugefügt](media/section-name.png "Neuer Abschnitt hinzugefügt")
 
-4.  Fügen Sie neue Fragen in den Abschnitt ein oder verschieben Sie die vorhandenen Fragen nach Bedarf in den Abschnitt.
+4.  Fügen Sie neue Fragen zum Abschnitt hinzu oder verschieben Sie vorhandene Fragen nach Bedarf in den Abschnitt.
 
 ## <a name="manage-a-section"></a>Einen Abschnitt verwalten
 
@@ -51,7 +49,7 @@ Nachdem Sie die erforderlichen Abschnitte in Ihrer Umfrage hinzugefügt haben, k
 
 1.  Öffnen Sie die Umfrage, in der Sie einen Abschnitt verwalten möchten.
 
-2.  Wählen Sie die Schaltfläche **Ellipsis** (...) rechts neben der zu verwaltenden Abschnittsüberschrift und wählen Sie dann eine der folgenden Optionen:
+2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) auf der rechten Seite der zu verwaltenden Abschnittsüberschrift, und wählen Sie dann eine der folgenden Optionen:
 
     - **Abschnitt duplizieren**: Erstellen Sie eine Kopie des Abschnitts mit seinen Fragen.
     - **Abschnitt entfernen**: Wählen Sie eine der folgenden Optionen aus:
@@ -60,16 +58,15 @@ Nachdem Sie die erforderlichen Abschnitte in Ihrer Umfrage hinzugefügt haben, k
     - **Abschnitt verschieben**: Verschieben Sie den Abschnitt in der Umfrage nach oben oder unten.
         
         > [!div class=mx-imgBorder]
-        > ![Abschnitt verschieben](media/move-section.png "Abschnitt verschieben")
+        > ![Einen Abschnitt verschieben](media/move-section.png "Einen Abschnitt verschieben")
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Eine neue Umfrage erstellen](create-new-survey.md)<br>
-[Thema auf eine Umfrage anwenden](apply-theme.md)<br>
+[Ein Design auf eine Umfrage anwenden](apply-theme.md)<br>
 [Vorschau und Test einer Umfrage](preview-test-survey.md)<br>
 [Erstellen einer Verzweigungsregel](create-branching-rule.md)<br>
 [Personalisieren einer Umfrage](personalize-survey.md)<br>
 [Text in einer Umfrage formatieren](survey-text-format.md)<br>
 [Erstellen eins klassischen Formulars](create-classic-form.md)<br>
 [Erstellen einer mehrsprachigen Umfrage](create-multilingual-survey.md)
-

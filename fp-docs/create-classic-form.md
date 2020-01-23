@@ -13,16 +13,16 @@ ms.assetid: 37CEB9EE-BDD7-493F-B1C9-86F009FEEEC7
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: f20aed6071658c292a34d97bfff37a7c5b45d206
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 1657e61e93fcdac18972f426bec4d6aec09fa96e
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750842"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900109"
 ---
 # <a name="create-a-classic-form"></a>Erstellen Sie ein klassisches Formular
 
-Microsoft Forms Pro ermöglicht es Ihnen, ein klassisches Formular aus der Microsoft Forms Pro-Umgebung heraus zu erstellen. Diese Funktion ermöglicht es Ihnen, mit Umfragen und klassischen Formularen zusammenzuarbeiten. Die in Microsoft Forms Pro erstellten klassischen Formulare werden in ihrer Oberfläche geöffnet und verfügen über alle Möglichkeiten der Grundformen. 
+Mit Microsoft Forms Pro können Sie ein klassisches Formular von der Forms Pro-Umgebung heraus erstellen. Diese Funktion ermöglicht es Ihnen, mit Umfragen und klassischen Formularen zusammen zu arbeiten. Die in Forms Pro erstellten klassischen Formulare werden in ihrer Schnittstelle geöffnet und umfassen alle Funktionen, über die grundlegende Formular verfügen.
 
 So wird ein klassisches Formular erstellt:
 
@@ -31,20 +31,20 @@ So wird ein klassisches Formular erstellt:
 2. Wählen Sie unter **Meine Formulare** die Option **Mehr Optionen** (...) aus der oberen rechten Ecke der Schaltfläche **Neue Pro-Umfrage** aus.
 
     > [!div class=mx-imgBorder]
-    > ![Schaltfläche zum Erstellen eines klassischen Formulars anzeigen](media/classic-form-button-show.png "Schaltfläche zum Erstellen eines klassischen Formulars anzeigen") 
+    > ![Schaltfläche zum Erstellen eines klassischen Formulars anzeigen](media/classic-form-button-show.png "Die Schaltfläche zum Erstellen eines klassischen Formulars anzeigen")
 
 4. Wählen Sie **Neues Formular** aus.
 
     > [!div class=mx-imgBorder]
-    > ![Schaltfläche „Neues Formular“](media/new-form-button.png "Schaltfläche „Neues Formular“") 
+    > ![Schaltfläche „Neues Formular“](media/new-form-button.png "Schaltfläche „Neues Formular“")
 
 5. Um ein Formular zu erstellen, führen Sie die Schritte unter [Erstellen eines Formulars mit Microsoft Forms](https://support.office.com/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) aus.
 
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Eine neue Umfrage erstellen](create-new-survey.md)<br>
-[Thema auf eine Umfrage anwenden](apply-theme.md)<br>
+[Ein Design auf eine Umfrage anwenden](apply-theme.md)<br>
 [Vorschau und Test einer Umfrage](preview-test-survey.md)<br>
 [Erstellen einer Verzweigungsregel](create-branching-rule.md)<br>
 [Personalisieren einer Umfrage](personalize-survey.md)<br>

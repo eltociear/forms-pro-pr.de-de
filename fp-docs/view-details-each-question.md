@@ -13,12 +13,12 @@ ms.assetid: 6c936024-24e5-4d76-9eb1-20f27c8c746e
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: bcc96f4c97596c407d15168e950fe20a2f06d0dd
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 697d1d7b9e360a130acfdda7908bd77a8604fa59
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750266"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2901173"
 ---
 # <a name="view-details-for-each-question"></a>Details zu jeder Frage anzeigen
 
@@ -37,7 +37,7 @@ Um zu einer anderen Frage zu gelangen, wählen Sie die gewünschte Frage aus der
 > [!div class=mx-imgBorder]
 > ![Navigieren Sie zu einer anderen Frage](media/navigate-ques.png "Zu einer anderen Frage navigieren")
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Zusammenfassende Informationen für Ihre Umfrage anzeigen](view-summary-information.md)<br>
 [Analysieren Sie Einladungen zu Umfragen](analyze-survey-invitations.md)<br>

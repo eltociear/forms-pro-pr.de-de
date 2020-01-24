@@ -13,18 +13,16 @@ ms.assetid: FD23CE2B-B022-4708-BAE8-5CAC8BC75092
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 9191ca7fe3cb0ea5957dbb901682ed358c8028ef
-ms.sourcegitcommit: 5661ec673caaeeba4c63158a98a0f6e083cb73cd
+ms.openlocfilehash: cfcdebd500b8ebae9d643572f4ff127af2923c4f
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "1778619"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900997"
 ---
 # <a name="plan-to-create-a-survey"></a>Planen Sie die Erstellung einer Umfrage.
 
-
-
-Es ist wichtig, einen Plan für die Erstellung Ihrer Umfragen zu haben. Hier sind ein paar Dinge, über die Sie bei der Erstellung von Umfragen nachdenken sollten:
+Es ist wichtig, einen Plan für die Erstellung Ihrer Umfragen zu haben. Hier sind ein paar Dinge, an die Sie bei der Erstellung von Umfragen denken sollten:
 
 -   Wie möchten Sie zusammenarbeiten? Möchten Sie beispielsweise die Umfrage als Vorlage freigeben oder andere Personen zur Zusammenarbeit einladen?
 
@@ -32,7 +30,7 @@ Es ist wichtig, einen Plan für die Erstellung Ihrer Umfragen zu haben. Hier sin
 
 -   Wie lang soll die Umfrage dauern? Beachten Sie, dass längere Umfragen häufiger abgebrochen werden. Eine gute Faustregel ist es, Umfragen kürzer als fünf Minuten oder nicht länger als zehn Fragen zu halten (abhängig von der Art der gestellten Fragen).
 
--   Wie viele Pflichtfragen sollen in die Umfrage aufgenommen werden? Es wird empfohlen, so wenig wie möglich Pflichtfragen zu stellen.
+-   Wie viele Pflichtfragen sollen in der Umfrage aufgenommen werden? Es wird empfohlen, so wenig wie möglich Pflichtfragen zu stellen.
 
 -   Wie möchten Sie die Umfrage verteilen? Möchten Sie es beispielsweise über einzelne E-Mails, QR-Code oder automatisiert verteilen?
 
@@ -44,7 +42,7 @@ Einige bewährte Verfahren ermöglichen es Ihnen, eine aussagekräftige Umfrage 
 
 - **Anfrage kurz halten**: Wenn Sie eine Umfrage erstellen, deren Beantwortung sehr lange dauert, verringern Sie möglicherweise Ihre Antwortrate.
 
-- **Logischer Fragenfluss**: Stellen Sie eine logische Struktur Ihrer Fragen sicher, damit die Befragten nicht das Interesse an der Umfrage verlieren.
+- **Logischen Fragenfluss erstellen**: Stellen Sie eine logische Struktur Ihrer Fragen sicher, damit die Befragten nicht das Interesse an der Umfrage verlieren.
 
 - **Organisieren der Umfrage**: Gruppieren Sie zusammengehörige Fragen.
 
@@ -52,11 +50,11 @@ Einige bewährte Verfahren ermöglichen es Ihnen, eine aussagekräftige Umfrage 
 
 - **Erwähnen von Erwartungen in der Umfrageeinladung**: Geben Sie in der Umfrageeinladung die geschätzte Zeit für ihre Fertigstellung an und geben Sie einen kurzen Überblick. Dies wird den Befragten helfen, ihre Beiträge innerhalb des erwarteten Zeitrahmens einzureichen.
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Erstellen einer Befragung](create-survey.md)<br>
 [Senden einer Umfrage, um Antworten zu erhalten](send-survey.md) <br>
 [Zusammenarbeit bei einer Umfrage](collaborate-survey.md) <br>
 [Analysieren von Antworten und Einladungen](analyze-responses-invites.md) <br>
 [Arbeiten in Umgebungen](choose-environment.md)<br>
-[Fehlerbehebung bei Forms Pro](troubleshoot.md)
+[Problembehandlung von Forms Pro](troubleshoot.md)

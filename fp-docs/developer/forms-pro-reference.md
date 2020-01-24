@@ -18,12 +18,12 @@ search.app:
 - D365CE
 search.appverid:
 - FPR160
-ms.openlocfilehash: 3f3ec1673db98e18b990aed9d98647f6b105ddb6
-ms.sourcegitcommit: 3225337823216f21b569779b829f069f53aa3742
+ms.openlocfilehash: 1ff7f55e646d743f789c8b6fa302f12ed8845018
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2750692"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900315"
 ---
 # <a name="entity-reference-for-microsoft-forms-pro"></a>Entitätsreferenz für Microsoft Forms Pro
 
@@ -44,7 +44,7 @@ Verwenden Sie diese Referenz, um die verfügbaren Vorgänge, die für bestimmte 
 |[msfp_surveyresponse](reference/entities/msfp_surveyresponse.md)|Antwort auf eine Befragung|
 |[msfp_unsubscribedrecipient](reference/entities/msfp_unsubscribedrecipient.md)|E-Mail-Adresse des Befragten ohne Abonnement|
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Entwicklerhandbuch für Formulare Pro](developer-guide.md)<br />
 [Entitätsreferenz für Microsoft Dynamics 365](/dynamics365/customer-engagement/developer/about-entity-reference)

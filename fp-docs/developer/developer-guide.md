@@ -18,12 +18,12 @@ search.app:
 - D365CE
 search.appverid:
 - FPR160
-ms.openlocfilehash: 22c2150d7e4e8d21a36029a985c1ba1e8f24c379
-ms.sourcegitcommit: a6898e26a02c9e8b7c627656a82755ec050c574b
+ms.openlocfilehash: 302ec28c746fbd19dcda7cdce61872107d52dee6
+ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2019
-ms.locfileid: "2051832"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "2900363"
 ---
 # <a name="developer-guide-for-microsoft-forms-pro"></a>Entwickleranleitung für Microsoft Forms Pro
 
@@ -43,6 +43,6 @@ Willkommen zur Microsoft Forms Pro Entwickleranleitung.
 </td></tr>
 </table>
 
-## <a name="see-also"></a>Siehe auch
+### <a name="see-also"></a>Siehe auch
 
 [Ersten Schritten mit Forms Pro](../get-started.md)

@@ -13,12 +13,12 @@ ms.assetid: 07e97246-0eb2-4474-863b-363bd1a267fd
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: dd41be36d547c4c32211f5c40405cb4e1d901c6b
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: bb63d0586fa86e803eb4a407ee20c5692648d4f4
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900953"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966134"
 ---
 # <a name="preview-and-test-a-survey"></a>Vorschau und Test einer Umfrage
 
@@ -48,4 +48,4 @@ Nachdem Sie eine Umfrage erstellt und bearbeitet haben, können Sie sie in der V
 [Text in einer Umfrage formatieren](survey-text-format.md)<br>
 [Erstellen eins klassischen Formulars](create-classic-form.md)<br>
 [Erstellen einer mehrsprachigen Umfrage](create-multilingual-survey.md)<br>
-[Erstellen einet mehrseitigen Umfrage](create-multipage-survey.md)
+[Erstellen Sie eine mehrseitige Umfrage](create-multipage-survey.md)

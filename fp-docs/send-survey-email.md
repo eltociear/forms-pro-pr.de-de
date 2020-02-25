@@ -1,24 +1,24 @@
 ---
-title: Senden einer Umfrage per E-Mail | MicrosoftDocs
+title: Senden Sie eine Umfrage per E-Mail.
 description: Anweisungen zum Senden einer Umfrage per E-Mail
 keywords: ''
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/23/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: c5d53c06-299d-43bc-a7ac-e6185c9695e3
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 69eff193e16e1d4c0624162d9b72ca8ef2245189
-ms.sourcegitcommit: 12abf1856081a5f60a025c0ca305161eb0d0978a
+ms.openlocfilehash: 641916fec7c54fa0de8a870910ee75cbc555d347
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "2922575"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965870"
 ---
 # <a name="send-a-survey-by-using-email"></a>Senden Sie eine Umfrage per E-Mail.
 
@@ -33,7 +33,7 @@ Nachdem Sie eine Umfrage erstellt haben, können Sie diese per E-Mail versenden 
     - Manuelle Eingabe einer E-Mail-Adresse.
     - Eingabe eines Namens, einer E-Mail-Adresse oder einer Verteilerliste von Azure Active Directory.
     - Eingabe eines Kontakts oder einer Kontaktliste/Ansicht von Common Data Service für Apps. Die Kontakte werden aus der ausgewählten Umgebung gefüllt. Weitere Informationen: [Arbeiten mit Umgebungen](choose-environment.md)
-    - Hochladen einer csv-Datei durch Auswahl von **Empfänger importieren**. Die CSV-Datei unterstützt den Import von maximal 10000 Empfängern.
+    - Hochladen einer CSV-Datei durch Auswahl von **Empfänger importieren**. Die CSV-Datei unterstützt den Import von maximal 10000 Empfängern.
 
 4.  Um den Umfrage-Link in Ihre E-Mail-Nachricht einzufügen, siehe [eiUmfrage-Link einfügen](#insert-survey-link).  
 
@@ -56,7 +56,7 @@ Nachdem Sie eine Umfrage erstellt haben, können Sie diese per E-Mail versenden 
 
 ## <a name="insert-a-survey-link"></a>Einen Befragungslink einfügen
 
-Der Umfrage-Link wird standardmäßig zu Ihrer E-Mail-Nachricht hinzugefügt. Um den Umfrage-Link an einer anderen Stelle in Ihrer E-Mail-Nachricht einzufügen, positionieren Sie den Cursor an der gewünschten Stelle und wählen Sie dann **Einfügen** > **Umfrage-Link**. Sie können auch Text auswählen und dann **Einfügen** > **Umfrage-Link** wählen, um diesen Text als Umfrage-Link anzuzeigen.
+Der Umfrage-Link wird standardmäßig zu Ihrer E-Mail-Nachricht hinzugefügt. Um den Umfragelink an einer anderen Stelle in Ihre E-Mail-Nachricht einzufügen, platzieren Sie den Cursor an der gewünschten Stelle und wählen Sie dann **Einfügen** > **Umfragelink**. Sie können auch Text auswählen und dann **Einfügen** > **Umfrage-Link** wählen, um diesen Text als Umfrage-Link anzuzeigen.
 
 <a name="unsubscribe-from-a-survey"></a>
 
@@ -76,13 +76,15 @@ Um eine neue Variable zu erstellen, wählen Sie **Neue Variable** aus der Liste 
 
 ## <a name="embed-a-survey-in-an-email"></a>Betten Sie eine Umfrage in eine E-Mail ein
 
-Wenn Sie eine Frage zur Bewertung oder zum Netto-Promoter-Score als erste Frage in Ihrer Umfrage hinzugefügt haben, können Sie sie in Ihre E-Mail-Nachricht einbetten. Um die Frage einzubetten, wählen Sie **Einbetten erste Frage**. Wenn Sie eine Frage einbetten, wird der Text in der E-Mail-Nachricht durch die Frage ersetzt. Wenn ein Befragter eine Option in der E-Mail auswählt, wird die gesamte Umfrage im Webbrowser geöffnet und der Befragte kann die Umfrage fortsetzen.
+Wenn Sie eine Frage zur Bewertung oder zum Netto-Promoter-Score als erste Frage in Ihrer Umfrage hinzugefügt haben, können Sie sie in Ihre E-Mail-Nachricht einbetten. Um die Frage einzubetten, wählen Sie **Einbetten erste Frage**. Wenn Sie eine Frage einbetten, wird der Text in der E-Mail-Nachricht durch die Frage ersetzt. Wenn ein Beantworter eine Option zur Beantwortung der Frage auswählt, wird die gesamte Umfrage in einem Webbrowser geöffnet und der Beantworter kann mit dem Ausfüllen der Umfrage fortfahren.
 
 > [!div class=mx-imgBorder]
 > ![Betten Sie eine Umfrage in eine E-Mail ein](media/embed-ques-email.png "Betten Sie eine Umfrage in eine E-Mail ein")
 
 > [!NOTE]
-> Sie können die Frage nicht in eine E-Mail einbetten, wenn Sie das Mischen von Fragen in einer Umfrage aktiviert haben.
+> Sie können keine Frage in eine E-Mail einbetten, wenn Sie das Mischen von Fragen in der Umfrage aktiviert haben.
+
+Wenn Sie eine mehrsprachige Umfrage erstellt haben, können Sie Umfragevariablen verwenden, um das Standardgebietsschema für die Anzeige der Umfrage festzulegen. Um das Standardgebietsschema festzulegen, öffnen Sie den Bereich **Umfragevariablen** und geben Sie dann einen Wert für die Variable **Lokalisierung** an. Der Wert muss ein Sprachcode sein, z. B. **en** oder **fr**.
 
 <a name="use-email-templates"></a>
 
@@ -117,8 +119,8 @@ Mithilfe der Anpassungsfunktion können Sie eine E-Mail-Adresse auswählen, die 
 
 3. Geben Sie die Produktdetails wie folgt an:
 
-    - **Produkt**: Dynamics 365 Customer Engagement
-    - **Problemtyp**: Forms Pro
+    - **Produkt**: **Dynamics 365 Customer Engagement**
+    - **Problemtyp**: **Forms Pro**
     - **Umgebung**: Geben Sie die Common Data Service-Umgebung ein, oder wählen Sie sie aus
 
 4. Wählen Sie **Lösungen anzeigen** aus.
@@ -157,13 +159,13 @@ Mithilfe der Anpassungsfunktion können Sie eine E-Mail-Adresse auswählen, die 
     Points to address or value:   fpnamkey1contosocom.marketing.dynamics.com
     TTL:                          3600 
     Host name:                    fpnamkey2._domainkey
-    Points to address or value:   fpnamkey1contosocom.marketing.dynamics.com
+    Points to address or value:   fpnamkey2contosocom.marketing.dynamics.com
     TTL:                          3600
     Host name:                    fpnamkey1._domainkey
     Points to address or value:   fpnamkey1contososuitescom.marketing.dynamics.com
     TTL:                          3600
     Host name:                    fpnamkey2._domainkey
-    Points to address or value:   fpnamkey1contososuitescom.marketing.dynamics.com
+    Points to address or value:   fpnamkey2contososuitescom.marketing.dynamics.com
     TTL:                          3600
     ```
 
@@ -203,7 +205,7 @@ Es dauert mindestens 3 bis 4 Wochen, bis die Einrichtung abgeschlossen ist. Nach
 ### <a name="see-also"></a>Siehe auch
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>

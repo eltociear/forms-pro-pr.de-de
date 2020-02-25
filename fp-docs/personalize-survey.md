@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 11/04/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1AECC69F-B68A-4776-884A-C59770FC5C96
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: cd145f76cff2d302b92dcb1e7b40678004d414ab
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 027fcb19c98c85a7da0819169abbf7bf31bbe383
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2901041"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966002"
 ---
 # <a name="personalize-a-survey"></a>Personalisieren einer Umfrage
 
@@ -30,11 +30,13 @@ Standardmäßig sind die folgenden Umfragevariablen verfügbar:
 
 - **Nachname**: Fügt den Nachnamen des Empfängers ein.
 
+- **Gebietsschema**: Gibt das Gebietsschema der Umfrage an, während sie in die E-Mail eingebettet wird. Mehr Informationen: [Betten Sie eine Umfrage in eine E-Mail ein](send-survey-email.md#embed-a-survey-in-an-email)
+
 Um eine neue Umfragevariable zu erstellen:
 
 1.  Öffnen Sie die Umfrage, in der Sie Umfragevariablen verwenden möchten.
 
-2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) in der Symbolleiste oben auf der Seite und dann **Variablen der Umfrage**.
+2.  Wählen Sie die Auslassungspunkte-Schaltfläche **(...)** in der Symbolleiste oben auf der Seite und wählen Sie dann **Umfragevariablen**.
 
     > [!div class=mx-imgBorder]
     > ![Schaltflächefür Umfragevariablen](media/custom-data-button.png "Schaltfläche Variablen der Umfrage")
@@ -113,4 +115,4 @@ Um Werte für Umfragevariablen in einem Flow anzugeben:
 [Text in einer Umfrage formatieren](survey-text-format.md)<br>
 [Erstellen eins klassischen Formulars](create-classic-form.md)<br>
 [Erstellen einer mehrsprachigen Umfrage](create-multilingual-survey.md)<br>
-[Erstellen einet mehrseitigen Umfrage](create-multipage-survey.md)
+[Erstellen Sie eine mehrseitige Umfrage](create-multipage-survey.md)

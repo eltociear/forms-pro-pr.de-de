@@ -13,12 +13,12 @@ ms.assetid: 984702f4-83ba-4d47-8d3d-ad14d452b211
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 9d678127575f8ddc1bfb5055c789f17f42b4d328
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: d5782f0a304cd5d0826dcb0ff935e13cfac67633
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900645"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965694"
 ---
 # <a name="share-a-survey-as-a-template"></a>Eine Umfrage als Vorlage freigeben
 
@@ -30,7 +30,7 @@ Um eine Umfrage als Vorlage zu teilen:
 
 1.  Öffnen Sie die Umfrage, die Sie freigeben möchten.
 
-2. Wählen Sie die Schaltfläche **Auslassungspunkte** (...) in der Symbolleiste oben auf der Seite und dann **Share**.
+2. Wählen Sie die Auslassungspunkte-Schaltfläche **(...)** in der Symbolleiste oben auf der Seite und wählen Sie dann **Freigeben**.
 
     > [!div class=mx-imgBorder]
     > ![Teilen Sie die Umfrage ](media/share-survey.png "Umfrage teilen")

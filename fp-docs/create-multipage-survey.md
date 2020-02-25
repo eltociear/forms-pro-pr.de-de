@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer mehrseitigen Umfrage | MicrosoftDocs
-description: Anleitung zur Erstellung einer mehrseitigen Umfrage mit Microsoft Forms Pro.
+title: Erstellen einer mehrseitigen Umfrage
+description: Anweisungen zur Verwendung von Abschnitten zum Erstellen einer mehrseitigen Umfrage mit Microsoft Forms Pro
 keywords: ''
 author: sbmjais
 ms.author: shjais
@@ -13,14 +13,14 @@ ms.assetid: 2324050E-F565-4BFE-87F2-2CD266EFBA41
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 05db977cfba916f6334ef3b73bc9981b598d3661
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 86bbf55670969a08529460000f72580ae40f7fb3
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900203"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966046"
 ---
-# <a name="create-a-multipage-survey"></a>Erstellen einer mehrseitigen Umfrage
+# <a name="create-a-multiple-page-survey"></a>Erstellen einer mehrseitigen Umfrage
 
 Wenn Sie eine Umfrage erstellen, wird die Umfrage standardmäßig auf einer einzigen Seite erstellt. Sie können Ihre Umfrage in mehrere Seiten aufteilen, indem Sie Abschnitte hinzufügen. Wenn Ihre Umfrage sehr lang und komplex ist, können Sie Abschnitte verwenden, um die Fragen logisch zu gruppieren.
 
@@ -49,14 +49,14 @@ Nachdem Sie die erforderlichen Abschnitte in Ihrer Umfrage hinzugefügt haben, k
 
 1.  Öffnen Sie die Umfrage, in der Sie einen Abschnitt verwalten möchten.
 
-2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) auf der rechten Seite der zu verwaltenden Abschnittsüberschrift, und wählen Sie dann eine der folgenden Optionen:
+2.  Wählen Sie die Schaltfläche Auslassungspunkte **(...)** auf der rechten Seite der zu verwaltenden Abschnittsüberschrift, und wählen Sie dann eine der folgenden Optionen:
 
     - **Abschnitt duplizieren**: Erstellen Sie eine Kopie des Abschnitts mit seinen Fragen.
     - **Abschnitt entfernen**: Wählen Sie eine der folgenden Optionen aus:
         - **Einfacher Abschnitt**: Löschen Sie den Abschnitt und verschieben Sie die Fragen in den vorherigen Abschnitt.
         - **Abschnitt und Fragen**: Löschen Sie den Abschnitt und seine Fragen.
     - **Abschnitt verschieben**: Verschieben Sie den Abschnitt in der Umfrage nach oben oder unten.
-        
+
         > [!div class=mx-imgBorder]
         > ![Einen Abschnitt verschieben](media/move-section.png "Einen Abschnitt verschieben")
 

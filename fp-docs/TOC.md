@@ -6,7 +6,7 @@
 
 # [Planen einer Umfrage](plan-survey.md)
 
-# [Erstellen einer Befragung](create-survey.md)
+# [Umfragen erstellen](create-survey.md)
 ## [Eine neue Umfrage erstellen](create-new-survey.md)
 ## [Ein Design auf eine Umfrage anwenden](apply-theme.md)  
 ## [Text in einer Umfrage formatieren](survey-text-format.md)
@@ -15,12 +15,12 @@
 ## [Personalisieren einer Umfrage](personalize-survey.md)
 ## [Erstellen eins klassischen Formulars](create-classic-form.md)
 ## [Erstellen einer mehrsprachigen Umfrage](create-multilingual-survey.md)
-## [Erstellen einet mehrseitigen Umfrage](create-multipage-survey.md)
+## [Erstellen Sie eine mehrseitige Umfrage](create-multipage-survey.md)
 
 # [Senden einer Umfrage, um Antworten zu erhalten](send-survey.md)
 ## [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)  
 ## [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)  
-## [Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)  
+## [Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)  
 ## [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)  
 ## [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)  
 ## [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)  

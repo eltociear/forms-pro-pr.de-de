@@ -1,24 +1,24 @@
 ---
-title: Umfrage-Einstellungen | Microsoft Docs
-description: Anleitung zur Aktualisierung der Umfrage-Einstellungen in Microsoft Forms Pro.
+title: Unfrageeinstellungen
+description: Anweisungen zum Aktualisieren von Umfrageeinstellungen in Microsoft Forms Pro, um zu steuern, wer auf Ihre Umfrage und andere Umfrageantwortoptionen antworten kann
 keywords: ''
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/06/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1f6ec6f5-b3d2-4305-8dca-3a0b67a1083c
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 313d7854dd8dc37ccfb9b2667d8ecc11adfb552f
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: cc5a4ba380f2067396289aeb10e1860aa5de03b3
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2901129"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966398"
 ---
 # <a name="work-with-survey-settings"></a>Arbeiten mit Umfrage-Einstellungen
 
@@ -30,13 +30,13 @@ Betrachten Sie ein Szenario, in dem Sie eine Umfrage erstellt haben, um das Kund
 
 Betrachten wir ein weiteres Szenario, in dem Sie eine Umfrage erstellt haben, um Feedback zu einer internen Veranstaltung zu sammeln und Sie möchten, dass nur die Personen in Ihrer Organisation an der Umfrage teilnehmen. Um dies zu erreichen, wählen Sie die Option **Nur Personen aus meiner Organisation können in den Umfrageeinstellungen antworten**. Mehr Informationen: [Nur Personen in meiner Organisation können antworten](#only-people-in-my-organization-can-respond)
 
-Lassen Sie uns nun die Optionen sehen, die Sie auswählen können, um festzulegen, wer an einer Umfrage teilnehmen darf und Optionen auswählen, ob der Name des Befragten erfasst werden soll und der Befragte nur eine Antwort senden darf.
+Lassen Sie uns nun die Optionen sehen, die Sie auswählen können, um festzulegen, wer an einer Umfrage teilnehmen darf, und die Optionen auswählen, ob der Name des Befragten erfasst werden soll und der Befragte nur eine Antwort senden darf.
 
 ### <a name="anyone-with-the-link-can-respond"></a>Jeder mit dem Link kann antworten.
 
 1. Öffnen Sie die Umfrage, für die Sie die Umfrage-Einstellungen ändern möchten.
 
-2. Wählen Sie die Schaltfläche **Auslassungspunkte** (...) von der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Einstellungen** aus.
+2. Wählen Sie die Schaltfläche mit den Auslassungspunkten **(...)** aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Einstellungen** aus.
 
     > [!div class=mx-imgBorder]
     > ![Einstellungen](media/settings-icon.png "Einstellungen")
@@ -48,7 +48,7 @@ Lassen Sie uns nun die Optionen sehen, die Sie auswählen können, um festzulege
     - **Datensatzname**: Der Name des Befragten wird aufgezeichnet. Diese Option funktioniert nur, wenn ein [personalisierter Umfrage-Link](#work-with-personalized-links) generiert wird.
 
     - **Eine Antwort pro Person**: Ein Befragter kann nur eine Antwort abgeben. Diese Option ist nur aktiviert, wenn **Name aufzeichen** ausgewählt ist und funktioniert nur, wenn ein [personalisierter Umfrage-Link](#work-with-personalized-links) generiert wird.
-    
+
     > [!div class=mx-imgBorder]
     > ![Einladungseinstellungen für externe Umfragen](media/invite-settings-external.png "Einladungseinstellungen für externe Umfragen")
 
@@ -56,7 +56,7 @@ Lassen Sie uns nun die Optionen sehen, die Sie auswählen können, um festzulege
 
 1. Öffnen Sie die Umfrage, für die Sie die Umfrage-Einstellungen ändern möchten.
 
-2. Wählen Sie die Schaltfläche **Auslassungspunkte** (...) aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Einstellungen** aus.
+2. Wählen Sie die Schaltfläche mit den Auslassungspunkten **(...)** aus der Symbolleiste oben auf der Seite aus, und wählen Sie dann **Einstellungen** aus.
 
     > [!div class=mx-imgBorder]
     > ![Einstellungen](media/settings-icon.png "Einstellungen")
@@ -68,7 +68,7 @@ Lassen Sie uns nun die Optionen sehen, die Sie auswählen können, um festzulege
     - **Datensatzname**: Der Name des Befragten wird aufgezeichnet.
 
     - **Eine Antwort pro Person**: Ein Befragter kann nur eine Antwort abgeben.
-    
+
     > [!div class=mx-imgBorder]
     > ![Einladungseinstellungen für interne Umfragen](media/invite-settings-internal.png "Einladungseinstellungen für interne Umfragen")
 
@@ -79,8 +79,8 @@ Wenn Sie definiert haben, wer an Ihrer Umfrage teilnehmen darf, können Sie die 
 - **Antworten akzeptieren**: Geben Sie an, ob die Umfrage offen ist und ob Antworten akzeptiert werden sollen. Diese Option ist standardmäßig ausgewählt. Wenn Sie Ihre Umfrage stoppen möchten, deaktivieren Sie die Option und geben eine Nachricht für die Empfänger an.
 - **Fragen mischen**: Geben Sie an, ob die Fragen in der Umfrage gemischt werden sollen.
 - **Fragezahlen anzeigen**: Geben Sie an, ob die Fragenzahlen in der Umfrage angezeigt werden sollen. Diese Option ist standardmäßig ausgewählt.
-- **Nachricht anpassen**: Geben Sie eine benutzerdefinierte Dankesnachricht für Ihre Teilnehmer an.
-- **Passen Sie den Fußzeilentext an**: Geben Sie einen benutzerdefinierten Fußzeilentext ein, der für Ihre Umfrage angezeigt werden soll.
+- **Nachricht anpassen**: Geben Sie eine benutzerdefinierte Dankesnachricht für Ihre Teilnehmer an. Sie können die Dankesnachricht auch formatieren, um den Schriftstil, die Schriftart, den Schriftnamen und die Schriftgröße zu ändern. Sie können der Nachricht auch einen **Link** hinzufügen, indem Sie die Schaltfläche Verknüpfen auf der Formatierungssymbolleiste auswählen und den Link dann über den Link-Editor hinzufügen.
+- **Passen Sie den Fußzeilentext an**: Geben Sie einen benutzerdefinierten Fußzeilentext ein, der für Ihre Umfrage angezeigt werden soll. Sie können den Fußnotentext auch formatieren, um den Schriftstil, die Schriftart, den Schriftnamen und die Schriftgröße zu ändern. Sie können der Nachricht auch einen **Link** hinzufügen, indem Sie die Schaltfläche Verknüpfen auf der Formatierungssymbolleiste auswählen und den Link dann über den Link-Editor hinzufügen.
 - **Teilnehmer hinzufügen als**: Geben Sie an, ob der Befragte als Kontakt in hinzugefügt werden soll Common Data Service. Diese Option ist standardmäßig ausgewählt. Es funktioniert nur mit Umfragen, die per E-Mail gesendet werden.
 - **Startdatum**: Geben Sie ein Datum an, an dem die Umfrage für Teilnehmer geöffnet wird.
 
@@ -112,7 +112,7 @@ Wenn Sie dann eine Umfrage senden, indem Sie einen Link oder einen QR-Code gener
 ### <a name="see-also"></a>Siehe auch
 
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>

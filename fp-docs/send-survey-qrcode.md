@@ -13,12 +13,12 @@ ms.assetid: b62a55f6-cb45-4b47-a610-155c7fffa496
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: f4eb234429fbe49753b3a7c2250a970c5080c4e4
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 34bd444e9e790b24ebf9f97ada149af813c19e2b
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900777"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965958"
 ---
 # <a name="send-a-survey-qr-code"></a>Senden Sie einen QR-Code für eine Umfrage
 
@@ -40,7 +40,7 @@ Sie können einen QR-Code für Ihre Empfänger generieren, um ihn dann auf einem
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Einbetten einer Umfrage in Power Apps](embed-survey-powerapps.md)

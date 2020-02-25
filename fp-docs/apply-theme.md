@@ -13,12 +13,12 @@ ms.assetid: 4b8910fa-a7b3-485d-9128-0e66b4acd9c1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 1a04eaa068a292986ee5d881dc1ff9ee70df7fe5
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: a7c4a7a0dbb8e64f32cbc4f133a3f86d24e476ea
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2899757"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965760"
 ---
 # <a name="apply-a-theme-to-a-survey"></a>Ein Design auf eine Umfrage anwenden
 
@@ -57,4 +57,4 @@ Um ein Thema anzuwenden:
 [Text in einer Umfrage formatieren](survey-text-format.md)<br>
 [Erstellen eins klassischen Formulars](create-classic-form.md)<br>
 [Erstellen einer mehrsprachigen Umfrage](create-multilingual-survey.md)<br>
-[Erstellen einet mehrseitigen Umfrage](create-multipage-survey.md)
+[Erstellen Sie eine mehrseitige Umfrage](create-multipage-survey.md)

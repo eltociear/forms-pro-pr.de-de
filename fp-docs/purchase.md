@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/23/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 7D59D434-53F0-46A6-A00A-20BB41C69A4C
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 59cd730306b89ea7581c3f84235f682dcf03688e
-ms.sourcegitcommit: 12abf1856081a5f60a025c0ca305161eb0d0978a
+ms.openlocfilehash: 0e122c182f2f43910e17ae311abe8b2c6e63d234
+ms.sourcegitcommit: d52c7fcfae748c8c2be22a8be250525996f83e17
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "2922619"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "2971280"
 ---
 # <a name="purchase-microsoft-forms-pro"></a>Kauf von Microsoft Forms Pro
 
@@ -26,7 +26,7 @@ Microsoft Forms Pro ist mit ausgewählt enthalten Microsoft Dynamics 365 Abonnem
 
 Die Forms Pro Lizenz basiert auf der Anzahl der erhaltenen Umfrageantworten pro Monat. Die Kapazität wird auf Mandantenebene gemessen.
 
-- Für einen von Dynamics 365 Enterprise lizenzierten Mandanten sind 2.000 Antworten kostenlos und der Kunde kann zusätzliche Antworten in Paketen von $100 für 2.000 Antworten pro Monat erwerben.
+- Für einen Inhaber einer Unternehmenslizenz für Dynamics 365 sind 2.000 Antworten kostenlos, und der Kunde kann sich entscheiden, zusätzliche Antworten in Bündeln von 100 Dollar für 2.000 Antworten pro Monat zu kaufen.
 - Für einen Office 365 lizenzierten Kunden gibt es keine kostenlosen Antworten. Der Kunde muss Antworten in Paketen von $100 für 2.000 Antworten pro Monat kaufen.
 - Wenn ein Mandant eine Office 365 hat, wird die Lizenz für Office Forms ebenfalls deaktiviert Microsoft Forms Pro.
 
@@ -167,8 +167,3 @@ Wenn Ihr Mandant keine Dynamics 365 Enterprise Lizenzen mit Microsoft Forms Pro 
 
 5.  Schalten Sie auf der Seite **Produktlizenzen** die **Microsoft Forms Pro USL** auf **Aus**.
 
-## <a name="response-capacity-consumption"></a>Verbrauch der Reaktionskapazität
-
-Wenn Sie eine zusätzliche Lizenz für $100 erwerben, wird die Reaktionsfähigkeit jährlich gezählt. Für eine zusätzliche Lizenz von $100 beträgt die jährliche Kapazität beispielsweise 24.000 (12 &times; 2.000); Wenn zusätzliche Kapazität im Wert von $200 erworben wird, beträgt die jährliche Kapazität 48.000. Wenn die verbrauchte Antwortkapazität die jährlichen Kapazitätsantworten in einem bestimmten Monat überschreitet, können Sie keine neuen Umfragen erstellen. Bestehende Umfragen werden jedoch weiterhin beantwortet.
-
-Nach 90 Tagen der Ausschöpfung der Antwortkapazität wird die Verteilung bestehender Umfragen über alle Modi (einschließlich Power Automate) deaktiviert, und alle bestehenden Umfragen werden geschlossen. Auf der Verteilungsseite wird eine Meldung angezeigt, dass die Kapazität erschöpft ist.

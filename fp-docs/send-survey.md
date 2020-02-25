@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/07/2019
+ms.date: 01/16/2019
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: f58130b4-b66f-4c9d-bebd-0649988e4473
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 3e5a63e64063e2d325d3be4f1cbe8996ac8c8a77
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 026ba618707c568e21ee71ab16820120aa68dce7
+ms.sourcegitcommit: d52c7fcfae748c8c2be22a8be250525996f83e17
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900733"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "2971324"
 ---
 # <a name="send-a-survey-to-get-responses"></a>Senden Sie eine Umfrage, um Antworten zu erhalten.
 
@@ -39,10 +39,11 @@ In diesem Abschnitt erfahren Sie Folgendes:
 
 - [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)
 - [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)  
-- [Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)  
+- [Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)  
 - [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)  
 - [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)  
 - [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)  
 - [Erstellen Sie eine Umfrageeinladung](create-survey-invite.md)
 - [Einbetten einer Umfrage in Power Apps](embed-survey-powerapps.md)
+- [Anreize für Umfragen anbieten](survey-incentives.md)
 

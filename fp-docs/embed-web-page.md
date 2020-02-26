@@ -13,12 +13,12 @@ ms.assetid: 649b3390-c3a5-4166-a014-ae3cfd14cc71
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 0fcda0c613deb22bfa35f268be5070c89d86224b
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 17b2988a617338a14da4ff21c0825d2ea98a2145
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900381"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966354"
 ---
 # <a name="embed-a-survey-in-a-webpage"></a>Eine Umfrage in einer Webseite einbetten
 
@@ -105,7 +105,7 @@ Die vorhergehende Methode ruft die Funktion `renderSurvey` auf und übergibt die
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>
 [Einbetten einer Umfrage in Power Apps](embed-survey-powerapps.md)

@@ -13,12 +13,12 @@ ms.assetid: 50d49fc4-7894-4350-98ba-98c1331811fc
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 90b08cc1271878fd07b9868e3e3e3ca3fb1596e7
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 394ce6a95559b3606c63f5a2917405fa099b4cf7
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900689"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966310"
 ---
 # <a name="share-a-survey-for-collaborating"></a>Teilen Sie eine Umfrage für die Zusammenarbeit.
 
@@ -28,7 +28,7 @@ Microsoft Forms Pro zeigt auch Beitragssymbole neben jedem Abschnitt, der gerade
 
 1.  Öffnen Sie die Umfrage, die Sie für die Zusammenarbeit freigeben möchten.
 
-2.  Wählen Sie die Schaltfläche **Auslassungspunkte** (...) in der Symbolleiste oben auf der Seite und dann **Share**.
+2.  Wählen Sie die Auslassungspunkte-Schaltfläche **(...)** in der Symbolleiste oben auf der Seite und wählen Sie dann **Freigeben**.
 
     > [!div class=mx-imgBorder]
     > ![Teilen Sie die Umfrage](media/share-survey.png "Umfrage teilen")

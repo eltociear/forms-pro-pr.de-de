@@ -6,23 +6,39 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/06/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6104FBF8-A032-4155-805B-4B5B5D00B30F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 4964aef7c78a20684a82612e69f0d6d2a8ce3885
-ms.sourcegitcommit: a6837875271c04d3210c1b4a4a79ed3277054be0
+ms.openlocfilehash: e0fe937db7fe0b39db69bbe8ade1ed3ad6df8f56
+ms.sourcegitcommit: d52c7fcfae748c8c2be22a8be250525996f83e17
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "2907060"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "2971368"
 ---
 # <a name="whats-new-in-microsoft-forms-pro"></a>Neuerungen in Microsoft Forms Pro
 
 Willkommen bei Microsoft Forms Pro. Die nachstehende Liste enthält die vor Kurzem hinzugefügten oder aktualisierten Funktionen.
+
+## <a name="january-2020-update"></a>Aktualisierung Januar 2020
+
+Die folgenden Berechtigungen sind neu oder wurden in dieser Version geändert:
+
+- **Markieren Sie textbasierte Fragen für die Stimmungsanalyse**: Sie können nun die erforderlichen textbasierten Fragen für die Analyse der Stimmung auf der Grundlage der Antworten markieren. Mehr Informationen: [Stimmungen aus Antworten auf textbasierte Fragen berechnen](create-new-survey.md#calculate-sentiments-from-responses-to-text-based-questions)
+
+- **Antworten auf Text mit regulärem Ausdruck validieren**: Sie können jetzt Antworten auf die textbasierten Fragen gemäß dem definierten regulären Ausdruck validieren. Weitere Informationen: [Einschränkungen in textbasierten Fragen hinzufügen](create-new-survey.md#add-restrictions-in-text-based-questions)
+
+- **Übersetzung der Umfrage am Stück hinzufügen**: Sie können jetzt Übersetzungen der Umfrage am Stück für alle Sprachen hinzufügen, die einer Umfrage hinzugefügt wurden. Weitere Informationen: [Erstellen Sie eine mehrsprachige Umfrage](create-multilingual-survey.md)
+
+- **Zusätzliche Status für Umfrageeinladungen**: Neue Status werden hinzugefügt, um anzuzeigen, ob die Umfrageeinladungen gestartet oder gelesen werden. Mehr Informationen: [Einladungen zu Umfragen analysieren](analyze-survey-invitations.md)
+
+- **Ort einer eingebetteten Umfrage in E-Mail angeben**: Sie können jetzt Umfragevariablen verwenden, um den Ort einer mehrsprachigen Umfrage anzugeben, die in einer E-Mail eingebettet ist. Mehr Informationen: [Betten Sie eine Umfrage in eine E-Mail ein](send-survey-email.md#embed-a-survey-in-an-email)
+
+- **Formatierung zu zusätzlichen Umfrageelementen hinzufügen**: Sie können jetzt Formatierungen zu Abschnittsüberschrift, Abschnittsbeschreibung, Dankesnachricht und Fußzeilentext hinzufügen. Weitere Informationen: [Text in einer Umfrage formatieren](survey-text-format.md)
 
 ## <a name="december-2019-update"></a>Updates für Dezember 2019
 

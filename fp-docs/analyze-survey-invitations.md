@@ -6,23 +6,23 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 12/07/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: efa240ce-9ef0-40e6-b634-143a347201e9
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 18d757f96fa436af4847438c94d3aa1c132b3253
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: d9f143e4e17f441c84897f185f3f1621bc518b2d
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2899977"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965826"
 ---
 # <a name="analyze-survey-invitations"></a>Umfrageeinladungen analysieren
 
-Für jede versendete Umfrage-E-Mail wird ein Umfrage-Einladungsdatensatz erstellt, entweder manuell oder mit Power Automate. Um die Einladungen zu einer Umfrage anzuzeigen, die mit einer Umfrage verknüpft sind, gehen Sie zu **Antworten** &gt; **Übersicht**, und wählen Sie dann **Einladungen** aus den zusammengefassten Informationen.
+Für jede versendete Umfrage-E-Mail wird ein Einladungsdatensatz erstellt, entweder manuell oder mit Microsoft Power Automate. Um die Einladungen zu einer Umfrage anzuzeigen, die mit einer Umfrage verknüpft sind, gehen Sie zu **Antworten** &gt; **Übersicht**, und wählen Sie dann **Einladungen** aus den zusammengefassten Informationen.
 
 > [!div class=mx-imgBorder]
 > ![Umfrageeinladungen](media/survey-invites.png "Umfrageeinladungen")
@@ -40,6 +40,9 @@ Die folgenden Statistiken zu Umfrageeinladungen werden in einem Übersichtsfenst
   - **Fehlgeschlagen**: Die E-Mail mit der Einladung zur Umfrage wurde aufgrund einer falschen E-Mail-Adresse oder eines anderen Fehlers nicht an den Empfänger gesendet.
   - **Hat geantwortet**: Der Empfänger hat auf die Umfrage geantwortet.
   - **Abbestellt**: Der Empfänger hat den Empfang der umfragebezogenen E-Mails abbestellt.
+  - **Lesen**: Die Umfrageeinladungs-E-Mail wird gelesen oder geöffnet.
+  - **Gestartet**: Die Umfrage wurde vom Empfänger gestartet, ist aber noch nicht abgeschlossen.
+  - **Verzögert**: Es gibt eine gewisse Verzögerung bei der Zustellung der Umfrageeinladungs-E-Mail und wird wiederholt.
 
 - **Einladungstrend**: Ein Liniendiagramm, das die Verteilung der Trends bei der Einladung zur Umfrage zeigt.
 
@@ -58,7 +61,7 @@ Sie können die Einladungen wie folgt filtern:
 
 ## <a name="export-survey-invitations"></a>Einladungen zu Umfragen exportieren
 
-Sie können eine einzelne Umfrageeinladung oder mehrere Umfrageeinladungen auf Microsoft Excel exportieren. Um Umfrageeinladungen zu exportieren, wählen Sie die gewünschte(n) Einladung(en) aus und wählen Sie dann **Export** im Abschnitt **Einladungsdetails**.
+Sie können eine einzelne Umfrageeinladung oder mehrere Umfrageeinladungen nach Excel exportieren. Um Umfrageeinladungen zu exportieren, wählen Sie die gewünschte(n) Einladung(en) aus und wählen Sie dann **Export** im Abschnitt **Einladungsdetails**.
 
 Jede Einladungseigenschaft ist eine Spalte, und jede Einladung wird zu einer Zeile in der Excel-Arbeitsmappe.
 

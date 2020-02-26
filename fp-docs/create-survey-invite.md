@@ -6,23 +6,23 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 11/04/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 8579EFA2-7734-4516-ACFA-F65999983379
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: d4d2b2fe06213418892f33dcb70add4a8df36433
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 748fba463625ebde2b8a72548b74424f82c1f340
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900285"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966178"
 ---
 # <a name="create-a-survey-invitation"></a>Erstellen einer Umfrageeinladung
 
-Wenn Sie eine Umfrage über eine andere Plattform als Microsoft Forms Pro senden möchten – z. B. Outlook, Gmail oder SMS – können Sie mit Power Automate eine Umfrageeinladung erstellen. Die Umfrageeinladung erstellt einen personalisierten Link, der über die Plattform Ihrer Wahl verteilt werden kann.
+Wenn Sie eine Umfrage über eine andere Plattform als Microsoft Forms Pro&mdash;senden möchten – z. B. Outlook, Gmail oder SMS&mdash;können Sie mit Power Automate eine Umfrageeinladung erstellen. Die Umfrageeinladung erstellt einen personalisierten Link, der über die Plattform Ihrer Wahl verteilt werden kann.
 
 1. Melden Sie sich bei [flow.microsoft.com](https://flow.microsoft.com) an.
 
@@ -35,7 +35,7 @@ Wenn Sie eine Umfrage über eine andere Plattform als Microsoft Forms Pro senden
 5. Wählen Sie in den Suchergebnissen **Microsoft Forms Pro**.
 
     > [!div class=mx-imgBorder]
-    > ![Auswählen von Microsoft Forms Pro-Connector](media/search-connector.png "Auswählen von Microsoft Forms Pro-Connector")  
+    > ![Auswählen von Microsoft Forms Pro-Connector](media/search-connector.png "Aktivieren Sie den Microsoft Forms Pro Konnektor")  
 
 6. Wählen Sie die Aktion **Eine Einladung erstellen (Vorschau)**.
 
@@ -50,16 +50,16 @@ Wenn Sie eine Umfrage über eine andere Plattform als Microsoft Forms Pro senden
     - **Empfängerdetails**: Geben Sie einen Kontakt an, um Ihre Umfrageeinladungs- und Antwortdatensätze einander zuzuordnen. Dieser Wert wird im Feld **An** der Umfrageeinladung gespeichert. In diesem Feld wird nur der Kontaktdatensatz unterstützt.
 
     > [!NOTE]
-    > - Wenn Sie Ihre Umfrageeinladung und -antwort mit Common Data Service verknüpfen möchten, müssen Sie in den Feldern **Betreff** und **Empfängerdetails** entsprechend Werte eingeben. Weitere Informationen zu den Feldern **Betreff** und **Empfängerdetails** und wie sie in der Umfrageeinladung gespeichert sind, finden Sie unter [Senden einer Umfrageaktion](send-survey-microsoft-flow.md#send-a-survey-action).
+    > - Wenn Sie Ihre Umfrageeinladung und -antwort mit Common Data Service verknüpfen möchten, müssen Sie in den Feldern **Betreff** und **Empfängerdetails** entsprechend Werte eingeben. Weitere Informationen zu den Feldern **Betreff** und **Empfängerdetails** und wie sie in der Umfrageeinladung gespeichert sind, finden Sie unter [Senden einer Umfrageaktion](send-survey-flow.md#send-a-survey-action).
     > - Wenn Sie in Ihrer Umfrage Umfragevariablen verwendet haben, sind sie in dieser Aktion sichtbar und Sie können die Werte entsprechend angeben. Mehr Informationen: [Werte in einem Flow angeben](personalize-survey.md#specify-values-in-a-flow)
 
 8. Fügen Sie einen neuen Schritt hinzu und wählen Sie dann die Aktion zum Senden der E-Mail aus. Sie können Anbieter wie Outlook, Gmail oder SMS verwenden; wir haben Outlook verwendet, um die Umfrage in dieser Prozedur zu senden.
 
-9. Geben Sie in der Aktion **Eine E-Mail senden** die folgenden Informationen ein:
+9. In der Aktion **E-Mail senden** gehen Sie wie folgt vor:
 
-    - **An**: E-Mail-Adresse des Empfängers.
-    - **Betreff**: Betreff der E-Mail.
-    - **Body**: Geben Sie den gewünschten Text ein und fügen Sie **Einladungslink** dynamische Inhalte hinzu.
+    - **An**: Geben Sie die E-Mail-Adresse des Empfängers ein.
+    - **Betreff**: Geben Sie den Betreff der E-Mail ein.
+    - **Text**: Geben Sie den gewünschten Text für den Textkörper der E-Mail ein, und fügen Sie den dynamischen Inhalt des **Einladungslinks** hinzu.
 
     Nach Eingabe der erforderlichen Angaben sieht der Fluss wie in der folgenden Abbildung dargestellt aus:
 
@@ -72,7 +72,7 @@ Wenn Sie eine Umfrage über eine andere Plattform als Microsoft Forms Pro senden
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>

@@ -13,12 +13,12 @@ ms.assetid: de861eb8-b373-43b9-a1be-34d43c74349e
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 9243da14cb74b26be3f962270f0b5e228b6796c4
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: 79cb7e862d1f157fdd012251637378c7adf80295
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900865"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966574"
 ---
 # <a name="send-a-survey-link-to-others"></a>Einen Umfrage-Link an andere senden
 
@@ -40,7 +40,7 @@ Wenn Sie nicht über die E-Mail-Adressen der Personen verfügen, die Sie Ihre Um
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>
 [Einbetten einer Umfrage in Power Apps](embed-survey-powerapps.md)

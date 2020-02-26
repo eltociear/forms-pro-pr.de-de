@@ -13,12 +13,12 @@ ms.assetid: F5543364-ADB8-465D-96A6-81B2C840299F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 19c4dfc0548d3a2d673a4d43d383de40aaa7da90
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: e3ef260e6765e19338be71d3ea124c38615cc933
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900513"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2965914"
 ---
 # <a name="embed-a-survey-in-power-apps"></a>Einbetten einer Umfrage in Power Apps
 
@@ -70,7 +70,7 @@ Sie können Ihre Umfragen in die Canvas-Apps einbetten, indem Sie Power Apps ver
 
 [Arbeiten Sie mit den Umfrageeinstellungen](invite-settings.md)<br>
 [Senden Sie eine Umfrage per E-Mail](send-survey-email.md)<br>
-[Senden Sie eine Umfrage mit Power Automate](send-survey-microsoft-flow.md)<br>
+[Senden Sie eine Umfrage mit Power Automate](send-survey-flow.md)<br>
 [Eine Umfrage in einer Webseite einbetten](embed-web-page.md)<br>
 [Senden Sie einen Umfrage-Link an andere](send-survey-link.md)<br>
 [Senden Sie eine Umfrage QR-Code](send-survey-qrcode.md)<br>

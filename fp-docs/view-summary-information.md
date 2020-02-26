@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 11/04/2019
+ms.date: 01/16/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 2a379963-6fb9-41cd-ae21-83d32a84a6d1
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 1895f3bee666e5f92c68f25b60bfe31ccdcb3d52
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: e9e3af050d22f105b2198dddf5bd556e2321b95f
+ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2901349"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "2966486"
 ---
 # <a name="view-summary-information-for-your-survey"></a>Zusammenfassung der Informationen für Ihre Umfrage anzeigen
 
@@ -39,7 +39,7 @@ Die folgenden Statistiken werden angezeigt:
     
     NPS wird berechnet, indem der Prozentsatz der Kritiker vom Prozentsatz der Promotoren abgezogen wird.
 
-- **Stimmung**: Durchschnittliche Stimmung der Befragten: positiv, neutral oder negativ.
+- **Stimmung**: Durchschnittliche Stimmung der Befragten: positiv, neutral oder negativ. Weitere Informationen zur Stimmungsberechnung finden Sie unter [Stimmungen aus Antworten auf textbasierte Fragen berechnen ](create-new-survey.md#calculate-sentiments-from-responses-to-text-based-questions).
 
 - **Neueste Erkenntnisse**: Korrelation und Stimmung werden basierend auf den Antworten der Umfrage angezeigt.
 

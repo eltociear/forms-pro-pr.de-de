@@ -6,23 +6,33 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 01/16/2020
+ms.date: 02/21/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6104FBF8-A032-4155-805B-4B5B5D00B30F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: e0fe937db7fe0b39db69bbe8ade1ed3ad6df8f56
-ms.sourcegitcommit: d52c7fcfae748c8c2be22a8be250525996f83e17
+ms.openlocfilehash: 38c95624ebc9fb87a1c5c3cfbe6d0ab320f666ae
+ms.sourcegitcommit: 6985a371ee96bc2bb56fa68b7d1771da1e5b3ba6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "2971368"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080972"
 ---
 # <a name="whats-new-in-microsoft-forms-pro"></a>Neuerungen in Microsoft Forms Pro
 
 Willkommen bei Microsoft Forms Pro. Die nachstehende Liste enthält die vor Kurzem hinzugefügten oder aktualisierten Funktionen.
+
+## <a name="february-2020-update"></a>Update Februar 2020
+
+Die folgenden Berechtigungen sind neu oder wurden in dieser Version geändert:
+
+- **Fortschrittsbalken anzeigen**: Für mehrseitige Umfragen wird jetzt ein Fortschrittsbalken angezeigt. Es zeigt Ihren Befragten den Prozentsatz der Seiten, die bisher fertiggestellt wurden. Mehr Informationen: [Fügen Sie einen Fortschrittsbalken hinzu](invite-settings.md#add-a-progress-bar)
+
+- **Unterstützung für Fragen zur Smiley-Bewertung**: Sie können Ihrer Umfrage jetzt eine Bewertungsfrage hinzufügen, die Smileysymbole verwendet. Mehr Informationen: [Entscheiden Sie, welche Arten von Fragen gestellt werden sollen](plan-survey.md#decide-the-question-type)
+
+- **Verbesserung der Einbettung einer Umfrage in E-Mails**: Zusätzlich zu Fragen zur Bewertung und zum Net Promoter Score können Sie die Choice-Frage jetzt auch in eine E-Mail-Nachricht einbetten. Mehr Informationen: [Betten Sie eine Umfrage in eine E-Mail ein](send-survey-email.md#embed-survey-in-an-email)
 
 ## <a name="january-2020-update"></a>Aktualisierung Januar 2020
 

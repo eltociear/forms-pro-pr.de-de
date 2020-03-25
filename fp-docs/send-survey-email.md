@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 01/16/2020
+ms.date: 02/24/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: c5d53c06-299d-43bc-a7ac-e6185c9695e3
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 641916fec7c54fa0de8a870910ee75cbc555d347
-ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
+ms.openlocfilehash: 7bf609261c6808328031ef8afd35f3a91fa6ac68
+ms.sourcegitcommit: b67bc5a218afc5d99d49aad2ea10dfd68c8dc338
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "2965870"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "3094354"
 ---
 # <a name="send-a-survey-by-using-email"></a>Senden Sie eine Umfrage per E-Mail.
 
@@ -44,8 +44,6 @@ Nachdem Sie eine Umfrage erstellt haben, können Sie diese per E-Mail versenden 
 7. Informationen zum Einbetten der ersten Frage der Umfrage in Ihre E-Mail-Nachricht finden Sie unter [Betten Sie eine Umfrage in eine E-Mail ein](#embed-survey-in-an-email).
 
 8.  Um eine E-Mail-Vorlage auszuwählen, wählen Sie eine Vorlage aus der Dropdown-Liste **Vorlage**. Standardmäßig ist **Standardvorlage** ausgewählt. Mehr Informationen: [E-Mail-Vorlagen verwenden](#use-email-templates)
-
-8.  Informationen zum Anpassen des Absenders der Umfrage-E-Mail finden Sie unter [Passen Sie die E-Mail-Adresse des Absenders an](#customize-sender-email-address).
 
 9.  Wenn Sie bereit sind, Ihre Umfrage zu senden, wählen Sie **Senden**.
 
@@ -76,13 +74,14 @@ Um eine neue Variable zu erstellen, wählen Sie **Neue Variable** aus der Liste 
 
 ## <a name="embed-a-survey-in-an-email"></a>Betten Sie eine Umfrage in eine E-Mail ein
 
-Wenn Sie eine Frage zur Bewertung oder zum Netto-Promoter-Score als erste Frage in Ihrer Umfrage hinzugefügt haben, können Sie sie in Ihre E-Mail-Nachricht einbetten. Um die Frage einzubetten, wählen Sie **Einbetten erste Frage**. Wenn Sie eine Frage einbetten, wird der Text in der E-Mail-Nachricht durch die Frage ersetzt. Wenn ein Beantworter eine Option zur Beantwortung der Frage auswählt, wird die gesamte Umfrage in einem Webbrowser geöffnet und der Beantworter kann mit dem Ausfüllen der Umfrage fortfahren.
+Wenn Sie als erste Frage in Ihrer Umfrage eine Frage zur Auswahl (Einzelantwort), Bewertung (Stern- oder Smileysymbol) oder Net Promoter Score hinzugefügt haben, können Sie diese in Ihre E-Mail-Nachricht einbetten. Um die Frage einzubetten, wählen Sie **Einbetten erste Frage**. Wenn Sie eine Frage einbetten, wird der Text in der E-Mail-Nachricht durch die Frage ersetzt. Wenn ein Beantworter eine Option zur Beantwortung der Frage auswählt, wird die gesamte Umfrage in einem Webbrowser geöffnet und der Beantworter kann mit dem Ausfüllen der Umfrage fortfahren.
 
 > [!div class=mx-imgBorder]
 > ![Betten Sie eine Umfrage in eine E-Mail ein](media/embed-ques-email.png "Betten Sie eine Umfrage in eine E-Mail ein")
 
 > [!NOTE]
-> Sie können keine Frage in eine E-Mail einbetten, wenn Sie das Mischen von Fragen in der Umfrage aktiviert haben.
+> - Sie können eine Frage nicht in eine E-Mail einbetten, wenn Sie das Mischen von Fragen in der Umfrage aktiviert haben.
+> - Wenn Sie eine eingebettete Umfrage in einer E-Mail über Power Automate senden möchten, müssen Sie die Frage in eine E-Mail einbetten und als neue E-Mail-Vorlage speichern. Während Sie einen Flow konfigurieren, müssen Sie die neue E-Mail-Vorlage auswählen. Mehr Informationen: [E-Mail-Vorlagen verwenden](#use-email-templates)
 
 Wenn Sie eine mehrsprachige Umfrage erstellt haben, können Sie Umfragevariablen verwenden, um das Standardgebietsschema für die Anzeige der Umfrage festzulegen. Um das Standardgebietsschema festzulegen, öffnen Sie den Bereich **Umfragevariablen** und geben Sie dann einen Wert für die Variable **Lokalisierung** an. Der Wert muss ein Sprachcode sein, z. B. **en** oder **fr**.
 
@@ -106,101 +105,6 @@ Sie können diese Aktionen auf einer E-Mail-Vorlage durchführen:
 > [!NOTE]
 > - Sie können maximal 10 E-Mail-Vorlagen speichern.
 > - Wenn eine E-Mail-Vorlage Umfragevariablen enthält, die nicht Teil der Umfrage sind, wird oben auf der Seite eine Fehlermeldung angezeigt, und Sie können die Umfrage nicht per E-Mail oder Microsoft senden Power Automate. Die Umfragevariablen werden rot hervorgehoben. Sie müssen diese hervorgehobenen Variablen aus der E-Mail-Nachricht entfernen, bevor Sie die Umfrage senden können.
-
-<a name="customize-sender-email-address"></a>
-
-## <a name="customize-the-senders-email-address"></a>Passen Sie die E-Mail-Adresse des Senders an
-
-Mithilfe der Anpassungsfunktion können Sie eine E-Mail-Adresse auswählen, die der Marke Ihres Unternehmens entspricht. Sie können sich an den Microsoft-Support wenden, um den von Forms Pro bereitgestellten Speicherort zu erfahren, um anschließend CNAME-Datensätze manuell zu erstellen. Die CNAME-Datensätze werden für die DKIM-Authentifizierung verwendet. Sie müssen zwei CNAME-Einträge pro benutzerdefinierter Domäne erstellen. Anschließend können Sie die E-Mail-Adresse anpassen, mit der die Umfrageeinladung an Ihre Befragten gesendet wird.
-
-1. Melden Sie sich mit Ihren Administrator-Anmeldeinformationen beim [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support) an.
-
-2. Wählen Sie **Hilfe + Support** > **Neue Supportanfragen** aus. Das Support-Anfrageformular wird im rechten Bereich angezeigt.
-
-3. Geben Sie die Produktdetails wie folgt an:
-
-    - **Produkt**: **Dynamics 365 Customer Engagement**
-    - **Problemtyp**: **Forms Pro**
-    - **Umgebung**: Geben Sie die Common Data Service-Umgebung ein, oder wählen Sie sie aus
-
-4. Wählen Sie **Lösungen anzeigen** aus.
-
-5. Wählen Sie **Erstellen Sie eine Supportanfrage** aus, und geben Sie dann Details wie folgt an:
-
-    - **Problemtitel**: Passen Sie die Absender-E-Mail-Adresse an, um Umfrageeinladungen zu senden
-    - **Fehlerbeschreibung** : Geben Sie Ihre Problembeschreibung ein und fragen Sie nach dem von Forms Pro bereitgestellten Speicherort.
-    - **Wie schwer ist dieses Problem?**: Wählen Sie den Schweregrad des Problems.
-
-6. Wählen Sie **Weiter**.
-
-7. Geben Sie Ihre Kontaktinformationen ein, und wählen Sie dann **Senden** aus. Mit dem Microsoft-Support Team wird ein Ticket erstellt, das Sie über den bereitgestellten Speicherort informiert.
-
-8.  Nachdem Sie den bereitgestellten Speicherort erhalten haben, erstellen Sie zwei CNAME-Datensätze in Ihrer Domäne im folgenden Format:
-
-    ``` text
-    Host name:                    selector1._domainkey
-    Points to address or value:   selector1<domainGUID>.marketing.dynamics.com
-    TTL:                          3600 
-    Host name:                    selector2._domainkey
-    Points to address or value:   selector2<domainGUID>.marketing.dynamics.com
-    TTL:                          3600
-    ```
-
-    > [!IMPORTANT]
-    > Wenn Ihre benutzerdefinierte Domäne `contoso.com` lautet, ist die domainGuid `contosocom`. Sie müssen Punkte, Unterstriche und Bindestriche entfernen.
-    > Die Auswahlmöglichkeiten richten sich nach dem von Forms Pro bereitgestellten Speicherort:
-    > - Für Nordamerika (NAM) lautet die Auswahl "fpnamkey1" oder "fpnamkey2".
-    > - Für Europa (EUR) lautet die Auswahl "fpeurkey1" oder "fpeurkey2".
-
-    Nehmen wir an, Ihr von Forms Pro bereitgestellter Speicherort ist Nordamerika (NAM), und Sie haben zwei benutzerdefinierte Domänen: `contoso.com` und `contososuites.com`. Sie müssen wie folgt zwei CNAME-Einträge pro Domain einrichten (insgesamt vier CNAME-Einträge):
-
-    ``` text
-    Host name:                    fpnamkey1._domainkey
-    Points to address or value:   fpnamkey1contosocom.marketing.dynamics.com
-    TTL:                          3600 
-    Host name:                    fpnamkey2._domainkey
-    Points to address or value:   fpnamkey2contosocom.marketing.dynamics.com
-    TTL:                          3600
-    Host name:                    fpnamkey1._domainkey
-    Points to address or value:   fpnamkey1contososuitescom.marketing.dynamics.com
-    TTL:                          3600
-    Host name:                    fpnamkey2._domainkey
-    Points to address or value:   fpnamkey2contososuitescom.marketing.dynamics.com
-    TTL:                          3600
-    ```
-
-9.  Wenden Sie sich an den Microsoft-Support, und geben Sie die folgenden Informationen an:
-
-    - Eine Liste der E-Mail-Adressen, die Sie erstellen möchten, z. B. support@contoso.com und noreply@contososuites.com.
-    - Eine Liste der Benutzer, die die Umfrageeinladungen mithilfe der benutzerdefinierten E-Mail senden.
-
-    Basierend auf den bereitgestellten Informationen überprüft der Microsoft-Support die Datensätze und erstellt die DKIM-Schlüssel zum Signieren der E-Mails. Sie erhalten vom Microsoft-Support eine Bestätigung, dass die Datensatzüberprüfung abgeschlossen ist.
-
-    > [!NOTE]
-    > Das SLA für die Erstellung von DKIM-Schlüsseln beträgt mindestens 3 bis 4 Wochen.
-
-10. Melden Sie sich bei Forms Pro an und öffnen Sie die den Bereich **Einstellungen**. Wählen Sie die benutzerdefinierte E-Mail-Adresse an, die Sie verwenden möchten.  
-
-    > [!div class=mx-imgBorder]
-    > ![Benutzerdefinierte E-Mail-Einstellung](media/custom-email-setting.png "Benutzerdefinierte E-Mail-Einstellung")
-
-    Verwenden Sie die benutzerdefinierte E-Mail, während Sie die Umfrageeinladung senden.
-
-    > [!div class=mx-imgBorder]
-    > ![Benutzerdefinierte Absender-E-Mail](media/custom-from-email.png "Benutzerdefinierte Absender-E-Mail")
-
-    > [!NOTE]
-    > Im Power Automate wird die benutzerdefinierte E-Mail-Adresse aus den Umfrageeinstellungen ausgewählt.
-
-### <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
-
-#### <a name="should-the-email-account-be-a-functioning-account-or-can-it-be-a-dummy-account"></a>Sollte das E-Mail-Konto ein funktionierendes Konto sein oder kann es ein Dummy-Konto sein?
-
-Das E-Mail-Konto muss nicht funktionsfähig sein, um E-Mails zu senden. Es muss jedoch ein Postfach konfiguriert werden, wenn für das Konto Antworten erwartet werden. In den meisten Fällen ist die E-Mail-Adresse, von der Umfrage-E-Mails gesendet werden, ein nicht überwachtes E-Mail-Konto und muss keine E-Mails empfangen.
-
-#### <a name="how-long-does-it-take-for-setup-to-be-completed"></a>Wie lange dauert es, bis das Setup abgeschlossen ist?
-
-Es dauert mindestens 3 bis 4 Wochen, bis die Einrichtung abgeschlossen ist. Nachdem der Microsoft-Support bestätigt hat, dass die Domain aktiv ist, können Sie mithilfe der benutzerdefinierten E-Mail mit dem Senden von Umfrageeinladungen beginnen.
 
 ### <a name="see-also"></a>Siehe auch
 

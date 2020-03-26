@@ -6,19 +6,19 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 01/16/2020
+ms.date: 02/21/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 1f6ec6f5-b3d2-4305-8dca-3a0b67a1083c
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: cc5a4ba380f2067396289aeb10e1860aa5de03b3
-ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
+ms.openlocfilehash: f7f46613778928fd665ec002848ef94e2930a971
+ms.sourcegitcommit: 6985a371ee96bc2bb56fa68b7d1771da1e5b3ba6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "2966398"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3081016"
 ---
 # <a name="work-with-survey-settings"></a>Arbeiten mit Umfrage-Einstellungen
 
@@ -102,6 +102,21 @@ Sie können ein Datum, eine Anzahl von Antworten oder einen Zeitraum angeben, na
 > ![Antwortoptionen für Umfragen](media/invite-settings-options.png "Antwortoptionen für Umfragen")
 
 Sie können die Authentifizierungseinstellungen jederzeit ändern, auch nach der Verteilung der Umfrage per E-Mail oder über andere Kanäle.
+
+## <a name="add-a-progress-bar"></a>Einen Fortschrittsbalken hinzufügen
+
+Ein Fortschrittsbalken zeigt Ihren Befragten den Prozentsatz der Seiten an, zu denen sie bisher navigiert oder die sie sich angesehen haben. Sie gibt ihnen eine Vorstellung davon, wie weit sie gekommen sind und wie weit sie noch gehen müssen. Der Fortschrittsbalken berücksichtigt alle Seiten in der Umfrage. Wenn Seiten aufgrund einer Verzweigungsregel übersprungen wurden, zeigt der Fortschrittsbalken den angepassten Abschlussprozentsatz an. Der Fortschrittsbalken wird nur angezeigt, wenn es zwei oder mehr Seiten in der Umfrage gibt.
+
+Sie können die Anzeige des Fortschrittsbalkens steuern, indem Sie in den Umfrageeinstellungen das Kontrollkästchen **Fortschrittsbalken anzeigen** markieren oder deaktivieren. Bei Umfragen, die nach der Version Februar 2020 erstellt wurden, ist dieses Kontrollkästchen standardmäßig aktiviert. Bei Umfragen, die vor der Version Februar 2020 erstellt wurden, müssen Sie das Kontrollkästchen **Fortschrittsbalken anzeigen** aktivieren.
+
+> [!div class=mx-imgBorder]
+> ![Fortschrittsbalken-Einstellung](media/progress-bar-setting.png "Fortschrittsbalken-Einstellung")
+
+Der Fortschrittsbalken wird auf der rechten Seite der Schaltflächen auf der Umfrage angezeigt.
+
+> [!div class=mx-imgBorder]
+> ![Fortschrittsleiste einer Umfrage](media/progress-bar.png "Fortschrittsbalken bei einer Umfrage")
+
 
 ## <a name="work-with-personalized-links"></a>Arbeit mit personalisierten Links
 

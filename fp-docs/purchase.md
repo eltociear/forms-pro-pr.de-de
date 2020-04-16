@@ -14,11 +14,11 @@ ms.custom: ''
 search.appverid:
 - FPR160
 ms.openlocfilehash: 0e122c182f2f43910e17ae311abe8b2c6e63d234
-ms.sourcegitcommit: d52c7fcfae748c8c2be22a8be250525996f83e17
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "2971280"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161385"
 ---
 # <a name="purchase-microsoft-forms-pro"></a>Kauf von Microsoft Forms Pro
 
@@ -79,13 +79,13 @@ Microsoft Forms Pro steht allen Benutzern zur Verfügung, die über eine Unterne
 5.  Auf der Seite **Produktlizenzen** drehen Sie für die folgenden Produkte den Schalter **Microsoft Forms Pro** auf **Aus**:
     - Microsoft Forms Pro for Sales Enterprise
     - Microsoft Forms Pro for Customer Service Enterprise
-    - Microsoft Forms Pro für Field Service
+    - Microsoft Forms Pro for Field Service
     - Microsoft Forms Pro for Marketing USL
     - Microsoft Forms Pro for Talent
-    - Microsoft Forms Pro für Projekt-Service-Automatisierung
+    - Microsoft Forms Pro for Project Service Automation
     - Microsoft Forms Pro for Customer Engagement Plan
     - Microsoft Forms Pro for Operations
-    - Microsoft Forms Pro für Verkaufsbeziehung
+    - Microsoft Forms Pro for Relationship Sales
 
 ### <a name="enable-microsoft-forms-pro-for-a-user-without-a-dynamics-365-enterprise-license"></a>Aktivieren Sie Microsoft Forms Pro für einen Benutzer ohne Unternehmenslizenz von Dynamics 365.
 

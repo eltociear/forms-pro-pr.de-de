@@ -14,11 +14,11 @@ ms.custom: ''
 search.appverid:
 - FPR160
 ms.openlocfilehash: 027fcb19c98c85a7da0819169abbf7bf31bbe383
-ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "2966002"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161389"
 ---
 # <a name="personalize-a-survey"></a>Personalisieren einer Umfrage
 

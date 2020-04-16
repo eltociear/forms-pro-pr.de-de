@@ -14,11 +14,11 @@ ms.custom: ''
 search.appverid:
 - FPR160
 ms.openlocfilehash: cabab20b5905ba32ff78097158592fb6824c01d8
-ms.sourcegitcommit: b67bc5a218afc5d99d49aad2ea10dfd68c8dc338
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "3094310"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161390"
 ---
 # <a name="plan-to-create-a-survey"></a>Planen Sie die Erstellung einer Umfrage.
 

@@ -6,23 +6,31 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 applies_to: ''
-ms.date: 02/21/2020
+ms.date: 03/24/2020
 ms.service: forms-pro
 ms.topic: article
 ms.assetid: 6104FBF8-A032-4155-805B-4B5B5D00B30F
 ms.custom: ''
 search.appverid:
 - FPR160
-ms.openlocfilehash: 38c95624ebc9fb87a1c5c3cfbe6d0ab320f666ae
-ms.sourcegitcommit: 6985a371ee96bc2bb56fa68b7d1771da1e5b3ba6
+ms.openlocfilehash: dfbe978cfc0d40da0516caff87e2de629422d592
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080972"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161266"
 ---
 # <a name="whats-new-in-microsoft-forms-pro"></a>Neuerungen in Microsoft Forms Pro
 
 Willkommen bei Microsoft Forms Pro. Die nachstehende Liste enthält die vor Kurzem hinzugefügten oder aktualisierten Funktionen.
+
+## <a name="march-2020-update"></a>Update März 2020
+
+Die folgenden Berechtigungen sind neu oder wurden in dieser Version geändert:
+
+- **Passen Sie Forms Pro-Entitäten an** : Mit dem neuesten Update der Forms Pro-Lösung (Version 1.23.0.0) können jetzt alle Forms Pro-Entitäten angepasst werden. Sie können jetzt neue Felder in den Entitäten hinzufügen. Wenn Sie eine frühere Version der Lösung verwenden, können Sie die Lösung [Hier](https://appsource.microsoft.com/product/dynamics-365/mscrm.shimla?tab=Overview) aktualisieren. Weitere Informationen: [Entitätsreferenz für Microsoft Forms Pro](developer/forms-pro-reference.md)
+
+- **Einbetten gespeichert in Common Data Service**: Code einbetten wird jetzt in der Umfrageentität in Common Data Service gespeichert. Sie können den Einbettungscode von der Entität erhalten, um die Umfrage in Ihre Website einzubetten. Weitere Informationen: [msfp_survey Entitätsreferenz](developer/reference/entities/msfp_survey.md)
 
 ## <a name="february-2020-update"></a>Update Februar 2020
 

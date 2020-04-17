@@ -14,11 +14,11 @@ ms.custom: ''
 search.appverid:
 - FPR160
 ms.openlocfilehash: 743f5b74e3451030020a32dcfd548be44ae2f420
-ms.sourcegitcommit: f99b529d74a96beb8121df5344f40479619875ea
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "2966090"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161388"
 ---
 # <a name="create-a-new-survey"></a>Erstellen einer neuen Umfrage
 

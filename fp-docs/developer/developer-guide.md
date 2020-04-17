@@ -6,7 +6,7 @@ author: susikka
 ms.author: susikka
 manager: shujoshi
 applies_to: ''
-ms.date: 04/29/2019
+ms.date: 03/24/2020
 ms.service: forms-pro
 ms.topic: reference
 ms.assetid: 0CCDE7D8-E6D8-4892-B293-A4F39DEE4B06
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 search.appverid:
 - FPR160
-ms.openlocfilehash: 302ec28c746fbd19dcda7cdce61872107d52dee6
-ms.sourcegitcommit: 2b2ffca387514568ff95dd1e566ba1850a416744
+ms.openlocfilehash: f8d8ac0dec1a82345ee630d641e9c0ce34510000
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "2900363"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161244"
 ---
 # <a name="developer-guide-for-microsoft-forms-pro"></a>Entwickleranleitung für Microsoft Forms Pro
 
@@ -39,6 +39,7 @@ Willkommen zur Microsoft Forms Pro Entwickleranleitung.
 <li><a href="reference/entities/msfp_questionresponse.md">msfp_questionresponse</a></li>
 <li><a href="reference/entities/msfp_survey.md">msfp_survey</a></li>
 <li><a href="reference/entities/msfp_surveyinvite.md">msfp_surveyinvite</a></li>
+<li><a href="reference/entities/msfp_surveyresponse.md">msfp_surveyresponse</a></li>
 <li><a href="reference/entities/msfp_unsubscribedrecipient.md">msfp_unsubscribedrecipient</a></li>
 </td></tr>
 </table>

@@ -14,11 +14,11 @@ ms.custom: ''
 search.appverid:
 - FPR160
 ms.openlocfilehash: f7f46613778928fd665ec002848ef94e2930a971
-ms.sourcegitcommit: 6985a371ee96bc2bb56fa68b7d1771da1e5b3ba6
+ms.sourcegitcommit: 38563d8ed7de1c1d1d54c2b5cbd2d46c52c2478a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3081016"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3161386"
 ---
 # <a name="work-with-survey-settings"></a>Arbeiten mit Umfrage-Einstellungen
 

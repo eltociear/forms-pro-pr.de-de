@@ -74,7 +74,7 @@ In Forms Pro haben wir automatisierte Maschinenüberprüfungen aktiviert, um bö
 
 ### <a name="survey-designer-experience"></a>Umfragedesignerumgebung
 
-Wenn Sie eine Umfrage entworfen haben, die Fragen enthält, bei denen ein Befragter sein Kennwort, seine Kontoinformationen oder andere Sicherheitsinformationen angeben muss, wird die Umfrage automatisch blockiert und kann nicht verteilt werden. Der Administrator erhält eine Benachrichtigung und eine Option zum Entsperren der Umfrage. Wenn die Sie die Umfrage verteilen möchten, müssen Sie Ihren Admnistrator kontaktieren, damit er sie entsperrt.
+Wenn Sie eine Umfrage entworfen haben, die Fragen enthält, bei denen ein Befragter sein Kennwort, seine Kontoinformationen oder andere Sicherheitsinformationen angeben muss, wird die Umfrage automatisch blockiert und kann nicht verteilt werden. Der Administrator erhält eine Benachrichtigung und eine Option zum Entsperren der Umfrage. Wenn die Sie die Umfrage verteilen möchten, müssen Sie Ihren Administrator kontaktieren, damit er sie entsperrt.
 
 ### <a name="administrator-experience"></a>Administratorerfahrung
 
